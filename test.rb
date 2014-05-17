@@ -2,64 +2,60 @@
 
 require 'mysql'
 
-data = {
-  'deputados'=>{:fields=>['id_deputado', 'nome_completo', 'sexo', 'uf',
-                          'partido_atual', 'profissao', 'eleicao_ocupacao',
-                          'eleicao_grau_instrucao', 'eleicao_partido',
-                          'situacao', 'data_nascimento', 'data_falecimento'],
-                          :opts=>"id_deputado >= 0"},
-}
+data = ['id_deputado', 'nome_completo', 'sexo', 'uf', 'partido_atual',
+        'profissao', 'eleicao_ocupacao', 'eleicao_grau_instrucao',
+        'eleicao_partido', 'situacao', 'data_nascimento', 'data_falecimento']
 
-relations = {
-  :profissao=>{:table=>'profissoes',
-               :read=>'profissao',
-               :from=>'id_profissao',
-               :return=>'nome_profissao'},
-  :eleicao_ocupacao=>{:table=>'profissoes',
-               :read=>'id_profissao',
-               :return=>'nome_profissao'},
-  'profissoes'=>{['id_profissao', 'nome_profissao']},
-  'partidos'=>{:fields=>['id_partido', 'nome_partido']},
-  'deputados_legislaturas'=>{:fields=>['id_deputado', 'ano_inicio']},
-  'deputados_partidos'=>{:fields=>['id_deputado', 'data_saida']},
-  'despesas_cota'=>{:fields=>['id_centro_custo', 'valor_documento',
-                              'valor_glosa', 'valor_liquido']},
-  'centros_custos'=>{:fields=>['id_centro_custo', 'id_deputado'],
-                     :opts=>"id_deputado IS NOT NULL"},
-  'graus_instrucao'=>{:fields=>['id_grau', 'descricao']}
-
-
-basic_cols = ['id_deputado', 'nome_completo', 'sexo', 'uf',
-      'partido_atual', 'profissao', 'eleicao_ocupacao',
-      'eleicao_grau_instrucao', 'eleicao_partido', 'situacao']
-special_cols = ['idade', 'vivo', 'ano_inicio', 'data_saida_partido',
-      'despesas_documento', 'despesas_glosa', 'despesas_liquido']
+basic_cols = ['id_deputado', 'nome_completo', 'sexo', 'uf', 'partido_atual',
+              'profissao', 'eleicao_ocupacao', 'eleicao_grau_instrucao',
+              'eleicao_partido', 'situacao', 'data_nascimento',
+              'data_falecimento']
+special_cols = ['ano_inicio', 'data_saida', 'soma_documento', 'soma_glosa',
+                'soma_liquido']
 
 begin
   puts "Connecting..."
   con = Mysql.new('143.106.45.187', 'hackday', 'hackday', 'dadosabertos', 2306)
   puts "Obtaining deputados"
-  deputados = con.query "SELECT " + data['deputados'].join(',') +
-      " FROM deputados WHERE id_deputado >= 0"
+  cmd = "SELECT " + data.join(',') + " FROM deputados WHERE id_deputado >= 0"
+  puts cmd
+  deputados = con.query "#{cmd}"
 
-  #gastos = con.query "SELECT 
-
+  puts "Opening file"
   File.open('db.csv','w') { |file|
     file.puts (basic_cols + special_cols).join(',')
     deputados.each_hash { |dep|
-      id = dep['id_resultado']
+      id = dep['id_deputado']
       thisrow = {}
       basic_cols.each { |col|
         thisrow[col] = dep[col]
       }
-      thisrow['idade'] = 0 #AQUIAQUIAQUIAIQAIUQAUIQAAIUQU
-      thisrow['vivo'] = true #AQUIAQUIAQUIAIQAIUQAUIQAAIUQU
       thisrow['profissao'] = (con.query "SELECT nome_profissao FROM profissoes WHERE id_profissao = #{dep['profissao']}").fetch_row
-      thisrow['eleicao_ocupacao'] = (con.query "SELECT nome_profissao FROM profissoes WHERE id_profissao = #{dep['eleicao_ocupacao']}").fetch_row
-      thisrow['eleicao_grau_instrucao'] = (con.query "SELECT descricao FROM graus_instrucao WHERE id_grau = #{dep['eleicao_grau_instrucao']}").fetch_row
+      thisrow['eleicao_ocupacao'] = (con.query "SELECT nome_profissao FROM profissoes WHERE id_profissao = #{dep['eleicao_ocupacao']}").fetch_row if dep['eleicao_ocupacao']
+      thisrow['eleicao_grau_instrucao'] = (con.query "SELECT descricao FROM graus_instrucao WHERE id_grau = #{dep['eleicao_grau_instrucao']}").fetch_row if dep['eleicao_grau_instrucao']
 
       thisrow['ano_inicio'] = (con.query "SELECT ano_inicio FROM deputados_legislaturas WHERE id_deputado = #{id}").fetch_row
       thisrow['data_saida'] = (con.query "SELECT data_saida FROM deputados_partidos WHERE id_deputado = #{id}").fetch_row
+
+      soma_doc = 0
+      soma_glosa = 0
+      soma_liq = 0
+      (con.query "SELECT id_centro_custo FROM centros_custos WHERE id_deputado=#{id}").each { |cc|
+        (con.query "SELECT valor_documento,valor_glosa,valor_liquido FROM despesas_cota WHERE id_centro_custo=#{cc[0]}").each { |row|
+          soma_doc += row[0].to_f
+          soma_glosa += row[1].to_f
+          soma_liq += row[2].to_f
+        }
+      }
+      thisrow['soma_documento'] = soma_doc
+      thisrow['soma_glosa'] = soma_glosa
+      thisrow['soma_liquido'] = soma_liq
+
+      out = []
+      (basic_cols + special_cols).each { |col|
+        out << thisrow[col]
+      }
+      file.puts out.join(',')
     }
   }
 rescue Mysql::Error => e
