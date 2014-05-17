@@ -30,12 +30,13 @@ begin
       basic_cols.each { |col|
         thisrow[col] = dep[col]
       }
-      thisrow['profissao'] = (con.query "SELECT nome_profissao FROM profissoes WHERE id_profissao = #{dep['profissao']}").fetch_row
-      thisrow['eleicao_ocupacao'] = (con.query "SELECT nome_profissao FROM profissoes WHERE id_profissao = #{dep['eleicao_ocupacao']}").fetch_row if dep['eleicao_ocupacao']
-      thisrow['eleicao_grau_instrucao'] = (con.query "SELECT descricao FROM graus_instrucao WHERE id_grau = #{dep['eleicao_grau_instrucao']}").fetch_row if dep['eleicao_grau_instrucao']
+      thisrow['eleicao_grau_instrucao'] = (con.query "SELECT descricao FROM graus_instrucao WHERE id_grau = #{dep['eleicao_grau_instrucao']}").fetch_row[0] if dep['eleicao_grau_instrucao']
 
       thisrow['ano_inicio'] = (con.query "SELECT ano_inicio FROM deputados_legislaturas WHERE id_deputado = #{id}").fetch_row
+      thisrow['ano_inicio'] = thisrow['ano_inicio'][0] if thisrow['ano_inicio']
+
       thisrow['data_saida'] = (con.query "SELECT data_saida FROM deputados_partidos WHERE id_deputado = #{id}").fetch_row
+      thisrow['data_saida'] = thisrow['data_saida'][0] if thisrow['data_saida']
 
       soma_doc = 0
       soma_glosa = 0
@@ -55,6 +56,10 @@ begin
       (basic_cols + special_cols).each { |col|
         out << thisrow[col]
       }
+
+      if out.join(',').split(',').length != basic_cols.length + special_cols.length
+        puts "Wrong number of columns"
+      end
       file.puts out.join(',')
     }
   }
