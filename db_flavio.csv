@@ -1,0 +1,1456 @@
+"","id_deputado","receita_total_eleicoes","tipo_receita","nome_parlamentar","uf","partido_atual","profissao","total_bens","tipo_bem","total_despesas_eleicoes","id_municipio","votos","anos","mandatos","causa_fimdescr"
+"1",3151,528811.18,"RECURSOS PRÓPRIOS","Jairo Ataíde","MG","DEM",0,6083420,11,528692.7,3100203,3,,2,"Afastamento"
+"2",3155,97900,"RECURSOS DE PESSOAS FÍSICAS","Bispo Gê Tenuta","SP","DEM",390,331238.29,21,97900,290170,42,2.57084188911704,4,"Afastamento"
+"3",4927,1662921.13,"RECURSOS PRÓPRIOS","Jorginho Maluly","SP","DEM",201,2678217.57,2,1662921.13,3500105,179,3.98357289527721,2,"Afastamento"
+"4",4928,,,"Eduardo Lopes","RJ","PRB",107,,,,,,3.43874058863792,2,"Afastamento"
+"5",4929,154765,"RECURSOS DE PESSOAS JURÍDICAS","Joseph Bandeira","BA","PT",0,,,154751.1,290510,5,0.991101984941821,1,"Afastamento"
+"6",4930,1150060,"RECURSOS DE PESSOAS JURÍDICAS","Silvio Costa","PE","PSC",0,368583,11,1149909.63,260545,3,,1,""
+"7",4931,761944.72,"RECURSOS PRÓPRIOS","Izalci","DF","PSDB",423,6546859.83,12,761530.53,530010,2468,,1,""
+"8",62881,1080918,"RECURSOS DE PESSOAS FÍSICAS","Danilo Forte","CE","PMDB",199,2761664.64,11,1080918,2300101,2,,1,""
+"9",62926,,,"Pastor Reinaldo","RS","PTB",436,,,,,,,,
+"10",64224,,,"Robério Nunes","BA","PFL",436,,,,,,,,
+"11",64960,233820,"RECURSOS DE PESSOAS FÍSICAS","Maria Helena","RR","PSB",194,2363554.56,11,233807.79,1400027,49,3.99726214921287,1,"Término da Legislatura"
+"12",65498,,,"Lucia Vania","GO","PP",436,,,,,,,,
+"13",65511,,,"Miguel Arraes","PE","PSB",436,,,,,,,,
+"14",65551,,,"Wagner Lago","MA","PP",436,,,,,,,,
+"15",65904,,,"Maurilio Ferreira Lima","",,436,,,,,,,,
+"16",65987,,,"Lucia Braga","PB","PDT",436,,,,,,,,
+"17",67138,773180.35,"RECURSOS DE PESSOAS JURÍDICAS","Iracema Portella","PI","PP",340,2519157.82,13,772962.5,220095,453,,1,""
+"18",67836,,,"Luiz Gushiken","SP","PT",436,,,,,,,,
+"19",68731,603259.24,"RECURSOS DE PESSOAS FÍSICAS","Henrique Oliveira","AM","SDD",255,,,719676.9,1300029,9,,1,""
+"20",72553,,,"Gessivaldo Isaias","PI","PMDB",436,,,,,,,,
+"21",73416,1438909.78,"RECURSOS PRÓPRIOS","Nelson Bornier","RJ","PMDB",199,1969050.77,13,1438756.63,3300100,15,1.88364134154689,2,"Afastamento"
+"22",73418,14231.86,"RECURSOS DE PESSOAS FÍSICAS","Noel De Oliveira","",,436,966699.64,12,14231.86,3300100,3,,,
+"23",73420,,,"Roberto Jefferson Monteiro Francisco","RJ","PTB",436,,,,,,,,
+"24",73421,,,"Ronaldo Cezar Coelho","",,436,,,,,,,,
+"25",73422,,,"Rubem Medina","RJ","PFL",436,,,,,,,,
+"26",73424,1035004.99,"RECURSOS PRÓPRIOS","Simão Sessim","RJ","PP",358,985882.5,21,1034981.33,3300100,73,,1,""
+"27",73426,214572.73,"RECURSOS PRÓPRIOS","Adhemar De Barros Filho","",,436,8307234.92,11,214572.73,3500105,2,,,
+"28",73427,,,"Alberto Goldman","SP","PSDB",436,,,,,,,,
+"29",73428,2177724.19,"RECURSOS DE PESSOAS FÍSICAS","Aldo Rebelo","SP","PCDOB",281,1037638.54,12,2159922.2,3500105,78,0.744695414099932,1,"Ministro de Estado"
+"30",73430,,,"Aloysio Nunes Ferreira","SP","PSDB",436,,,,,,,,
+"31",73431,902485.26,"RECURSOS DE PESSOAS JURÍDICAS","Antonio Carlos Pannunzio","SP","PSDB",239,2096055.29,12,902222.68,3500303,2,3.99726214921287,1,"Término da Legislatura"
+"32",73432,,,"Antonio Kandir","SP","PSDB",436,,,,,,,,
+"33",73433,4070616.71,"RECURSOS DE PESSOAS FÍSICAS","Arlindo Chinaglia","SP","PT",196,1476991.53,11,4069516.71,3500105,350,,1,""
+"34",73434,1662817.11,"RECURSOS DE PESSOAS FÍSICAS","Arnaldo Faria De Sá","SP","PTB",343,4449697.9,11,1661313.63,3500105,82,,1,""
+"35",73435,,,"Ary Kara José","SP","PPB",436,,,,,,,,
+"36",73437,1564179.2,"RECURSOS PRÓPRIOS","Beto Mansur","SP","PRB",32,21004188.27,11,1564179.2,3500105,3,,1,""
+"37",73441,,,"Celso Russomanno","SP","PP",147,,,,,,3.99726214921287,1,"Término da Legislatura"
+"38",73442,406777.56,"RECURSOS PRÓPRIOS","Valdemar Corauci Sobrinho","SP","PFL",436,1491552.73,1,406777.56,3500105,2,,,
+"39",73443,,,"Antônio Henrique Bittencourt Cunha Bueno","SP","PPB",436,,,,,,,,
+"40",73445,,,"Delfim Netto","SP","PPB",436,,,,,,,,
+"41",73446,,,"Duilio Pisaneschi","","PTB",436,,,,,,,,
+"42",73447,388255.77,"RECURSOS DE PESSOAS FÍSICAS","Edinho Araújo","SP","PMDB",254,2226222.37,11,376255.77,3500105,15,,1,""
+"43",73448,,,"Eduardo Jorge Martins Alves Sobrinho","SP","PT",436,,,,,,,,
+"44",73451,,,"Carlos Fernando Zuppo Franco","SP","PDT",436,,,,,,,,
+"45",73452,,,"Franco Montoro","SP","PSDB",436,,,,,,,,
+"46",73454,,,"João Grandão E Outros","MS","PT",436,,,,,,,,
+"47",73455,,,"Pedro Pedrossian Filho","MS","PFL",436,,,,,,,,
+"48",73456,,,"Waldemir Moka","MS","PMDB",57,,,,,,3.99726214921287,1,"Término da Legislatura"
+"49",73457,578564.62,"RECURSOS DE PESSOAS JURÍDICAS","Airton Roveda","PR","PR",306,5692443.79,12,578437.03,4100301,7,2.90759753593429,3,"Afastamento"
+"50",73458,1219125,"RECURSOS DE PESSOAS FÍSICAS","Alex Canziani","PR","PTB",111,3124363.56,1,1219125,4100103,13,,1,""
+"51",73459,1127339,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Dr. Rosinha","PR","PT",73,1140253.22,11,1127055.35,4100103,1,,1,""
+"52",73460,,,"Gustavo Fruet","PR","PSDB",199,,,,,,3.99726214921287,1,"Término da Legislatura"
+"53",73461,207999.98,"RECURSOS DE PESSOAS JURÍDICAS","Íris Simões","PR","PR",262,1835617.2,11,207995.17,4100400,17,0.405201916495551,2,"Afastamento"
+"54",73462,,,"José Carlos De Castro Martinez","PR","PTB",436,,,,,,,,
+"55",73463,1004302.13,"RECURSOS PRÓPRIOS","Osmar Serraglio","PR","PMDB",199,3350497,12,1004224.94,4100103,2,,1,""
+"56",73464,578358.66,"RECURSOS PRÓPRIOS","Oliveira Filho","PR","PRB",0,1526483,11,578358.66,4100301,19,0.777549623545517,1,"Afastamento"
+"57",73465,,,"Rafael Greca","PR","PFL",436,,,,,,,,
+"58",73466,383340.26,"RECURSOS DE PESSOAS FÍSICAS","Rubens Bueno","PR","PPS",81,1866237.19,11,383262.11,4100202,13,,1,""
+"59",73467,,,"Joaquim Dos Santos Filho","PR","PFL",436,,,,,,,,
+"60",73468,,,"Antônio Carlos Konder Reis","SC","PFL",436,,,,,,,,
+"61",73469,,,"Carlito Merss","SC","PT",400,,,,,,1.91375770020534,1,"Renúncia"
+"62",73470,,,"Eni Voltolini","SC","PPB",436,,,,,,,,
+"63",73471,,,"Fernando Coruja","SC","PPS",14,,,,,,3.99726214921287,1,"Término da Legislatura"
+"64",73472,681622.76,"RECURSOS PRÓPRIOS","Gervásio Silva","SC","PSDB",70,1526955,13,681588.55,4200051,16,3.99726214921287,1,"Término da Legislatura"
+"65",73473,,,"Leodegar Tiscoski","SC","PPB",436,,,,,,,,
+"66",73474,536387.37,"RECURSOS DE PESSOAS JURÍDICAS","Luci Choinacki","SC","PT",336,386593,12,536386.41,4200051,19,,1,""
+"67",73475,,,"Renato Vianna","SC","PMDB",436,,,,,,,,
+"68",73476,,,"Vicente Augusto Caropreso","SC","PSDB",436,,,,,,,,
+"69",73477,,,"Alceu Collares","RS","PDT",436,,,,,,,,
+"70",73478,1454060.04,"RECURSOS DE PESSOAS JURÍDICAS","Beto Albuquerque","RS","PSB",199,2135966.42,11,1452615.67,4300034,5,,2,"Secretário de Estado"
+"71",73479,,,"Luiz Carlos Repiso Riela","RS","PTB",436,,,,,,,,
+"72",73480,,,"Cezar Schirmer","RS","PMDB",72,,,,,,1.97399041752225,3,"Afastamento"
+"73",73481,432069.07,"RECURSOS PRÓPRIOS","Fernando Marroni","RS","PT",0,375999,12,432069.07,4300034,50,,1,""
+"74",73482,1274952.04,"RECURSOS PRÓPRIOS","Henrique Fontana","RS","PT",376,2114449.06,13,1270899.03,4300034,19,,1,""
+"75",73483,1557728.41,"RECURSOS DE PESSOAS JURÍDICAS","Luis Carlos Heinze","RS","PP",165,4707789.75,11,1555510.87,4300034,68,,1,""
+"76",73484,,,"Marcos Flávio Rolim","RS","PT",436,,,,,,,,
+"77",73485,,,"Paulo José Gouvêa","RS","PL",436,,,,,,,,
+"78",73486,,,"Pompeo De Mattos","RS","PDT",144,,,,,,3.99726214921287,1,"Término da Legislatura"
+"79",73487,,,"Roberto Argenta","RS","PHS",436,,,,,,,,
+"80",73488,,,"Synval Sebastião Duarte Guazzelli","RS","PMDB",436,,,,,,,,
+"81",73489,402756.1,"RECURSOS PRÓPRIOS","Waldir Schmidt","RS","PMDB",436,179020,21,402524.3,4300059,2,,,
+"82",73490,,,"Ricarte De Freitas","MT","PTB",199,,,,,,0.334017796030116,1,"Afastamento"
+"83",73491,,,"Pedro Bittencourt","",,436,,,,,,,,
+"84",73492,403820,"RECURSOS PRÓPRIOS","Antonio Carlos Biscaia","RJ","PT",4,1599438,11,403399.46,3300100,28,2.31074606433949,2,"Afastamento"
+"85",73507,935957.72,"RECURSOS DE PARTIDO POLÍTICO","Rose De Freitas","ES","PMDB",42,2370039.84,11,935627.94,3200102,6533,,1,""
+"86",73531,214324.25,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Ivan Valente","SP","PSOL",384,1049528,11,214304.94,3500105,58,,1,""
+"87",73532,,,"Jair Antonio Meneguelli","SP","PT",436,,,,,,,,
+"88",73533,,,"Joao Mellao Neto","",,436,,,,,,,,
+"89",73534,4074314.52,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","João Paulo Cunha","SP","PT",263,891574.52,12,4069510.2,3500105,555,,1,""
+"90",73535,1051103,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Jorge Tadeu Mudalen","SP","DEM",201,6320112.88,2,1050797.59,3500105,69,,1,""
+"91",73536,3651052.55,"RECURSOS DE PESSOAS JURÍDICAS","José Aníbal","SP","PSDB",142,2035382.32,11,3650957.77,3500105,6,0.0054757015742642,1,"Secretário de Estado"
+"92",73538,,,"Jose Coimbra","SP","PTB",436,,,,,,,,
+"93",73539,22788.4,"RECURSOS PRÓPRIOS","José Masci De Abreu","SP","PSDB",436,895625.86,1,22788.4,3500303,1,,,
+"94",73540,2206552.78,"RECURSOS DE PESSOAS FÍSICAS","José Genoíno","SP","PT",81,538290.8,12,2206464.27,3500105,35,0.700889801505818,1,"Licença para Tratamento de Saúde"
+"95",73541,,,"Jose Machado","SP","PT",436,,,,,,,,
+"96",73542,,,"Dr. Pinotti","SP","DEM",196,,,,,,3.46064339493498,3,"Secretário de Estado"
+"97",73544,,,"Koyu Iha","",,436,,,,,,,,
+"98",73545,,,"Luciano Zica","SP","PT",436,,,,,,,,
+"99",73546,,,"Luiz Carlos Santos","SP","PFL",436,,,,,,,,
+"100",73547,,,"Maluly Netto","",,436,,,,,,,,
+"101",73548,,,"Marcelo Fortes Barbieri","SP","PMDB",436,,,,,,,,
+"102",73552,,,"Michel Temer","SP","PMDB",290,,,,,,3.90965092402464,1,"Renúncia"
+"103",73553,2379233.66,"RECURSOS PRÓPRIOS","Nelson Marquezelli","SP","PTB",399,11111256.92,11,2379233.66,3500105,108,,1,""
+"104",73554,,,"Paulo César Marques De Velasco","SP","PRONA",436,,,,,,,,
+"105",73555,1392077.33,"RECURSOS DE PESSOAS FÍSICAS","Paulo Lima","SP","PMDB",359,32470217.84,11,1392077.33,3500105,1312,0.618754277891855,2,"Afastamento"
+"106",73556,721052.84,"RECURSOS DE PESSOAS JURÍDICAS","Regis De Oliveira","SP","PSC",210,3286375.44,11,721052.84,3500105,84,3.99726214921287,1,"Término da Legislatura"
+"107",73557,,,"Ricardo Izar","SP","PTB",199,,,,,,1.24845995893224,1,"Falecimento"
+"108",73558,2584408.94,"RECURSOS DE PESSOAS JURÍDICAS","Robson Tuma","SP","DEM",206,17262025.46,11,2584408.94,3500105,13,0.0574948665297741,1,"Término da Legislatura"
+"109",73559,647496.63,"RECURSOS DE PESSOAS JURÍDICAS","Salvador Zimbaldi","SP","PROS",170,2679231.38,1,647394.62,3500105,5,,1,""
+"110",73560,1552679.1,"RECURSOS DE PESSOAS JURÍDICAS","Silvio Torres","SP","PSDB",232,6992515.23,11,1551650.4,3500105,3214,0.0054757015742642,2,"Secretário de Estado"
+"111",73561,,,"Telma De Souza","SP","PT",307,,,,,,0.0739219712525667,1,"Término da Legislatura"
+"112",73563,,,"Ushitaro Kamia","SP","PSB",436,,,,,,,,
+"113",73564,745243.43,"RECURSOS DE PESSOAS JURÍDICAS","Vadão Gomes","SP","PP",75,195528154.63,2,740150.82,3500105,29,3.99726214921287,1,"Término da Legislatura"
+"114",73565,1048921.19,"RECURSOS DE PARTIDO POLÍTICO","Valdemar Costa Neto","SP","PR",40,3596313.96,12,1043448.13,3500105,176,,1,""
+"115",73566,,,"Vicente Cascione","SP","PTB",436,,,,,,,,
+"116",73567,,,"Wagner Rossi","SP","PMDB",436,,,,,,,,
+"117",73568,176954.62,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Celso Jacob","RJ","PMDB",0,2285861.53,11,176954.62,3300100,5,,2,"Afastamento"
+"118",73569,858638.46,"RECURSOS PRÓPRIOS","Jorge Pinheiro","GO","PRB",172,379750,13,858589.34,5200050,53,0.473648186173854,1,"Afastamento"
+"119",73570,,,"Ivanio Guerra","PR","PFL",436,,,,,,,,
+"120",73571,,,"Osvaldo Sobrinho","",,436,,,,,,,,
+"121",73572,,,"João Magno","MG","PT",436,,,,,,,,
+"122",73573,,,"Yvonilton Gonçalves","BA","PFL",436,,,,,,,,
+"123",73574,,,"Reginaldo Germano","BA","PFL",436,,,,,,,,
+"124",73575,,,"Joel De Hollanda","PE","PFL",436,,,,,,,,
+"125",73576,,,"Paulo De Almeida","RJ","PFL",436,,,,,,,,
+"126",73577,,,"Tarcísio Zimmermann","RS","PT",230,,,,,,1.91649555099247,1,"Renúncia"
+"127",73578,,,"Ricardo Maranhão","","PSB",436,,,,,,,,
+"128",73579,,,"Alberto Fraga","DF","DEM",77,,,,,,1.34976043805613,6,"Secretário de Estado"
+"129",73580,,,"Ricardo Noronha","",,436,,,,,,,,
+"130",73581,,,"Aloízio Santos","",,436,,,,,,,,
+"131",73582,,,"Helenildo Ribeiro","AL","PSDB",436,,,,,,,,
+"132",73583,,,"Carlos Cury","RO","PPB",436,,,,,,,,
+"133",73584,2418257.89,"RECURSOS DE PESSOAS JURÍDICAS","Antonio Carlos Mendes Thame","SP","PSDB",382,4167261.34,2,2418257.89,3500105,104,,1,""
+"134",73585,,,"Clovis Volpi","",,436,,,,,,,,
+"135",73586,1673694.5,"RECURSOS DE PESSOAS JURÍDICAS","Júlio Delgado","MG","PSB",417,997745,12,1672643.29,3100104,2,,1,""
+"136",73587,,,"José Aleksandro","AC","PSL",436,,,,,,,,
+"137",73588,563780,"RECURSOS DE PESSOAS JURÍDICAS","Mauro Benevides","CE","PMDB",183,1738099.42,11,562064.51,2300101,8,,1,""
+"138",73589,,,"Antonio Jose Mota","CE","PMDB",436,,,,,,,,
+"139",73591,,,"Renato Silva","",,436,,,,,,,,
+"140",73592,,,"Kátia Abreu","TO",,436,,,,,,,,
+"141",73593,,,"Rainel Barbosa","TO","PMDB",436,,,,,,,,
+"142",73594,747126.67,"RECURSOS DE PESSOAS JURÍDICAS","Nilmar Ruiz","TO","PEN",283,1078636.31,11,747126.67,1700251,11,0.594113620807666,1,"Afastamento"
+"143",73595,,,"Chico Sardelli","SP","PFL",436,,,,,,,,
+"144",73596,,,"Saulo Coelho","",,436,,,,,,,,
+"145",73599,,,"Edir Oliveira","RS","PTB",372,,,,,,0.0766598220396988,1,"Afastamento"
+"146",73601,,,"Moacir Piovesan","PR","PDT",436,,,,,,,,
+"147",73602,,,"Manoel Vitório","",,436,,,,,,,,
+"148",73603,,,"Orlando Fantazzini","SP","PT",436,,,,,,,,
+"149",73612,149625,"RECURSOS DE PESSOAS FÍSICAS","Paulo Rattes","RJ","PMDB",0,358223.87,19,149625,3300100,1,1.35797399041752,2,"Afastamento"
+"150",73643,,,"Wagner Amaral Salustiano","SP","PPB",436,,,,,,,,
+"151",73644,,,"Welson Gasparini","","PPR",436,,,,,,,,
+"152",73645,,,"Zulaie Cobra","SP","PSDB",436,,,,,,,,
+"153",73646,,,"Antônio Joaquim","MT","PDT",436,,,,,,,,
+"154",73651,,,"Rogerio Silva","MT","PP",116,,,,,,0.402464065708419,2,"Afastamento"
+"155",73652,,,"Aparecida Maria Borges Bezerra","MT","PMDB",436,,,,,,,,
+"156",73653,2916277.55,"RECURSOS PRÓPRIOS","Wellington Fagundes","MT","PR",223,10275865.56,12,2916277.55,510452,24,,1,""
+"157",73654,,,"Agnelo Santos Queiroz Filho","DF","PCDOB",436,,,,,,,,
+"158",73655,358728,"RECURSOS PRÓPRIOS","Augusto Carvalho","DF","SDD",0,539628,12,358728,530010,1836,,5,"Afastamento"
+"159",73658,,,"Jofran Frejat","DF","PR",196,,,,,,3.99726214921287,1,"Término da Legislatura"
+"160",73659,,,"Maria Laura","",,436,,,,,,,,
+"161",73660,,,"Osório Adriano","DF","DEM",137,,,,,,2.97056810403833,2,"Afastamento"
+"162",73661,,,"Wigberto Tartuce","DF","PPB",436,,,,,,,,
+"163",73662,,,"Aldo Arantes","GO","PCDOB",436,,,,,,,,
+"164",73666,2320351.01,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Jovair Arantes","GO","PTB",2,3681018,12,2319585.26,5200050,488,,1,""
+"165",73667,,,"Lidia Quinan","GO","PSDB",436,,,,,,,,
+"166",73672,,,"Pedro Canedo","","PSDB",436,,,,,,,,
+"167",73673,,,"Pedro Wilson","GO","PT",433,,,,,,3.99726214921287,1,"Término da Legislatura"
+"168",73674,2398288.5,"RECURSOS DE PESSOAS FÍSICAS","Roberto Balestra","GO","PP",138,5137784.85,12,2394776.39,5200050,21,,1,""
+"169",73676,4866458.06,"RECURSOS DE PESSOAS JURÍDICAS","Sandro Mabel","GO","PMDB",399,74751243.06,11,4866458.06,5200050,188,,1,""
+"170",73677,1689405.1,"RECURSOS DE PESSOAS FÍSICAS","Vilmar Rocha","GO","PSD",264,1584278.78,19,1687295.49,5200050,24,0.082135523613963,5,"Secretário de Estado"
+"171",73678,,,"Zé Gomes Da Rocha","GO","PMDB",436,,,,,,,,
+"172",73679,,,"Andre Puccinelli","MS","PMDB",436,,,,,,,,
+"173",73680,,,"Dilso Sperafico","",,436,,,,,,,,
+"174",73681,,,"Ariston Andrade","",,436,,,,,,,,
+"175",73682,833395.4,"RECURSOS DE PESSOAS FÍSICAS","João Dado","SP","SDD",102,3432962.49,11,867376.51,3500105,35,,1,""
+"176",73683,,,"Ary José Vanazzi","RS","PT",436,,,,,,,,
+"177",73684,,,"Orlando Desconsi","RS","PT",436,,,,,,,,
+"178",73685,,,"Divaldo Suruagy","AL","PST",436,,,,,,,,
+"179",73686,,,"Ana Corso","RS","PT",436,,,,,,,,
+"180",73687,,,"Tânia Soares","SE","PCDOB",436,,,,,,,,
+"181",73688,,,"Kincas Mattos","",,436,,,,,,,,
+"182",73689,,,"Clovis Ilgenfritz","RS","PT",436,,,,,,,,
+"183",73690,,,"José Elízio Andrade","RN","PDT",436,,,,,,,,
+"184",73691,,,"Haroldo Bezerra","",,436,,,,,,,,
+"185",73692,674609.2,"RECURSOS DE PESSOAS JURÍDICAS","Osmar Terra","RS","PMDB",196,307109.09,11,674608.04,4300034,43,,1,""
+"186",73693,,,"Reinaldo Gripp","RJ","PL",436,,,,,,,,
+"187",73696,,,"Angela Amin","SC","PP",284,,,,,,3.99726214921287,1,"Término da Legislatura"
+"188",73701,822867.52,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Benedita Da Silva","RJ","PT",352,1280829,11,822290.5,3300100,51,,1,""
+"189",73716,884879.67,"RECURSOS DE PESSOAS JURÍDICAS","Leomar Quintanilha","TO","PMDB",0,3539669.54,12,884805.07,1700251,8,0.331279945242984,1,"Afastamento"
+"190",73718,,,"Sigmaringa Seixas","",,436,,,,,,,,
+"191",73758,,,"Flávio Augusto Coelho Derzi","MS","PPB",436,,,,,,,,
+"192",73760,,,"Marisa Joaquina Monteiro Serrano","MS","PSDB",436,,,,,,,,
+"193",73761,,,"Nelson Trad","MS","PMDB",290,,,,,,3.99726214921287,1,"Término da Legislatura"
+"194",73762,,,"Oscar Goldoni","","PDT",436,,,,,,,,
+"195",73764,1813728.51,"RECURSOS PRÓPRIOS","Abelardo Lupion","PR","DEM",27,7596231.13,19,1813728.51,4100103,1706,,1,""
+"196",73765,456200,"RECURSOS PRÓPRIOS","Affonso Camargo","PR","PSDB",201,8499192.43,12,455824.39,4100202,3,3.99726214921287,1,"Término da Legislatura"
+"197",73767,,,"Basilio Villani","PR","PPB",436,,,,,,,,
+"198",73768,1085600,"RECURSOS DE PESSOAS JURÍDICAS","Dilceu Sperafico","PR","PP",202,11001239.03,11,1085167.78,4100202,1,,1,""
+"199",73769,,,"Elias Abrahão","PR","PMDB",436,,,,,,,,
+"200",73771,,,"Flavio Arns","PR","PSDB",436,,,,,,,,
+"201",73772,371383.59,"RECURSOS PRÓPRIOS","Hermes Parcianello","PR","PMDB",303,865636,19,371383.59,4100103,1,,1,""
+"202",73773,,,"Homero Oguido","",,436,,,,,,,,
+"203",73775,,,"Jose Borba","PR","PTB",436,,,,,,,,
+"204",73776,,,"José Mohamed Janene","PR","PPB",436,,,,,,,,
+"205",73777,360775.69,"RECURSOS DE PESSOAS JURÍDICAS","Luciano Pizzatto","PR","DEM",0,8112521.8,12,360758.64,4100103,7,0.0027378507871321,1,"Licença Conjunta Consecutiva"
+"206",73778,2440719.66,"RECURSOS DE PESSOAS JURÍDICAS","Luiz Carlos Hauly","PR","PSDB",187,1884927.85,11,2440719.66,4100103,20,,2,"Secretário de Estado"
+"207",73780,,,"Max Rosenmann","PR","PMDB",225,,,,,,1.73032169746749,1,"Falecimento"
+"208",73781,966812.43,"RECURSOS DE PESSOAS JURÍDICAS","Nelson Meurer","PR","PP",367,2107409.51,21,966642.81,4100103,5,,1,""
+"209",73782,2399900,"RECURSOS PRÓPRIOS","Odílio Balbinotti","PR","PMDB",27,17689897.57,11,2399097.31,4100103,1,,1,""
+"210",73783,,,"Roque Zimmermann","PR","PT",436,,,,,,,,
+"211",73784,,,"Paulo Bernardo","PR","PT",436,,,,,,,,
+"212",73786,1028307.99,"RECURSOS DE PESSOAS JURÍDICAS","Reinhold Stephanes","PR","PSD",45,1376608.2,11,1025980.07,4100103,44,2.01779603011636,1,"Secretário de Estado"
+"213",73788,,,"Ricardo Barros","PR","PP",68,,,,,,3.58384668035592,2,"Licença Conjunta Consecutiva"
+"214",73790,,,"Valdomiro Meger","",,436,,,,,,,,
+"215",73791,,,"Vilson Santini","",,436,,,,,,,,
+"216",73792,,,"Werner Wanderer","PR","PFL",436,,,,,,,,
+"217",73793,764757.76,"RECURSOS DE PESSOAS JURÍDICAS","Edinho Bez","SC","PMDB",21,5552496.69,11,764642.79,4200051,4,,1,""
+"218",73794,,,"Edison Adrião Andrino De Oliveira","SC","PMDB",436,,,,,,,,
+"219",73795,,,"Hugo Biehl","SC","PPB",436,,,,,,,,
+"220",73801,,,"Renildo Calheiros","PE","PCDOB",399,,,,,,1.91375770020534,1,"Renúncia"
+"221",73805,1624608.27,"RECURSOS DE PESSOAS JURÍDICAS","Roberto Freire","SP","PPS",199,849344.48,11,1587834.84,3500105,35,,1,""
+"222",73808,123617.31,"RECURSOS PRÓPRIOS","Sérgio Brito","BA","PSD",381,2064049.95,11,123617.31,290170,2465,,1,""
+"223",73809,93882.34,"RECURSOS PRÓPRIOS","Uldurico Pinto","BA","PHS",196,871327.26,13,93882.34,290170,4,3.8466803559206,2,"Afastamento"
+"224",73817,348319.37,"RECURSOS DE PESSOAS FÍSICAS","Antonio Cruz","MS","PP",196,1474155,12,348319.37,500390,14,3.99726214921287,1,"Término da Legislatura"
+"225",73825,,,"Carlos Frederico Theodoro Nader","RJ","PFL",436,,,,,,,,
+"226",73827,,,"Edmundo Galdino","TO","PSDB",436,,,,,,,,
+"227",73828,,,"Dr. Gomes","AM","PFL",436,,,,,,,,
+"228",73829,,,"Paulo Lessa","RJ","PPB",436,,,,,,,,
+"229",73832,,,"Crescêncio Pereira Jr. E Outros","CE","PFL",436,,,,,,,,
+"230",73873,,,"João Matos","SC","PMDB",192,,,,,,3.99726214921287,1,"Término da Legislatura"
+"231",73874,1628994.94,"RECURSOS DE PESSOAS JURÍDICAS","João Pizzolatti","SC","PP",153,2629091.32,11,1628286.46,4200051,7,,1,""
+"232",73875,699510,"RECURSOS DE PESSOAS FÍSICAS","José Carlos Vieira","SC","PR",0,1327766.08,13,699510,4200101,12,1.94934976043806,3,"Afastamento"
+"233",73876,,,"Jose Fritsch","SC","PT",436,,,,,,,,
+"234",73882,,,"Paulo Bauer","SC","PSDB",245,,,,,,0.887063655030801,3,"Secretário de Estado"
+"235",73883,1321936.82,"RECURSOS DE PESSOAS JURÍDICAS","Paulo Bornhausen","SC","PSB",199,1963496.7,11,2941723.14,4200051,1,,3,"Secretário de Estado"
+"236",73884,,,"Paulo Gilberto Gouvêa Da Costa","SC","PFL",436,,,,,,,,
+"237",73885,,,"Antônio Serafim Venzon","SC","PDT",436,,,,,,,,
+"238",73886,,,"Adão Pretto","RS","PT",189,,,,,,2.01232032854209,1,"Falecimento"
+"239",73888,,,"Airton Dipp","RS","PDT",436,,,,,,,,
+"240",73889,,,"João Augusto Ribeiro Nardes","RS","PPB",436,,,,,,,,
+"241",73891,989289,"RECURSOS PRÓPRIOS","Darcísio Perondi","RS","PMDB",196,1620812.52,12,989211.75,4300059,204,,1,""
+"242",73892,1131164.46,"RECURSOS PRÓPRIOS","Eliseu Padilha","RS","PMDB",199,3629525.73,11,1118809.25,4300034,1,,2,"Afastamento"
+"243",73893,325400,"RECURSOS DE PARTIDO POLÍTICO","Enio Bacci","RS","PDT",199,1108686.23,11,325382.02,4300059,59,,1,""
+"244",73894,,,"Esther Grossi","RS","PT",436,,,,,,,,
+"245",73895,,,"Ezidio Pinheiro","RS","PSB",436,,,,,,,,
+"246",73896,,,"Fetter Junior","RS","PPB",436,,,,,,,,
+"247",73897,,,"Germano Rigotto","RS","PMDB",436,,,,,,,,
+"248",73900,,,"Jarbas Lima","RS","PPR",436,,,,,,,,
+"249",73901,,,"Jose Fortunati","RS","PDT",436,,,,,,,,
+"250",73902,,,"Luiz Fernando Mainardi","RS","PT",436,,,,,,,,
+"251",73904,1050725.2,"RECURSOS DE PESSOAS JURÍDICAS","Mendes Ribeiro Filho","RS","PMDB",199,900595.13,19,1050725.2,4300034,71,0.941820670773443,2,"Ministro de Estado"
+"252",73906,,,"Nelson Marchezan","RS","PSDB",436,,,,,,,,
+"253",73907,,,"Nelson Proença","RS","PPS",129,,,,,,3.10746064339493,2,"Secretário de Estado"
+"254",73908,,,"Odacir Klein","",,436,,,,,,,,
+"255",73909,,,"Osvaldo Biolchi","RS","PMDB",0,,,,,,1.1854893908282,3,"Afastamento"
+"256",73910,,,"Paulo Renato Paim","RS","PT",436,,,,,,,,
+"257",73912,,,"Roberto John","PI","PT",436,,,,,,,,
+"258",73913,,,"Guilherme Melo","PI","PPB",436,,,,,,,,
+"259",73920,,,"Dr. Rodolfo Pereira","RR","PDT",436,,,,,,,,
+"260",73921,321500,"RECURSOS DE PESSOAS JURÍDICAS","Pastor Frankembergen","RR","PTB",205,558732,2,321457.65,1400027,173,0.0766598220396988,1,"Término da Legislatura"
+"261",73922,,,"Suely Campos","RR","PP",436,,,,,,,,
+"262",73923,,,"Coronel Alves","AP","PL",436,,,,,,,,
+"263",73924,150000,"RECURSOS DE PESSOAS JURÍDICAS","Davi Alcolumbre","AP","DEM",160,,,150000,1600055,315,,1,""
+"264",73925,,,"Hélio Esteves","AP","PT",436,,,,,,,,
+"265",73926,153800,"RECURSOS DE PESSOAS FÍSICAS","Janete Capiberibe","AP","PSB",0,855984.85,12,153756.08,1600055,64,,1,""
+"266",73927,,,"Antonio Nogueira","AP","PT",436,,,,,,,,
+"267",73928,,,"Ann Pontes","PA","PMDB",194,,,,,,0.164271047227926,1,"Término da Legislatura"
+"268",73929,,,"Jader Barbalho","PA","PMDB",399,,,,,,3.82751540041068,1,"Renúncia"
+"269",73930,498121.2,"RECURSOS PRÓPRIOS","Wladimir Costa","PA","SDD",262,293941,11,498089.97,150475,5,,1,""
+"270",73931,1410262.89,"RECURSOS DE PESSOAS FÍSICAS","Zé Geraldo","PA","PT",189,1500092.49,12,1409608.33,150475,257,,1,""
+"271",73932,,,"Zé Lima","PA","PP",436,,,,,,,,
+"272",73933,572243.95,"RECURSOS DE PESSOAS FÍSICAS","Zequinha Marinho","PA","PSC",294,853570,12,572243.95,150475,219,,1,""
+"273",73934,315140,"RECURSOS DE PARTIDO POLÍTICO","Carlos Souza","AM","PSD",148,855683,11,315097.12,1300029,33,,1,""
+"274",73935,,,"Humberto Michiles","AM","PL",436,,,,,,,,
+"275",73936,,,"Lupércio Ramos","AM","PMDB",281,,,,,,2.02874743326489,1,"Término da Legislatura"
+"276",73937,437312.55,"RECURSOS DE PESSOAS FÍSICAS","Anselmo De Jesus","RO","PT",189,1189907.61,11,437311.9,1100015,76,,1,""
+"277",73938,,,"Eduardo Valverde","RO","PT",341,,,,,,3.66324435318275,2,"Licença Conjunta Consecutiva"
+"278",73939,,,"Miguel De Souza","RO","PL",436,,,,,,,,
+"279",73940,244535.84,"RECURSOS DE PARTIDO POLÍTICO","Henrique Afonso","AC","PV",368,839813.87,12,244534.04,1200013,34,,1,""
+"280",73941,,,"João Correia","AC","PMDB",436,,,,,,,,
+"281",73942,,,"Júnior Betão","AC","PPS",436,,,,,,,,
+"282",73943,413048.2,"RECURSOS PRÓPRIOS","Perpétua Almeida","AC","PCDOB",416,867823,12,413048.2,1200013,188,,1,""
+"283",73944,,,"Zico Bronzeado","AC","PT",436,,,,,,,,
+"284",73945,2105815.95,"RECURSOS PRÓPRIOS","Eduardo Gomes","TO","SDD",377,998865,12,2105815.95,1700251,306,,2,"Secretário de Estado"
+"285",73946,,,"Homero Barreto","TO","PTB",436,,,,,,,,
+"286",73947,130238.57,"RECURSOS DE PESSOAS JURÍDICAS","Maurício Rabelo","TO","PL",436,1742705,11,130238.57,1700251,6,,,
+"287",73948,,,"Ronaldo Dimas","TO","PSDB",436,,,,,,,,
+"288",73979,,,"Alceste Almeida","RR","PMDB",436,,,,,,,,
+"289",73980,,,"Elton Rohnelt","",,436,,,,,,,,
+"290",73981,,,"Francisco Rodrigues","RR","DEM",36,,,,,,3.91512662559891,1,"Renúncia"
+"291",73982,1675250,"RECURSOS PRÓPRIOS","Luciano Castro","RR","PR",85,2336715.37,12,1675250,1400027,221,,1,""
+"292",73983,,,"Luis Barbosa","RR","PFL",436,,,,,,,,
+"293",73984,,,"Moisés Lipnik","RR","PDT",436,,,,,,,,
+"294",73985,,,"Roberio Araujo","RR","PPB",436,,,,,,,,
+"295",73986,,,"Salomão Cruz","RR","PFL",436,,,,,,,,
+"296",73987,38837,"RECURSOS PRÓPRIOS","Antonio Feijão","AP","PTC",0,6188013,12,38837,,,1.14168377823409,2,"Afastamento"
+"297",73989,,,"Telmo Kirst","RS","PPB",436,,,,,,,,
+"298",73990,,,"Waldomiro Fioravante","RS","PT",436,,,,,,,,
+"299",73991,,,"Wilson Cignachi","RS","PMDB",436,,,,,,,,
+"300",73992,,,"Yeda Crusius","RS","PSDB",436,,,,,,,,
+"301",73993,1533181.4,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Arnaldo Madeira","SP","PSDB",157,2434764.32,12,1490021.88,3500303,1,3.99726214921287,1,"Término da Legislatura"
+"302",73994,,,"Júlio Redecker","RS","PSDB",203,,,,,,0.454483230663929,1,"Falecimento"
+"303",73996,,,"Adroaldo Streck","","PSDB",436,,,,,,,,
+"304",73998,,,"Silvio Lopes","RJ","PSDB",159,,,,,,3.99726214921287,1,"Término da Legislatura"
+"305",73999,,,"Alexandre Ceranto","",,436,,,,,,,,
+"306",74000,563421.61,"RECURSOS PRÓPRIOS","Chico Da Princesa","PR","PR",303,3160546.24,13,563421.61,4100103,1146,3.99726214921287,1,"Término da Legislatura"
+"307",74001,,,"Jaime Fernandes","BA","PFL",436,,,,,,,,
+"308",74005,,,"Olavo Calheiros","AL","PMDB",36,,,,,,3.99726214921287,1,"Término da Legislatura"
+"309",74010,559238.22,"RECURSOS PRÓPRIOS","Valdir Colatto","SC","PMDB",36,2879852.16,11,558638.22,4200051,306,,1,""
+"310",74011,,,"Dejandir Dalpasquale","SC","PMDB",436,,,,,,,,
+"311",74014,,,"Alcione Athayde","RJ","PPB",436,,,,,,,,
+"312",74016,419641,"RECURSOS PRÓPRIOS","Costa Ferreira","MA","PSC",134,1320571,11,419565.82,2100055,472,,2,"Afastamento"
+"313",74017,103070.75,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Paulo Feijó","RJ","PR",363,1371699.19,2,103070.75,3300100,3,,1,""
+"314",74018,,,"Albérico Filho","MA","PMDB",170,,,,,,0.358658453114305,1,"Afastamento"
+"315",74021,,,"Nair Xavier Lobo","GO","PMDB",436,,,,,,,,
+"316",74023,,,"Ricardo Feitosa Rique","PB","PMDB",436,,,,,,,,
+"317",74024,,,"Ayrton Xerez","RJ","DEM",0,,,,,,1.71115674195756,1,"Afastamento"
+"318",74026,,,"Clóvis Fecury","MA","DEM",201,,,,,,3.66324435318275,2,"Licença Conjunta Consecutiva"
+"319",74027,329536.5,"RECURSOS DE PESSOAS FÍSICAS","Ribamar Alves","MA","PSB",196,580256.66,12,329506.43,2100055,420,1.56878850102669,2,"Licença Conjunta Consecutiva"
+"320",74028,,,"Luciano Leitoa","MA","PSB",436,,,,,,,,
+"321",74029,,,"Terezinha Fernandes","MA","PT",436,,,,,,,,
+"322",74030,,,"Bismarck Maia","CE","PSDB",436,,,,,,,,
+"323",74031,,,"João Alfredo","CE","PSOL",436,,,,,,,,
+"324",74032,180835.71,"RECURSOS PRÓPRIOS","Pastor Pedro Ribeiro","CE","PR",434,355220.18,13,180835.71,2300101,41,1.79876796714579,1,"Afastamento"
+"325",74033,,,"Francisca Trindade E Maria Do Rosário","PI","PT",436,,,,,,,,
+"326",74034,,,"Moraes Souza","PI","PMDB",436,,,,,,,,
+"327",74035,,,"Promotor Afonso Gil","PI","PCDOB",436,,,,,,,,
+"328",74036,,,"Alvaro Dias","",,436,,,,,,,,
+"329",74037,472742.58,"RECURSOS DE PESSOAS JURÍDICAS","Fátima Bezerra","RN","PT",333,1297112.58,12,472742.58,2400109,1451,,1,""
+"330",74038,,,"Nélio Dias","RN","PP",334,,,,,,0.462696783025325,1,"Falecimento"
+"331",74039,599601,"RECURSOS DE PESSOAS FÍSICAS","Sandra Rosado","RN","PSB",174,865264,11,599588.98,2400109,12,,1,""
+"332",74040,232134.36,"RECURSOS DE PESSOAS FÍSICAS","Benjamin Maranhão","PB","SDD",2,1938351,11,232073.82,251640,1366,,2,"Licença Conjunta Consecutiva"
+"333",74041,514975,"RECURSOS PRÓPRIOS","Luiz Couto","PB","PT",191,211231.84,11,514829.55,251640,140,,1,""
+"334",74042,,,"Ronaldo Cunha Lima","PB","PSDB",199,,,,,,0.744695414099932,1,"Renúncia"
+"335",74043,279823.56,"RECURSOS DE PESSOAS JURÍDICAS","Wellington Roberto","PB","PR",126,4574079.26,11,273468.41,251640,3,,1,""
+"336",74044,,,"Wilson Santiago","PB","PMDB",199,,,,,,3.99726214921287,1,"Término da Legislatura"
+"337",74045,2409272.49,"RECURSOS DE PESSOAS JURÍDICAS","Maurício Rands","PE","PT",199,6964379.22,11,2409272.49,260545,53,1.46475017111567,2,"Secretário de Estado"
+"338",74046,,,"Pastor Francisco Olímpio","PE","PSB",436,,,,,,,,
+"339",74047,133755,"RECURSOS DE PESSOAS FÍSICAS","Paulo Rubem Santiago","PE","PDT",397,359254,11,133748.23,260545,16,,1,""
+"340",74048,,,"Raul Jungmann","PE","PPS",245,,,,,,3.99726214921287,1,"Término da Legislatura"
+"341",74049,982899.25,"RECURSOS PRÓPRIOS","João Lyra","AL","PSD",318,149475644.74,1,982638.63,2700102,520,,1,""
+"342",74050,693516.1,"RECURSOS PRÓPRIOS","Maurício Quintella Lessa","AL","PR",170,750879.92,2,748041.78,2700102,763,,1,""
+"343",74051,,,"Rogério Teófilo","AL","PPS",436,,,,,,,,
+"344",74052,,,"Bosco Costa","SE","PSDB",436,,,,,,,,
+"345",74053,313718.51,"RECURSOS DE PESSOAS FÍSICAS","Heleno Silva","SE","PRB",95,433130,11,313718.51,2800100,9,1.91649555099247,1,"Renúncia"
+"346",74054,,,"João Fontes","SE","PT",436,,,,,,,,
+"347",74055,,,"José Carlos Machado","SE","DEM",68,,,,,,3.99726214921287,1,"Término da Legislatura"
+"348",74056,390132.33,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Mendonça Prado","SE","DEM",199,1102810.37,11,389501.73,2800100,111,,1,""
+"349",74057,889752.76,"RECURSOS DE PESSOAS FÍSICAS","Alice Portugal","BA","PCDOB",268,936473.4,11,900352.76,290170,1,,1,""
+"350",74058,2918881.86,"RECURSOS DE PESSOAS JURÍDICAS","Antonio Carlos Magalhães Neto","BA","DEM",199,3282736.04,11,2918560.59,290170,4,1.91375770020534,1,"Renúncia"
+"351",74059,,,"Luiz Bassuma","BA","PV",291,,,,,,3.99726214921287,1,"Término da Legislatura"
+"352",74060,1052438.48,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Daniel Almeida","BA","PCDOB",339,764833.39,11,1103638.48,290170,7,,1,""
+"353",74061,,,"Edson Duarte","BA","PV",123,,,,,,3.99726214921287,1,"Término da Legislatura"
+"354",74062,820793.5,"RECURSOS DE PESSOAS JURÍDICAS","Fábio Souto","BA","DEM",45,6479044.21,11,820733.76,290330,11,,1,""
+"355",74063,,,"Fernando De Fabinho","BA","DEM",93,,,,,,3.99726214921287,1,"Término da Legislatura"
+"356",74065,386568.17,"RECURSOS DE PESSOAS FÍSICAS","Fátima Pelaes","AP","PMDB",230,842057.33,12,386534.49,1600055,47,,1,""
+"357",74066,,,"Gervásio Oliveira","AP","PMDB",436,,,,,,,,
+"358",74069,,,"Sergio Barcellos","AP","PFL",436,,,,,,,,
+"359",74070,,,"Valdenor Guedes","AP","PSC",436,702172,11,,,,,,
+"360",74072,,,"Anivaldo Vale","PA","PPR",436,,,,,,,,
+"361",74075,634765,"RECURSOS DE PESSOAS FÍSICAS","Elcione Barbalho","PA","PMDB",56,6668402.88,1,634765,150475,11,,1,""
+"362",74076,510669.33,"RECURSOS DE PESSOAS JURÍDICAS","Gerson Peres","PA","PP",309,3674509.54,11,510580.1,150475,35,3.99726214921287,1,"Término da Legislatura"
+"363",74077,487750,"RECURSOS DE PESSOAS FÍSICAS","Giovanni Queiroz","PA","PDT",247,11680815,2,487683.32,150475,71,,1,""
+"364",74079,268514.5,"RECURSOS PRÓPRIOS","José Priante","PA","PMDB",199,907033.11,11,268466.79,150475,821,,1,""
+"365",74080,,,"Nicias Lopes Ribeiro","PA","PSDB",436,,,,,,,,
+"366",74082,,,"Paulo Rocha","PA","PT",209,,,,,,3.99726214921287,1,"Término da Legislatura"
+"367",74084,,,"Raimundo Santos","PA","PL",436,,,,,,,,
+"368",74085,,,"Socorro Gomes","PA","PCDOB",436,,,,,,,,
+"369",74087,,,"Vic Pires Franco","PA","DEM",271,,,,,,3.99726214921287,1,"Término da Legislatura"
+"370",74089,,,"Arthur Virgílio Do Carmo Ribeiro Neto","AM","PSDB",436,,,,,,,,
+"371",74090,388900,"RECURSOS PRÓPRIOS","Átila Lins","AM","PSD",280,2155637,11,386537.95,1300029,1019,,1,""
+"372",74091,,,"Euler Ribeiro","",,436,,,,,,,,
+"373",74093,,,"José Melo","AM","PFL",436,,,,,,,,
+"374",74094,731462.22,"RECURSOS DE PESSOAS JURÍDICAS","Dr. Luiz Fernando","AM","PSD",0,346266,12,731462.22,1300029,37,,1,""
+"375",74095,1957497.92,"RECURSOS DE PESSOAS FÍSICAS","Pauderney Avelino","AM","DEM",94,2302570.31,12,1957143.33,1300029,247,1.92470910335387,1,"Secretário de Prefeitura de Capital"
+"376",74097,,,"Confúcio Aires Moura","RO","PMDB",436,,,,,,,,
+"377",74099,,,"Euripedes Miranda","RO","PT",0,,,,,,0.410677618069815,2,"Afastamento"
+"378",74100,,,"Expedito Júnior","RO","PL",436,,,,,,,,
+"379",74101,,,"Ildemar Kussler","",,436,,,,,,,,
+"380",74102,,,"Pedro Valadares","SE","DEM",0,,,,,,0.884325804243669,2,"Afastamento"
+"381",74103,514851.25,"RECURSOS PRÓPRIOS","Ariosto Holanda","CE","PROS",86,2484812.17,11,514841.22,2300101,61,,1,""
+"382",74106,48221.25,"RECURSOS PRÓPRIOS","Edson Silva","CE","PROS",217,1128316,11,48221.25,2300101,18,2.26694045174538,2,"Licença Conjunta Consecutiva"
+"383",74108,2878337.64,"RECURSOS DE PESSOAS FÍSICAS","Narcio Rodrigues","MG","PSDB",271,3527572.18,11,2878273.06,3100104,257,,2,"Secretário de Estado"
+"384",74109,,,"Oscar Andrade","RO","PL",436,,,,,,,,
+"385",74111,2041450.2,"RECURSOS DE PESSOAS FÍSICAS","Pedro Henry","MT","PP",196,2609163.17,2,2041450.2,510452,5,,2,"Secretário de Estado"
+"386",74112,,,"Murilo Domingos","MT","PTB",436,,,,,,,,
+"387",74114,,,"Mario Martins","","PMDB",436,,,,,,,,
+"388",74118,110656.66,"RECURSOS PRÓPRIOS","Wilson Leite Passos","RJ","PPB",436,,,110656.66,3300100,6,,,
+"389",74119,618394.32,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Emanuel Fernandes","SP","PSDB",299,898634,11,568060.67,3500105,1,,2,"Secretário de Estado"
+"390",74120,1527255,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","João Magalhães","MG","PMDB",337,713407.18,12,1527197.2,3100104,7,,1,""
+"391",74122,,,"Oswaldo Soler","","PSDB",436,,,,,,,,
+"392",74124,896276.09,"RECURSOS PRÓPRIOS","Marçal Filho","MS","PMDB",0,3421248.03,11,896276.09,500390,1,,1,""
+"393",74125,,,"Jose Lourenço","BA","PPR",436,,,,,,,,
+"394",74127,,,"Djalma De Almeida Cesar","",,436,,,,,,,,
+"395",74129,,,"Moises Bennesby","RO","PSDB",436,,,,,,,,
+"396",74132,,,"Wagner Do Nascimento","MG","PPB",436,,,,,,,,
+"397",74133,825444.71,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Luiz Alberto","BA","PT",65,901621.1,11,825205.99,290170,2,,1,""
+"398",74134,,,"Lamartine Posella","SP","PMDB",436,,,,,,,,
+"399",74136,,,"Antonio Valdeci Oliveira De Oliveira","RS","PT",436,,,,,,,,
+"400",74137,,,"Luiz Eduardo Greenhalgh","SP","PT",436,,,,,,,,
+"401",74138,,,"Etevalda Grassi De Menezes","ES","PTB",436,,,,,,,,
+"402",74139,,,"Guilherme Menezes","BA","PT",196,,,,,,1.91649555099247,1,"Renúncia"
+"403",74140,888659.1,"RECURSOS DE PESSOAS JURÍDICAS","José Carlos Araújo","BA","PSD",301,1696277.98,13,888428.71,290330,1,,1,""
+"404",74141,517419.71,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Josias Gomes","BA","PT",163,466061.69,59,517201.28,290170,10,,1,""
+"405",74142,1152496.71,"RECURSOS DE PESSOAS JURÍDICAS","Luiz Carreira","BA","DEM",44,2102935.5,11,1152375.02,290330,1,3.66050650239562,2,"Licença Conjunta Consecutiva"
+"406",74143,177034.78,"RECURSOS DE PESSOAS JURÍDICAS","Marcelo Guimarães Filho","BA","PMDB",199,1650831.96,11,177025.63,290330,11,0.331279945242984,1,"Afastamento"
+"407",74144,,,"Zelinda Novaes","BA","PFL",436,,,,,,,,
+"408",74145,636166.16,"RECURSOS DE PESSOAS FÍSICAS","Zezéu Ribeiro","BA","PT",117,731094.52,11,636166.16,290170,11,,2,"Secretário de Estado"
+"409",74146,,,"Anderson Adauto","MG","PL",436,,,,,,,,
+"410",74147,,,"Athos Avelino","MG","PPS",436,,,,,,,,
+"411",74148,729125,"RECURSOS PRÓPRIOS","Carlos Willian","MG","PTC",199,3696855,11,729107.02,3100203,15,3.99726214921287,1,"Término da Legislatura"
+"412",74149,,,"César Medeiros","MG","PT",436,,,,,,,,
+"413",74150,,,"Dr. Francisco Gonçalves","MG","PTB",436,,,,,,,,
+"414",74151,891108.36,"RECURSOS DE PESSOAS FÍSICAS","Geraldo Thadeu","MG","PSD",251,2416250.99,11,890941.91,3100104,1,,1,""
+"415",74152,142123.12,"RECURSOS DE PESSOAS JURÍDICAS","Isaias Silvestre","MG","PSB",0,590683,12,141662.11,3100203,4,,1,""
+"416",74153,,,"Ivo José","MG","PT",436,,,,,,,,
+"417",74154,,,"João Paulo Gomes Da Silva","MG","PL",436,,,,,,,,
+"418",74155,,,"Leonardo Mattos","MG","PV",436,,,,,,,,
+"419",74156,1384115.58,"RECURSOS DE PESSOAS FÍSICAS","Leonardo Monteiro","MG","PT",199,441250.24,12,1384115.58,3100203,1,,1,""
+"420",74157,,,"Marcello Siqueira","MG","PMDB",436,,,,,,,,
+"421",74158,1006165.87,"RECURSOS DE PESSOAS FÍSICAS","Mário Heringer","MG","PDT",196,6822565.47,11,1020974.72,3100104,11,,2,"Afastamento"
+"422",74159,2580205.87,"RECURSOS DE PESSOAS JURÍDICAS","Odair Cunha","MG","PT",199,638892,21,2580072.75,3100104,2,,1,""
+"423",74160,,,"Patrus Ananias","MG","PT",436,,,,,,,,
+"424",74161,2028939.79,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Reginaldo Lopes","MG","PT",45,761276.75,12,2017491.48,3100104,1,,1,""
+"425",74162,1832354.52,"RECURSOS PRÓPRIOS","Iriny Lopes","ES","PT",245,526161.19,13,1830719.15,3200102,128,,2,"Ministro de Estado"
+"426",74163,523825.38,"RECURSOS DE PESSOAS FÍSICAS","Manato","ES","SDD",196,2843678.49,11,523738.12,3200102,358,,1,""
+"427",74164,,,"Marcelino Fraga","ES","PMDB",436,,,,,,,,
+"428",74165,,,"Neucimar Fraga","ES","PR",16,,,,,,1.91375770020534,1,"Renúncia"
+"429",74166,,,"Renato Casagrande","ES","PSB",436,,,,,,,,
+"430",74167,,,"Almir Moura","RJ","PL",436,,,,,,,,
+"431",74168,,,"André Luiz","RJ","PMDB",436,,,,,,,,
+"432",74169,1390000,"RECURSOS DE PESSOAS JURÍDICAS","Bernardo Ariston","RJ","PMDB",233,1997141.27,11,1390000,3300100,1,3.99726214921287,1,"Término da Legislatura"
+"433",74170,,,"João Mendes De Jesus","RJ","PDT",436,,,,,,,,
+"434",74171,180986.29,"RECURSOS DE PESSOAS FÍSICAS","Chico Alencar","RJ","PSOL",397,667081,12,180877.08,3300100,216,,1,""
+"435",74172,2322110.97,"RECURSOS DE PESSOAS JURÍDICAS","Deley","RJ","PTB",235,1623011.37,11,2321835.74,3300100,216,,4,"Afastamento"
+"436",74173,4767775.79,"RECURSOS DE PESSOAS JURÍDICAS","Eduardo Cunha","RJ","PMDB",45,2069730,15,4767775.79,3300100,199,,1,""
+"437",74174,,,"Elaine Costa","RJ","PTB",436,,,,,,,,
+"438",74175,,,"José Divino","RJ","PMDB",436,,,,,,,,
+"439",74176,,,"Josias Quintal","RJ","PSB",436,,,,,,,,
+"440",74177,874125.04,"RECURSOS PRÓPRIOS","Marinha Raupp","RO","PMDB",261,2870108.88,11,873858.43,1100015,3905,,1,""
+"441",74181,,,"Chicão Brígido","AC","PMDB",436,,,,,,,,
+"442",74184,,,"Ronivon Santiago","AC","PFL",436,,,,,,,,
+"443",74185,,,"Zila Bezerra","",,436,,,,,,,,
+"444",74186,78231.06,"RECURSOS PRÓPRIOS","Antonio Jorge Godinho","TO","PFL",436,1948602.94,19,78231.06,1700251,2,,,
+"445",74187,262452.75,"RECURSOS PRÓPRIOS","Darci Coelho","TO","PFL",436,502286.15,12,262452.75,1700251,64,,,
+"446",74188,,,"Dolores Nunes","","PP",436,,,,,,,,
+"447",74189,,,"Freire Júnior","TO","PSDB",0,,,,,,0.670773442847365,2,"Afastamento"
+"448",74190,,,"João Ribeiro","TO","PFL",436,,,,,,,,
+"449",74191,788290.45,"RECURSOS DE PESSOAS JURÍDICAS","Osvaldo Reis","TO","PMDB",399,26522548.03,11,788290.45,1700301,3,,1,""
+"450",74192,,,"Paulo Sardinha Mourão","TO","PSDB",436,,,,,,,,
+"451",74193,,,"Udson Bandeira","",,436,,,,,,,,
+"452",74194,,,"Antonio Joaquim","MA","PP",436,,,,,,,,
+"453",74195,,,"Carlos César Branco Bandeira","MA","PFL",436,,,,,,,,
+"454",74196,,,"Davi Alves Silva","","PFL",436,,,,,,,,
+"455",74197,129645.69,"RECURSOS DE PESSOAS FÍSICAS","Domingos Dutra","MA","SDD",199,366145,12,129135.69,2100055,117,,1,""
+"456",74198,,,"Eliseu Moura","MA","PPB",436,,,,,,,,
+"457",74199,,,"Francisco Coelho","MA","PFL",436,,,,,,,,
+"458",74200,953000,"RECURSOS PRÓPRIOS","Gastão Vieira","MA","PMDB",199,792347.19,12,853000,2100055,291,0.621492128678987,1,"Ministro de Estado"
+"459",74207,340641,"RECURSOS PRÓPRIOS","Pedro Novais","MA","PMDB",199,7125486.59,13,340641,2100055,118,,2,"Ministro de Estado"
+"460",74208,,,"Remi Trinta","MA","PST",436,,,,,,,,
+"461",74209,,,"Roberto Rocha","MA","PSDB",40,,,,,,3.99726214921287,1,"Término da Legislatura"
+"462",74210,1144741,"RECURSOS DE PESSOAS JURÍDICAS","Sarney Filho","MA","PV",199,5488589.92,11,1144741,2100055,452,,1,""
+"463",74211,,,"Sebastião Madeira","MA","PSDB",196,,,,,,1.91649555099247,1,"Renúncia"
+"464",74212,970000,"RECURSOS DE PESSOAS JURÍDICAS","Aníbal Gomes","CE","PMDB",41,8364599.36,11,969957.27,2300101,5,,1,""
+"465",74213,1307281.25,"RECURSOS DE PESSOAS JURÍDICAS","Antonio Balhmann","CE","PROS",363,1054430.53,11,1307271.26,2300101,384,,1,""
+"466",74215,,,"Dercio Knop","",,436,,,,,,,,
+"467",74216,616670,"RECURSOS DE PESSOAS JURÍDICAS","Raimundo Gomes De Matos","CE","PSDB",196,1075819.57,11,616666.35,2300101,71,,1,""
+"468",74217,,,"Arlindo Vargas","","PTB",436,,,,,,,,
+"469",74218,,,"Walter Pinheiro","BA","PT",355,,,,,,2.95140314852841,2,"Secretário de Estado"
+"470",74221,,,"Ronaldo Santos","RJ","PSDB",436,,,,,,,,
+"471",74222,436410,"RECURSOS DE PESSOAS FÍSICAS","Asdrubal Bentes","PA","PMDB",250,740582.4,12,436410,1500107,12,,2,"Secretário de Estado"
+"472",74225,,,"José Guimarães Neiva Moreira","MA","PDT",436,,,,,,,,
+"473",74226,,,"Geraldo Pastana","","PT",436,,,,,,,,
+"474",74230,544501.4,"RECURSOS PRÓPRIOS","Colbert Martins","BA","PMDB",196,,,544501.4,290170,2,,1,""
+"475",74233,689454.21,"RECURSOS DE PESSOAS FÍSICAS","Vanio Dos Santos","",,436,2237559,11,689454.21,4200051,3,,,
+"476",74235,1648239.38,"RECURSOS DE PESSOAS JURÍDICAS","Marcus Antonio Vicente","ES","PSDB",436,1301590.32,11,1648239.38,3200102,327,,,
+"477",74237,,,"Raimundo Colombo","SC","PFL",436,,,,,,,,
+"478",74238,1796473.84,"RECURSOS DE PESSOAS FÍSICAS","Moacir Micheletto","PR","PMDB",30,2946589.84,11,1796473.84,4100103,3,0.993839835728953,1,"Falecimento"
+"479",74240,,,"João Tota","AC","PPB",436,,,,,,,,
+"480",74243,,,"Nelson Harter","RS","PMDB",436,,,,,,,,
+"481",74245,,,"Marcos Vinicius De Campos","SP","PFL",436,,,,,,,,
+"482",74248,,,"Ana Catarina Lyra Alves","RN","PMDB",436,,,,,,,,
+"483",74252,,,"Juíza Denise Frossard","RJ","PSDB",436,,,,,,,,
+"484",74253,3732643,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Julio Lopes","RJ","PP",295,2671097.4,19,3730395.71,3300100,128,0.0766598220396988,1,"Secretário de Estado"
+"485",74254,1918958.15,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Leonardo Picciani","RJ","PMDB",404,2247651.2,11,1911679.48,3300100,53,,2,"Secretário de Estado"
+"486",74255,,,"Maria Lucia","RJ","PMDB",436,,,,,,,,
+"487",74256,,,"Reinaldo Betão","RJ","PL",436,,,,,,,,
+"488",74257,,,"Renato Cozzolino","RJ","PDT",368,2367005.69,12,,,,0.0657084188911704,1,"Término da Legislatura"
+"489",74258,,,"Sandro Matos","RJ","PR",399,,,,,,1.58247775496235,2,"Licença Conjunta Consecutiva"
+"490",74259,,,"Vieira Reis","RJ","PMR",436,,,,,,,,
+"491",74260,,,"Amauri Robledo Gasques","SP","PRONA",436,,,,,,,,
+"492",74261,,,"Bispo João Batista","SP","PFL",436,,,,,,,,
+"493",74262,1415388.92,"RECURSOS PRÓPRIOS","Carlos Sampaio","SP","PSDB",243,1277601.03,3,1414827.06,3500105,4,,1,""
+"494",74263,,,"Cláudio Magrão","SP","PPS",1,,,,,,2.06981519507187,1,"Afastamento"
+"495",74264,1949175.26,"RECURSOS DE PESSOAS FÍSICAS","Devanir Ribeiro","SP","PT",328,2159253.95,11,1949175.26,3500105,408,,1,""
+"496",74265,1157173.58,"RECURSOS DE PESSOAS JURÍDICAS","Dimas Ramalho","SP","PPS",392,2015018.84,1,1156587.78,3500105,9,1.53045859000684,1,"Renúncia"
+"497",74266,183508.09,"RECURSOS DE PESSOAS FÍSICAS","Durval Orlato","SP","PT",436,1168458,12,183501.52,3500204,1,,,
+"498",74267,,,"Edna Macedo","SP","PTB",436,,,,,,,,
+"499",74268,,,"Elimar Máximo Damasceno","SP","PRONA",436,,,,,,,,
+"500",74269,,,"Enéas","SP","PR",196,,,,,,0.257357973990418,1,"Falecimento"
+"501",74270,,,"Gilberto Nascimento","SP","PMDB",436,,,,,,,,
+"502",74271,,,"Ildeu Araujo","SP","S.PART.",436,,,,,,,,
+"503",74272,,,"Jamil Murad","SP","PCDOB",436,,,,,,,,
+"504",74273,516924.26,"RECURSOS DE PESSOAS FÍSICAS","Jefferson Campos","SP","PSD",141,959616.5,12,516363.51,3500105,76,,1,""
+"505",74274,,,"José Eduardo Cardozo","SP","PT",199,,,,,,3.91512662559891,1,"Ministro de Estado"
+"506",74275,2531677.61,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","José Mentor","SP","PT",199,3801548.89,1,2787719.39,3500105,203,,1,""
+"507",74276,,,"Jovino Cândido","SP","PV",436,,,,3500303,1,,,
+"508",74277,344213.18,"RECURSOS PRÓPRIOS","Lobbe Neto","SP","PSDB",169,1412776.35,11,344213.18,3500105,63,3.99726214921287,1,"Término da Legislatura"
+"509",74278,436830.81,"RECURSOS PRÓPRIOS","Marcelo Ortiz","SP","PV",199,6070139.57,11,436830.81,3500105,1,3.99726214921287,1,"Término da Legislatura"
+"510",74279,,,"Marcos Abraão","SP","PFL",436,,,,,,,,
+"511",74280,,,"Professor Irapuan Teixeira","SP","PRONA",436,,,,,,,,
+"512",74281,,,"Roberto Gouveia","SP","PT",436,,,,,,,,
+"513",74282,,,"Vanderlei Assis","SP","PRONA",436,,,,,,,,
+"514",74283,1148078.81,"RECURSOS DE PESSOAS JURÍDICAS","Vicentinho","SP","PT",346,798606,11,1148068.37,3500105,2,,1,""
+"515",74284,3993150.78,"RECURSOS DE PESSOAS JURÍDICAS","Walter Feldman","SP","PSB",196,754721.6,21,3986532.59,3500105,4,,4,"Secretário de Prefeitura de Capital"
+"516",74285,,,"Carlos Abicalil","MT","PT",419,,,,,,3.99726214921287,1,"Término da Legislatura"
+"517",74286,,,"Thelma De Oliveira","MT","PSDB",54,,,,,,3.3347022587269,3,"Licença Conjunta Consecutiva"
+"518",74287,,,"José Roberto Arruda","DF","PFL",436,,,,530010,141,,,
+"519",74288,,,"Maninha","DF","PT",436,,,,,,,,
+"520",74289,,,"Tatico","GO","PTB",160,,,,,,3.99726214921287,1,"Término da Legislatura"
+"521",74290,3851367,"RECURSOS PRÓPRIOS","Carlos Alberto Leréia","GO","PSDB",372,4050047.91,11,3849398.41,5200050,99,,1,""
+"522",74291,611710.71,"RECURSOS PRÓPRIOS","Arnon Bezerra","CE","PTB",196,2972948.63,11,611684.77,2300101,19,,1,""
+"523",74294,,,"Gonzaga Mota","CE","PSDB",436,,,,,,,,
+"524",74295,,,"Inácio Francisco De Assis Nunes Arruda","CE","PCDOB",436,,,,,,,,
+"525",74297,454955.71,"RECURSOS PRÓPRIOS","José Linhares","CE","PP",316,4409285,1,454940.53,2300101,2,,1,""
+"526",74298,,,"José Pimentel","CE","PT",383,,,,,,2.19575633127995,2,"Ministro de Estado"
+"527",74299,,,"Leonidas Cristino","CE","PSDB",436,,,,,,,,
+"528",74300,279685.71,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Marcelo Teixeira","CE","PR",120,3198751.58,11,279685.71,2300101,9,3.99726214921287,1,"Término da Legislatura"
+"529",74301,,,"Nelson Otoch","CE","PSDB",436,,,,,,,,
+"530",74303,,,"Pimentel Gomes","",,436,,,,,,,,
+"531",74304,,,"Pinheiro Landim","CE","PMDB",436,,,,,,,,
+"532",74305,,,"Roberto Pessoa E Outros","CE","PFL",436,,,,,,,,
+"533",74306,,,"Rommel Feijo","CE","PSDB",436,,,,,,,,
+"534",74307,,,"Ubiratan Aguiar","",,436,,,,,,,,
+"535",74308,189135.71,"RECURSOS DE PESSOAS JURÍDICAS","Vicente Arruda","CE","PROS",430,2099818.82,11,189135.71,2300101,1,,1,""
+"536",74309,12000,"RECURSOS PRÓPRIOS","Zé Gerardo","CE","PMDB",399,9173211.04,11,12000,2300200,3,3.99726214921287,1,"Término da Legislatura"
+"537",74310,,,"Alberto Silva","PI","PMDB",286,,,,,,2.65571526351814,1,"Falecimento"
+"538",74312,,,"B. Sá","PI","PSB",196,,,,,,1.42094455852156,1,"Renúncia"
+"539",74313,,,"Ciro Nogueira","PI","PP",225,,,,,,3.99726214921287,1,"Término da Legislatura"
+"540",74315,,,"Heráclito De Sousa Fortes","PI","PFL",436,,,,,,,,
+"541",74316,,,"João Henrique","",,436,,,,,,,,
+"542",74317,693210.49,"RECURSOS PRÓPRIOS","Júlio Cesar","PI","PSD",313,5619779.01,14,693210.49,220095,10,,1,""
+"543",74318,,,"Mussa Demes","PI","DEM",180,,,,,,1.76043805612594,1,"Falecimento"
+"544",74319,1449327.71,"RECURSOS DE PESSOAS JURÍDICAS","Paes Landim","PI","PTB",358,2461081.59,13,1449327.71,220095,30,,1,""
+"545",74321,352485,"RECURSOS DE PESSOAS JURÍDICAS","Betinho Rosado","RN","PP",278,1540616.52,12,375697.24,2400109,69,,4,"Secretário de Estado"
+"546",74324,3363330,"RECURSOS DE PESSOAS JURÍDICAS","Henrique Eduardo Alves","RN","PMDB",99,6327768.96,11,3363327.21,2400109,1675,,1,""
+"547",74325,,,"Ibere Ferreira","RN","PFL",436,,,,,,,,
+"548",74326,,,"Laire Rosado","RN","PMDB",436,,,,,,,,
+"549",74327,,,"Ney Lopes De Souza","RN","PFL",436,,,,,,,,
+"550",74328,,,"Adauto Pereira","",,436,,,,,,,,
+"551",74329,,,"Mário Assad Júnior","",,436,,,,,,,,
+"552",74333,,,"Márcio Matos","PR","PT",436,,,,,,,,
+"553",74335,,,"Edson Menezes Da Silva","","PCDOB",436,,,,,,,,
+"554",74337,6420,"RECURSOS DE PESSOAS FÍSICAS","Milton Barbosa","BA","PSC",205,223575.11,61,6420,290170,7,0.457221081451061,1,"Afastamento"
+"555",74338,,,"Jamil Haddad","RJ","PSB",436,,,,,,,,
+"556",74339,,,"Luiz Salomão","",,436,,,,,,,,
+"557",74340,,,"Airton Antonio Soligo","RR","PPB",436,,,,,,,,
+"558",74341,1047670,"RECURSOS DE PESSOAS FÍSICAS","Sá","RR","PR",225,855934,12,1047653.25,1400027,50,0.418891170431211,1,"Término da Legislatura"
+"559",74342,,,"Badu Picanço","AP","PL",436,,,,,,,,
+"560",74343,,,"Dr. Benedito Dias","AP","PPB",436,,,,,,,,
+"561",74344,,,"Eduardo Seabra","AP","PTB",436,,,,,,,,
+"562",74345,591624,"RECURSOS DE PESSOAS FÍSICAS","Evandro Milhomen","AP","PCDOB",230,,,591621.11,1600055,45,,1,""
+"563",74346,233399.34,"RECURSOS PRÓPRIOS","Jurandil Juarez","AP","PMDB",187,2206876.47,3,233394.34,1600055,7,3.99726214921287,1,"Término da Legislatura"
+"564",74347,,,"Deusdeth Antônio Corrêa Pantoja","PA","PFL",436,,,,,,,,
+"565",74348,,,"Valdir Ganzer","PA","PT",436,,,,,,,,
+"566",74349,,,"João Batista Oliveira De Araujo","PA","PT",436,,,,,,,,
+"567",74350,,,"Jorge Costa","",,436,,,,,,,,
+"568",74351,629011.5,"RECURSOS DE PESSOAS FÍSICAS","Josué Bengtson","PA","PTB",108,2508820.78,12,628972.44,150475,22,,1,""
+"569",74352,811175.3,"RECURSOS DE PESSOAS JURÍDICAS","Nilson Pinto","PA","PSDB",81,289662.04,11,811175.3,150475,7,,2,"Secretário de Estado"
+"570",74353,,,"Renildo Leal Santos","PA","PMDB",436,,,,,,,,
+"571",74354,1096932.32,"RECURSOS DE PESSOAS FÍSICAS","Zenaldo Coutinho","PA","PSDB",199,1125192.21,11,1096932.32,150475,10,1.00479123887748,3,"Secretário de Estado"
+"572",74355,,,"Francisco Garcia Rodrigues","AM","PFL",436,,,,,,,,
+"573",74356,317950.45,"RECURSOS PRÓPRIOS","Silas Câmara","AM","PSD",399,741931.61,2,317950.45,1300029,1444,,1,""
+"574",74357,,,"Vanessa Grazziotin","AM","PCDOB",332,,,,,,3.99726214921287,1,"Término da Legislatura"
+"575",74358,,,"Agnaldo Muniz","RO","PSC",199,,,,,,,1,""
+"576",74359,523794.56,"RECURSOS PRÓPRIOS","Nilton Capixaba","RO","PTB",399,,,523779.98,1100015,1758,,1,""
+"577",74360,,,"Sérgio Siqueira De Carvalho","RO","PSDB",436,,,,,,,,
+"578",74361,,,"Hildebrando Pascoal","","PFL",436,,,,,,,,
+"579",74362,,,"Ildefonço Cordeiro","",,436,,,,,,,,
+"580",74363,327662.2,"RECURSOS PRÓPRIOS","Marcio Bittar","AC","PSDB",367,2360336,12,327662.2,1200013,844,,1,""
+"581",74364,,,"Marcos Afonso Pontes De Souza","AC","PT",436,,,,,,,,
+"582",74365,,,"Nilson Mourão","AC","PT",130,,,,,,3.99726214921287,1,"Término da Legislatura"
+"583",74366,546880.59,"RECURSOS DE PESSOAS FÍSICAS","João Campos","GO","PSDB",370,1519308.2,11,546874.53,5200050,195,,1,""
+"584",74367,1974124.48,"RECURSOS DE PESSOAS FÍSICAS","Leandro Vilela","GO","PMDB",160,758236.96,13,1973981.98,5200050,68,,1,""
+"585",74368,2569012.12,"RECURSOS PRÓPRIOS","Leonardo Vilela","GO","PSDB",196,1543818.08,11,2568996.78,5200050,39,0.65160848733744,4,"Secretário de Estado"
+"586",74369,,,"Neyde Aparecida","GO","PT",436,,,,,,,,
+"587",74370,,,"Professora Raquel Teixeira","GO","PSDB",397,,,,,,3.66598220396988,2,"Secretário de Estado"
+"588",74371,1058490.75,"RECURSOS PRÓPRIOS","Rubens Otoni","GO","PT",176,1900824,12,1058490.75,5200050,67,,1,""
+"589",74372,1568397,"RECURSOS DE PESSOAS FÍSICAS","Sandes Júnior","GO","PP",256,1873472.45,11,1568320.93,5200050,336,,1,""
+"590",74373,988756.42,"RECURSOS DE PESSOAS FÍSICAS","Biffi","MS","PT",368,1993786.98,12,988733.52,500390,41,,1,""
+"591",74374,712125,"RECURSOS DE PESSOAS FÍSICAS","Geraldo Resende","MS","PMDB",196,2621147.98,11,712125,500390,11,,1,""
+"592",74375,,,"Murilo Zauith","MS","PFL",436,,,,,,,,
+"593",74376,2708612.15,"RECURSOS DE PESSOAS FÍSICAS","Vander Loubet","MS","PT",220,1339904.29,19,2707951.55,500390,128,,1,""
+"594",74377,616004.42,"RECURSOS PRÓPRIOS","André Zacharow","PR","PMDB",249,2470725.51,19,615415.88,4100103,102,,1,""
+"595",74378,278708.5,"RECURSOS PRÓPRIOS","Assis Do Couto","PR","PT",189,871777.86,14,278708.5,4100202,12,,1,""
+"596",74379,535009.6,"RECURSOS PRÓPRIOS","Cezar Silvestri","PR","PPS",398,4482189.25,11,535009.6,4100301,4,0.0027378507871321,1,"Secretário de Estado"
+"597",74380,,,"Colombo","PR","PT",436,,,,,,,,
+"598",74381,,,"Dra. Clair","PR","PT",436,,,,,,,,
+"599",74382,1318773.09,"RECURSOS DE PESSOAS FÍSICAS","Eduardo Sciarra","PR","PSD",398,4761589.28,11,1318773.09,4100301,605,,1,""
+"600",74383,959499.16,"RECURSOS DE PESSOAS JURÍDICAS","Giacobo","PR","PR",399,3526088.91,11,959499.16,4100400,10,,1,""
+"601",74385,292050,"RECURSOS DE PESSOAS FÍSICAS","Takayama","PR","PSC",37,2314777.2,11,291862.28,4100103,8,,1,""
+"602",74386,,,"Adelor Vieira","SC","PMDB",436,,,,,,,,
+"603",74387,,,"Ivan Ranzolin","SC","PP",436,,,,,,,,
+"604",74388,512261.81,"RECURSOS DE PESSOAS JURÍDICAS","Jorge Boeira","SC","PP",131,2906379.74,11,512243.77,4200606,1,,1,""
+"605",74389,,,"Mauro Passos","SC","PT",436,,,,,,,,
+"606",74390,,,"Paulo Afonso","SC","PMDB",436,,,,,,,,
+"607",74391,,,"Vignatti","SC","PT",74,,,,,,3.99726214921287,1,"Término da Legislatura"
+"608",74392,1329804.85,"RECURSOS DE PESSOAS JURÍDICAS","Zonta","SC","PP",231,1159811.74,11,1328326.34,4200051,305,0.440793976728268,1,"Afastamento"
+"609",74393,,,"Érico Ribeiro","RS","PP",436,,,,,,,,
+"610",74394,,,"Francisco Turra","RS","PP",436,,,,,,,,
+"611",74395,2467807.76,"RECURSOS DE PESSOAS JURÍDICAS","José Otávio Germano","RS","PP",199,1526027.54,12,2467674.31,4300034,1,,1,""
+"612",74396,,,"Kelly Moraes","RS","PTB",436,,,,,,,,
+"613",74397,,,"Luciana Genro","RS","PSOL",275,,,,,,3.66324435318275,2,"Licença Conjunta Consecutiva"
+"614",74398,867116.17,"RECURSOS PRÓPRIOS","Maria Do Rosário","RS","PT",150,639319.93,12,861941.32,4300034,6,0.0027378507871321,1,"Ministro de Estado"
+"615",74399,1370369.15,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Onyx Lorenzoni","RS","DEM",224,2441804.06,11,1370269.95,4300034,64,,1,""
+"616",74400,1061169.55,"RECURSOS DE PESSOAS FÍSICAS","Paulo Pimenta","RS","PT",193,1306639.13,11,1061169.55,4300034,525,,1,""
+"617",74401,,,"José Ivo Sartori","RS","PMDB",436,,,,,,,,
+"618",74402,,,"Enio Tatico","GO","PTB",436,,,,,,,,
+"619",74403,,,"Selma Schons","PR","PT",436,,,,,,,,
+"620",74404,,,"Alvaro Gaudencio Neto","PB","PFL",436,,,,,,,,
+"621",74405,466548.56,"RECURSOS PRÓPRIOS","Armando Abílio","PB","PTB",196,3969684.76,2,461517.27,251640,526,0.528405201916496,2,"Afastamento"
+"622",74407,,,"Efraim Morais","PB","PFL",436,,,,,,,,
+"623",74408,,,"Enivaldo Ribeiro","PB","PPB",436,,,,,,,,
+"624",74412,,,"Jose Luiz Clerot","PB","PMDB",436,,,,,,,,
+"625",74414,,,"Wilson Braga","PB","PMDB",199,,,,,,3.99726214921287,1,"Término da Legislatura"
+"626",74415,,,"Antonio Geraldo","PE","PFL",436,,,,,,,,
+"627",74416,,,"Eduardo Henrique Accioly Campos","PE","PSB",436,,,,,,,,
+"628",74417,801217,"RECURSOS DE PESSOAS FÍSICAS","Fernando Ferro","PE","PT",28,533157,12,800826.6,260545,8,,1,""
+"629",74419,612552,"RECURSOS DE PESSOAS JURÍDICAS","Gonzaga Patriota","PE","PSB",287,9989856.52,2,612552,260545,34,,1,""
+"630",74421,681112,"RECURSOS DE PESSOAS FÍSICAS","Inocêncio Oliveira","PE","PR",196,10102756.44,2,680946.59,260545,2,,1,""
+"631",74422,,,"João Colaço","PE","PSB",436,,,,,,,,
+"632",74423,1223413.6,"RECURSOS DE PESSOAS JURÍDICAS","José Chaves","PE","PTB",68,8222405.73,21,1223413.6,260545,6,,1,""
+"633",74425,,,"José Mendonça Bezerra","PE","DEM",276,,,,,,3.99726214921287,1,"Término da Legislatura"
+"634",74426,,,"José Múcio Monteiro","PE","PTB",201,,,,,,3.46338124572211,2,"Ministro de Estado"
+"635",74427,,,"Luiz Piauhylino De Mello Monteiro","PE","PSDB",436,,,,,,,,
+"636",74428,1783114.4,"RECURSOS DE PESSOAS FÍSICAS","Mendonça Filho","PE","DEM",40,2236505.58,21,1781540.3,260545,25,,1,""
+"637",74430,,,"Osvaldo Coelho","PE","PFL",436,,,,,,,,
+"638",74431,,,"Pedro Correa","PE","PFL",436,,,,,,,,
+"639",74433,,,"Roberto Magalhães","PE","DEM",199,,,,,,3.99726214921287,1,"Término da Legislatura"
+"640",74434,,,"Salatiel Sousa Carvalho","PE","PPB",436,,,,,,,,
+"641",74435,3605700,"RECURSOS DE PESSOAS JURÍDICAS","Sergio Guerra","PE","PSDB",331,4503258.83,11,3605700,260545,23,,1,""
+"642",74436,,,"Severino Cavalcanti","PE","PPB",436,,,,,,,,
+"643",74439,869800,"RECURSOS DE PESSOAS JURÍDICAS","Wolney Queiroz","PE","PDT",399,2170573.46,11,865745.53,260545,3,,1,""
+"644",74440,,,"Alberico Cordeiro","AL","PTB",436,,,,,,,,
+"645",74441,,,"Augusto Farias","AL","PTB",0,,,,,,3.88774811772758,1,"Término da Legislatura"
+"646",74442,,,"Sérgio Sebastião De Barros","AC","PDT",436,,,,,,,,
+"647",74443,,,"Igor Pugliesi Avelino","TO","PMDB",436,,,,,,,,
+"648",74444,,,"Amarildo Martins Da Silva","TO","PPB",436,,,,,,,,
+"649",74445,,,"João Castelo","MA","PSDB",436,,,,,,,,
+"650",74446,,,"Jose Antonio Almeida","MA","PSB",436,,,,,,,,
+"651",74447,397991,"RECURSOS DE PESSOAS JURÍDICAS","Nice Lobão","MA","PSD",410,2880165.78,11,397562.05,2100055,2061,,1,""
+"652",74448,,,"Paulo Celso Fonseca Marinho","MA","PSC",436,,,,,,,,
+"653",74449,547866,"RECURSOS DE PESSOAS FÍSICAS","Pedro Fernandes","MA","PTB",241,1813104,12,547866,2100055,236,0.172484599589322,1,"Secretário de Estado"
+"654",74450,,,"Adolfo Marinho","","PSDB",436,,,,,,,,
+"655",74451,,,"Francisco Almeida Lima","CE","PMDB",436,,,,,,,,
+"656",74452,,,"Antonio Cambraia","CE","PSDB",436,,,,,,,,
+"657",74453,,,"Chiquinho Feitosa","CE","PSDB",436,,,,,,,,
+"658",74454,,,"Eunício Oliveira","CE","PMDB",424,,,,,,3.99726214921287,1,"Término da Legislatura"
+"659",74455,,,"Leo Alcântara","CE","PR",206,,,,,,3.99726214921287,1,"Término da Legislatura"
+"660",74456,657500,"RECURSOS PRÓPRIOS","Manoel Salviano","CE","PSD",402,9142965.57,11,657500,2300101,34,,1,""
+"661",74457,,,"Moroni Torgan","CE","PSDB",436,,,,,,,,
+"662",74458,,,"Sergio Novais","CE","PSB",436,,,,,,,,
+"663",74459,733890.24,"RECURSOS DE PESSOAS JURÍDICAS","Átila Lira","PI","PSB",66,2565338.46,11,733390.07,220095,12,0.0054757015742642,1,"Secretário de Estado"
+"664",74460,639671.74,"RECURSOS PRÓPRIOS","Marcelo Castro","PI","PMDB",292,3608776.77,19,639565.14,220095,26,,1,""
+"665",74461,,,"Themístocles Sampaio","PI","PMDB",0,,,,,,1.3223819301848,1,"Término da Legislatura"
+"666",74462,,,"José Wellington Barroso De Araújo Dias","PI","PT",436,,,,,,,,
+"667",74463,,,"Lavoisier Maia","RN","PFL",436,,,,,,,,
+"668",74464,,,"Múcio Sá","RN","PTB",436,,,,,,,,
+"669",74465,,,"José Avenzoar Arruda Das Neves","PB","PT",436,,,,,,,,
+"670",74466,,,"Carlos Marques Dunga","PB","PMDB",436,,,,,,,,
+"671",74467,509150,"RECURSOS DE PESSOAS FÍSICAS","Damião Feliciano","PB","PDT",338,1936213.57,12,508873.09,251640,1055,,1,""
+"672",74468,,,"José Domiciano Cabral","PB","PMDB",436,,,,,,,,
+"673",74469,,,"Inaldo Rocha Leitão","PB","PMDB",436,,,,,,,,
+"674",74470,,,"Marcondes Gadelha","PB","PSC",196,,,,,,3.99726214921287,1,"Término da Legislatura"
+"675",74471,758200,"RECURSOS DE PESSOAS JURÍDICAS","André De Paula","PE","DEM",62,2113585.82,11,758057.43,260545,14,3.99726214921287,1,"Término da Legislatura"
+"676",74472,,,"Armando Monteiro","PE","PTB",319,,,,,,3.99726214921287,1,"Término da Legislatura"
+"677",74473,,,"Carlos Batata","PE","PFL",436,,,,,,,,
+"678",74474,812000,"RECURSOS DE PESSOAS JURÍDICAS","Carlos Eduardo Cadoca","PE","PCDOB",199,1595807,11,811461.01,260545,6,,1,""
+"679",74475,,,"Clementino De Souza Coelho","PE","PSB",436,,,,,,,,
+"680",74476,,,"Djalma Souto Maior Paes Júnior","PE","PSB",436,,,,,,,,
+"681",74477,,,"Joaquim Francisco","PE","PFL",436,,,,,,,,
+"682",74478,,,"Luciano Bivar","PE","PSL",436,,,,,,,,
+"683",74479,,,"Marcos Antônio De Barros","PE","PTB",436,,,,,,,,
+"684",74480,,,"Francisco Appio","RS","PP",436,,,,,,,,
+"685",74481,,,"Wasny De Roure","DF","PT",436,,,,,,,,
+"686",74482,,,"Rubinelli","SP","PT",436,,,,,,,,
+"687",74483,,,"Milton Cardias","RS","PTB",436,,,,,,,,
+"688",74484,,,"Carlos Mota","MG","PSB",436,,,,,,,,
+"689",74485,,,"Mariângela Duarte","SP","PT",436,,,,,,,,
+"690",74487,,,"Fernando William","RJ","PSB",436,,,,,,,,
+"691",74488,,,"José Rajão","DF","PSDB",436,,,,,,,,
+"692",74489,,,"Casara","RO","PSDB",436,,,,,,,,
+"693",74490,,,"Washington Luiz","MA","PT",413,,,,,,0.903490759753593,1,"Afastamento"
+"694",74491,397324.63,"RECURSOS DE PESSOAS FÍSICAS","Nazareno Fonteles","PI","PT",196,1754876.3,11,397150.3,220095,25,,1,""
+"695",74492,,,"Simplício Mário","PI","PT",436,,,,,,,,
+"696",74493,475331.06,"RECURSOS DE PESSOAS JURÍDICAS","Jurandir Bóia","AL","PSB",436,1129341.16,12,474271.06,2700102,11,,,
+"697",74494,,,"Vadinho Baião","MG","PT",436,,,,,,,,
+"698",74495,,,"Jorge Gomes","PE","PSB",436,,,,,,,,
+"699",74496,,,"Zarattini","SP","PT",436,,,,,,,,
+"700",74497,1517792.13,"RECURSOS DE PESSOAS FÍSICAS","Sérgio Caiado","GO","PP",436,2323196.85,12,1517792.13,5200050,8,,,
+"701",74517,,,"Benedito De Lira","AL","PP",199,,,,,,3.99726214921287,1,"Término da Legislatura"
+"702",74518,,,"Ceci Cunha","",,436,,,,,,,,
+"703",74520,,,"José Thomaz Nonô","AL","PFL",436,,,,,,,,
+"704",74523,,,"Talvane Albuquerque Neto","",,436,,,,,,,,
+"705",74524,,,"Adelson Ribeiro","SE","PSDB",436,,,,,,,,
+"706",74527,,,"Cleonâncio Fonseca","SE","PPB",436,,,,,,,,
+"707",74528,,,"Jerônimo Reis","SE","DEM",190,,,,,,3.17316906228611,2,"Licença Conjunta Consecutiva"
+"708",74529,,,"José Teles","","PSDB",436,,,,,,,,
+"709",74530,,,"Marcelo Déda","SE","PT",436,,,,,,,,
+"710",74533,370379.71,"RECURSOS DE PESSOAS JURÍDICAS","Sérgio Barradas Carneiro","BA","PT",0,536676,11,370379.71,290170,1,1.44010951403149,2,"Afastamento"
+"711",74534,,,"Aroldo Cedraz De Oliveira","BA","PFL",436,,,,,,,,
+"712",74535,,,"Benito Gama","BA","PMDB",436,,,,,,,,
+"713",74537,786300,"RECURSOS PRÓPRIOS","Claudio Cajado","BA","DEM",199,5557006.16,11,786184.65,290170,914,,1,""
+"714",74538,66300,"RECURSOS PRÓPRIOS","Coriolano Sousa Sales","BA","PDT",436,1013586.44,11,66300,291950,5,,,
+"715",74540,,,"Eraldo Tinoco","BA","PFL",436,,,,,,,,
+"716",74541,,,"Eujácio Simões Viana Filho","BA","PL",436,,,,,,,,
+"717",74542,,,"Félix Mendonça","BA","DEM",97,,,,,,3.99726214921287,1,"Término da Legislatura"
+"718",74544,,,"Geddel Vieira Lima","BA","PMDB",272,,,,,,0.941820670773443,2,"Ministro de Estado"
+"719",74545,,,"Haroldo Borges Rodrigues Lima","BA","PCDOB",436,,,,,,,,
+"720",74546,,,"Jairo Azi","BA","PFL",436,,,,,,,,
+"721",74547,145333.5,"RECURSOS PRÓPRIOS","Jairo Carneiro","BA","PP",290,4353421.44,11,144712.7,290170,6,0.68993839835729,2,"Afastamento"
+"722",74548,,,"Jaques Wagner","BA","PT",436,,,,,,,,
+"723",74549,1510076.82,"RECURSOS DE PESSOAS JURÍDICAS","João Almeida","BA","PSDB",269,1346984.89,11,1510076.82,3501608,2,3.99726214921287,1,"Término da Legislatura"
+"724",74550,1227229.03,"RECURSOS PRÓPRIOS","João Leão","BA","PP",399,1936016.02,12,1227202.25,290170,42,,2,"Secretário de Prefeitura de Capital"
+"725",74552,1454424.9,"RECURSOS DE PESSOAS JURÍDICAS","Jorge Khoury","BA","DEM",201,1845305.56,2,1454204.46,290170,7,3.99726214921287,1,"Término da Legislatura"
+"726",74553,,,"José Carlos Aleluia","BA","DEM",253,,,,,,3.99726214921287,1,"Término da Legislatura"
+"727",74554,884971.62,"RECURSOS DE PESSOAS JURÍDICAS","José Rocha","BA","PR",196,6798391.87,12,883242.54,290170,3,,1,""
+"728",74555,,,"Leur Lomanto","BA","PMDB",436,,,,,,,,
+"729",74556,1296504.64,"RECURSOS DE PESSOAS JURÍDICAS","Pedro Eugênio","PE","PT",266,1941411.41,12,1296362.8,260545,5,,1,""
+"730",74557,,,"Ricardo Fiuza","PE","PPB",436,,,,,,,,
+"731",74558,631302.24,"RECURSOS DE PESSOAS JURÍDICAS","Givaldo Carimbão","AL","PROS",135,1535066.9,2,631302.24,2700102,1124,,1,""
+"732",74559,371000,"RECURSOS DE PESSOAS JURÍDICAS","João Caldas","AL","PEN",0,511950,11,458719.28,2700102,92,0.303901437371663,1,"Afastamento"
+"733",74560,,,"José Régis Barros Cavalcante","AL","PPS",436,,,,,,,,
+"734",74561,,,"Augusto Franco","SE","PSDB",436,,,,,,,,
+"735",74562,,,"José Ivan De Carvalho Paixão","SE","PPS",436,,,,,,,,
+"736",74563,,,"Jorge Alberto","SE","PMDB",196,,,,,,0.0711841204654346,1,"Término da Legislatura"
+"737",74564,,,"Artur Sérgio De Almeida Reis","SE","PMN",436,,,,,,,,
+"738",74565,,,"Francistonio Alves Pinto","BA","PMDB",436,,,,,,,,
+"739",74566,375469.71,"RECURSOS PRÓPRIOS","Geraldo Simões","BA","PT",3,941622.35,12,375399.06,290330,98,,1,""
+"740",74567,192300,"RECURSOS DE PESSOAS JURÍDICAS","Gerson Silva Gabrielli","BA","PFL",436,967945.82,13,192047.36,290170,2,,,
+"741",74568,,,"Jonival Lucas Junior","BA","PMDB",436,,,,,,,,
+"742",74569,,,"José Ronaldo","",,436,,,,,,,,
+"743",74570,2393420,"RECURSOS DE PESSOAS JURÍDICAS","Jutahy Junior","BA","PSDB",199,5490463.6,11,2393213.88,290330,10,,1,""
+"744",74571,1116697.88,"RECURSOS DE PARTIDO POLÍTICO","Nelson Pellegrino","BA","PT",199,745883.78,11,1106686.88,290170,19,,2,"Licença Conjunta Consecutiva"
+"745",74572,,,"Nilo Coelho","BA","PSDB",436,,,,,,,,
+"746",74573,54000,"RECURSOS PRÓPRIOS","Paulo Braga","BA","PFL",436,,,54000,290330,2,,,
+"747",74574,392400,"RECURSOS PRÓPRIOS","Paulo Magalhães","BA","PSD",40,15836477.19,11,392400,290170,3,,1,""
+"748",74575,,,"Saulo Pedrosa","BA","PSDB",436,,,,,,,,
+"749",74576,,,"Francisco Waldir Pires De Souza","BA","PT",436,,,,,,,,
+"750",74577,,,"Cabo Júlio","MG","PST",436,,,,,,,,
+"751",74578,,,"Cleuber Carneiro","MG","PFL",436,,,,,,,,
+"752",74579,,,"Custódio Mattos","MG","PSDB",64,,,,,,0.583162217659138,3,"Secretário de Estado"
+"753",74580,574246.65,"RECURSOS DE PESSOAS FÍSICAS","Edmar Moreira","MG","PR",323,2761191.3,11,574246.65,3100401,8,3.99726214921287,1,"Término da Legislatura"
+"754",74581,1378626.24,"RECURSOS PRÓPRIOS","Gilmar Machado","MG","PT",229,1503071.84,12,1378626.24,3100104,246,1.91649555099247,1,"Renúncia"
+"755",74582,,,"Glycon Terra Pinto Junior","MG","PL",436,,,,,,,,
+"756",74583,,,"Hélio Costa","MG","PMDB",436,,,,,,,,
+"757",74584,,,"José Militão","MG","PTB",436,,,,,,,,
+"758",74585,977385.86,"RECURSOS PRÓPRIOS","Lincoln Portela","MG","PR",127,1196048.54,11,976878.53,3100104,2,,1,""
+"759",74586,,,"Maria Do Carmo Lara","MG","PT",270,,,,,,1.91375770020534,1,"Renúncia"
+"760",74587,,,"Maria Lúcia Cardoso","MG","PMDB",212,,,,,,3.99726214921287,1,"Término da Legislatura"
+"761",74588,,,"Olimpio Pires","MG","PDT",436,,,,,,,,
+"762",74589,,,"Pimenta Da Veiga","MG","PSDB",436,,,,,,,,
+"763",74590,,,"Rafael Guerra","MG","PSDB",50,,,,,,3.99726214921287,1,"Término da Legislatura"
+"764",74591,,,"Romeu Queiroz","MG","PTB",436,,,,,,,,
+"765",74592,,,"Ronaldo Vasconcellos Novais","MG","PL",436,,,,,,,,
+"766",74593,,,"Virgílio Guimarães","MG","PT",45,,,,,,3.99726214921287,1,"Término da Legislatura"
+"767",74632,,,"Luiz Moreira","BA","PFL",436,,,,,,,,
+"768",74633,,,"Manoel Figueiredo Castro","BA","PFL",436,,,,,,,,
+"769",74634,449243.31,"RECURSOS DE PESSOAS JURÍDICAS","Marcos Medrado","BA","SDD",385,2268377,1,449243.31,290170,1,,2,"Licença Conjunta Consecutiva"
+"770",74635,1420515.54,"RECURSOS DE PESSOAS JURÍDICAS","Mário Negromonte","BA","PP",199,2542796.85,11,1419124.71,290170,3,,2,"Ministro de Estado"
+"771",74637,,,"Pedro Irujo","BA","PFL",436,,,,,,,,
+"772",74638,,,"Prisco Viana","",,436,,,,,,,,
+"773",74640,,,"Roland Lavigne Do Nascimento","BA","PFL",436,,,,,,,,
+"774",74641,271147.18,"RECURSOS DE PESSOAS FÍSICAS","Severiano Alves","BA","PMDB",341,,,270349.56,290170,5,3.99726214921287,1,"Término da Legislatura"
+"775",74644,,,"Ursicino Queiroz","BA","PFL",436,,,,,,,,
+"776",74645,,,"Ademir Lucas","",,436,,,,,,,,
+"777",74646,,,"Aecio Neves","MG","PSDB",436,,,,,,,,
+"778",74647,,,"Antônio Do Valle Ramos","MG","PMDB",436,,,,,,,,
+"779",74648,1075044.57,"RECURSOS DE PESSOAS JURÍDICAS","Aracely De Paula","MG","PR",199,6092294.37,2,1075044.57,3100104,1271,,1,""
+"780",74650,1688553.32,"RECURSOS PRÓPRIOS","Bonifácio De Andrada","MG","PSDB",72,15442217.66,11,1688218.33,3100104,2,,1,""
+"781",74651,2026224.78,"RECURSOS PRÓPRIOS","Carlos Melles","MG","DEM",173,6653426.43,11,2025598.67,3100203,10,0.0054757015742642,1,"Secretário de Estado"
+"782",74652,,,"Carlos Eduardo Venturelli Mosconi","MG","PSDB",436,,,,,,,,
+"783",74654,,,"Danilo De Castro","MG","PSDB",436,,,,,,,,
+"784",74655,344972.92,"RECURSOS DE PESSOAS JURÍDICAS","Eduardo Barbosa","MG","PSDB",196,1311329.27,12,344972.92,3100104,55,,1,""
+"785",74656,,,"Elias Murad","",,436,,,,,,,,
+"786",74657,,,"Eliseu Resende","MG","PFL",436,,,,,,,,
+"787",74658,,,"Fernando Diniz","MG","PMDB",399,,,,,,2.4558521560575,1,"Falecimento"
+"788",74659,,,"Genesio Bernardino","MG","PMDB",436,,,,,,,,
+"789",74660,,,"Herculano Anghinetti","MG","PSDB",436,,,,,,,,
+"790",74661,,,"Hugo Rodrigues Da Cunha","",,436,,,,,,,,
+"791",74662,736227.45,"RECURSOS DE PESSOAS FÍSICAS","Humberto Souto","MG","PPS",308,6399179.89,11,736207.77,3100203,4,,1,""
+"792",74663,,,"Ibrahim Abi-Ackel","MG","PPB",436,,,,,,,,
+"793",74665,993856.84,"RECURSOS DE PESSOAS FÍSICAS","Jaime Martins","MG","PSD",9,4457654.54,11,993367.01,3100203,414,,1,""
+"794",74666,,,"Jair Siqueira","",,436,,,,,,,,
+"795",74667,,,"João Domingos Fassarella","MG","PT",436,,,,,,,,
+"796",74668,,,"Walfrido Mares Guia","MG","PTB",436,,,,,,,,
+"797",74669,,,"José Perrella De Oliveira Costa","MG","PFL",436,,,,,,,,
+"798",74670,,,"José Carlos Fonseca Jr.","ES","PFL",436,,,,,,,,
+"799",74671,,,"José Carlos Elias","ES","PTB",436,,,,,,,,
+"800",74672,,,"Magno Pereira Malta","ES","PTB",436,,,,,,,,
+"801",74673,197350,"RECURSOS PRÓPRIOS","Max Freitas Mauro","ES","PTB",436,887672.31,11,197306.73,3200102,324,,,
+"802",74674,,,"Ricardo De Rezende Ferraço","ES","PSDB",436,,,,,,,,
+"803",74675,,,"Almerinda De Carvalho","RJ","PPB",436,,,,,,,,
+"804",74676,,,"Carlos Alberto Rodrigues Pinto","RJ","PFL",436,,,,,,,,
+"805",74677,,,"Cornélio Ribeiro","RJ","PSB",436,,,,,,,,
+"806",74678,,,"José Maurício Rodrigues Garcia","RJ","PSDB",436,,,,,,,,
+"807",74679,,,"Dino Fernandes","RJ","PPB",436,,,,,,,,
+"808",74680,,,"Heleno Augusto De Lima","RJ","PSDB",436,,,,,,,,
+"809",74681,,,"Luiz Ribeiro","RJ","PSDB",436,,,,,,,,
+"810",74682,,,"Eber Silva","RJ","PL",436,,,,,,,,
+"811",74683,,,"Eduardo Da Costa Paes","RJ","PFL",436,,,,,,,,
+"812",74684,,,"Iédio Rosa Da Silva","RJ","PMDB",436,,,,,,,,
+"813",74685,,,"João Sampaio","RJ","PDT",436,,,,,,,,
+"814",74686,1569742.5,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Jorge Bittar","RJ","PT",24,1001563,11,1569742.5,3300100,13,,2,"Secretário de Prefeitura de Capital"
+"815",74687,,,"Luisinho","RJ","PPB",436,,,,,,,,
+"816",74688,2325188.25,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Luiz Sérgio","RJ","PT",35,2522850,11,2323716.06,3300100,5409,,2,"Ministro de Estado"
+"817",74689,,,"Mattos Nascimento","","PST",436,,,,,,,,
+"818",74690,,,"Miriam Reid","RJ","PSB",436,,,,,,,,
+"819",74691,,,"Valdeci Paiva","RJ","PSL",436,,,,,,,,
+"820",74692,,,"Paulo César Baltazar Da Nóbrega","RJ","PSB",436,,,,,,,,
+"821",74693,1943884.67,"RECURSOS DE PESSOAS JURÍDICAS","Rodrigo Maia","RJ","DEM",305,878116,11,1936582.99,3300100,29,,1,""
+"822",74694,186000,"RECURSOS DE PESSOAS JURÍDICAS","Vivaldo Vieira Barbosa","RJ","PDT",436,2777994,11,179630.5,3300100,14,,,
+"823",74695,,,"Wanderley Martins","RJ","PSB",436,,,,,,,,
+"824",74696,2676676.84,"RECURSOS DE PESSOAS JURÍDICAS","Alberto Mourão","SP","PSDB",0,18959163.04,18,2676676.84,3500105,4,1.69199178644764,2,"Afastamento"
+"825",74697,,,"Aloizio Mercadante","SP","PT",436,,,,,,,,
+"826",74698,,,"André Benassi","",,436,,,,,,,,
+"827",74699,,,"Angela Moraes Guadagnin","SP","PT",436,,,,,,,,
+"828",74700,,,"Fleury","SP","PTB",436,,,,,,,,
+"829",74701,,,"Antonio Palocci","SP","PT",196,,,,,,3.91512662559891,1,"Ministro de Estado"
+"830",74702,,,"Vandeval Lima Dos Santos","SP","PTB",436,,,,,,,,
+"831",74703,,,"Celso Antonio Giglio","SP","PTB",436,,,,,,,,
+"832",74704,,,"Emerson Kapaz","SP","PPS",436,,,,,,,,
+"833",74705,,,"Evilásio Cavalcante De Farias","SP","PSB",436,,,,,,,,
+"834",74740,,,"José Rezende","",,436,,,,,,,,
+"835",74741,,,"José Santana De Vasconcellos","MG","PR",334,,,,,,3.99726214921287,1,"Término da Legislatura"
+"836",74742,1272935.51,"RECURSOS DE PESSOAS FÍSICAS","Lael Varella","MG","DEM",399,11670583.94,12,1272935.51,3100302,1805,,1,""
+"837",74744,1108344.8,"RECURSOS DE PESSOAS FÍSICAS","Marcio Reinaldo Moreira","MG","PP",10,4637271.69,11,1108344.8,3100203,5,1.91649555099247,1,"Renúncia"
+"838",74745,508812.84,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Marcos Lima","MG","PMDB",0,11947561.39,12,508812.84,3100807,54,2.06707734428474,1,"Término da Legislatura"
+"839",74746,,,"Maria Elvira Salles Ferreira","MG","PMDB",436,,,,,,,,
+"840",74747,544190,"RECURSOS DE PESSOAS FÍSICAS","Mário De Oliveira","MG","PSC",205,1210973.91,19,544241.99,3100104,1,1.43463381245722,4,"Licença Conjunta Consecutiva"
+"841",74749,1168905,"RECURSOS DE PESSOAS JURÍDICAS","Mauro Lopes","MG","PMDB",63,6552241.27,11,1168893.85,3100203,24,,1,""
+"842",74750,2462342.03,"RECURSOS DE PESSOAS FÍSICAS","Newton Cardoso","MG","PMDB",67,81247198.08,11,2462313.82,3100104,3,,1,""
+"843",74751,515849.33,"RECURSOS PRÓPRIOS","Nilmário Miranda","MG","PT",0,534296,11,515849.33,3100104,2,,1,""
+"844",74752,,,"Odelmo Leão Carneiro Sobrinho","MG","PPB",436,,,,,,,,
+"845",74753,,,"Osmânio Pereira","MG","PSDB",436,,,,,,,,
+"846",74754,1006058.52,"RECURSOS DE PESSOAS JURÍDICAS","Paulo Delgado","MG","PT",422,1391056.99,11,1006057.77,3100104,2,1.4154688569473,1,"Término da Legislatura"
+"847",74756,,,"Philemon Rodrigues","PB","PTB",436,,,,,,,,
+"848",74758,,,"Roberto Brant","MG","PFL",436,,,,,,,,
+"849",74759,,,"Romel Anizio","MG","PPB",436,,,,,,,,
+"850",74760,,,"Ronaldo Perim","MG","PMDB",436,,,,,,,,
+"851",74762,2469787.17,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Saraiva Felipe","MG","PMDB",133,4928422.69,11,2468478.67,3100203,75,,1,""
+"852",74763,339993.5,"RECURSOS DE PESSOAS FÍSICAS","Sérgio Miranda De Matos Brito","MG","PCDOB",436,756415.36,11,339309.37,3100203,9,,,
+"853",74765,704722.16,"RECURSOS DE PARTIDO POLÍTICO","Silas Brasileiro","MG","PMDB",323,11201482.73,11,704722.06,3100104,24,,1,""
+"854",74767,,,"Tilden José Santiago","MG","PT",436,,,,,,,,
+"855",74768,,,"Vittorio Medioli","MG","PSDB",436,,,,,,,,
+"856",74769,,,"Zaire Rezende","",,436,,,,,,,,
+"857",74771,,,"João Miguel Feu Rosa","ES","PSDB",436,,,,,,,,
+"858",74772,,,"João Carlos Coser","ES","PT",436,,,,,,,,
+"859",74774,,,"Luiz Buaiz","",,436,,,,,,,,
+"860",74775,,,"Luiz Durao","ES","PDT",436,,,,,,,,
+"861",74776,,,"Nilton Gomes Oliveira","ES","PPB",436,,,,,,,,
+"862",74777,,,"Rita Camata","ES","PSDB",271,,,,,,3.99726214921287,1,"Término da Legislatura"
+"863",74778,,,"Gilberto Kassab","SP","PFL",436,,,,,,,,
+"864",74779,,,"Dr. Hélio","SP","PDT",436,,,,,,,,
+"865",74780,154401.74,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Iara Bernardi","SP","PT",150,651094.85,12,154274.96,3500105,2,,1,""
+"866",74781,,,"João Herrmann","SP","PDT",36,,,,,,0.262833675564682,1,"Falecimento"
+"867",74782,,,"Jose Dirceu","SP","PT",436,,,,,,,,
+"868",74783,1704551.67,"RECURSOS DE PESSOAS JURÍDICAS","Julio Semeghini","SP","PSDB",24,3422173.52,11,1703622.07,3500105,14,0.0027378507871321,1,"Secretário de Estado"
+"869",74784,249005,"RECURSOS DE PESSOAS FÍSICAS","Luiza Erundina","SP","PSB",59,2006754.13,11,245895.77,3500105,15,,1,""
+"870",74785,,,"Marcos Cintra Cavalcanti De Albuquerque","SP","PL",436,,,,,,,,
+"871",74786,582508.08,"RECURSOS DE PESSOAS FÍSICAS","Luiz Antonio De Medeiros Neto","SP","PFL",436,355670.11,21,582508.08,3500105,11,,,
+"872",74787,1070531.64,"RECURSOS DE PESSOAS FÍSICAS","Milton Monti","SP","PR",45,2594318.72,11,1070405.74,3500105,2,,1,""
+"873",74788,,,"Moreira Ferreira E Outros","SP","PFL",436,,,,,,,,
+"874",74789,,,"Nello Rodolpho Giongo Filho","SP","PPB",436,,,,,,,,
+"875",74790,72880,"RECURSOS PRÓPRIOS","Rubeneuton Oliveira Lima","SP","PDT",436,2126128.66,2,72880,3500105,2,,,
+"876",74791,,,"Paulo Kobayashi","SP","PSDB",436,,,,,,,,
+"877",74792,,,"Luiz Carlos Da Silva","SP","PT",436,,,,,,,,
+"878",74793,3020241.78,"RECURSOS DE PESSOAS FÍSICAS","Ricardo Berzoini","SP","PT",305,1596455,12,3023441.73,3500105,12,,1,""
+"879",74794,,,"Jose Roberto Batochio","SP","PDT",436,,,,,,,,
+"880",74795,,,"Rubens Furlan","SP","PPS",436,,,,,,,,
+"881",74796,,,"Sampaio Dória","SP","PSDB",436,,,,,,,,
+"882",74797,,,"Xico Graziano","SP","PSDB",436,,,,,,,,
+"883",74798,,,"José Índio","SP","PMDB",436,,,,,,,,
+"884",74799,,,"Celcita Pinheiro","MT","DEM",150,,,,,,0.0574948665297741,1,"Término da Legislatura"
+"885",74800,,,"Laudnir Lino","MT","PSDB",436,,,,,,,,
+"886",74801,,,"Wilson Pereira Dos Santos","MT","PMDB",436,,,,,,,,
+"887",74802,1311722.93,"RECURSOS PRÓPRIOS","Magela","DF","PT",305,3510822,11,1311269.93,530010,2510,0.331279945242984,5,"Secretário de Estado"
+"888",74803,,,"Maria De Lourdes Abadia","DF","PSDB",436,,,,,,,,
+"889",74804,,,"Paulo Octavio","DF","PTB",436,,,,,,,,
+"890",74805,,,"Pedro Celso","DF","PT",436,,,,,,,,
+"891",74806,,,"Tadeu Filippelli","DF","PMDB",58,,,,,,3.91238877481177,1,"Renúncia"
+"892",74807,,,"Euler Lázaro De Morais","GO","PMDB",436,,,,,,,,
+"893",74808,,,"Geovan Freitas","GO","PMDB",436,,,,,,,,
+"894",74809,,,"Juquinha","GO","PL",436,,,,,,,,
+"895",74810,,,"Luiz Bittencourt","GO","PMDB",51,,,,,,3.99726214921287,1,"Término da Legislatura"
+"896",74811,,,"Norberto Teixeira","GO","PMDB",436,,,,,,,,
+"897",74812,1258679.26,"RECURSOS DE PESSOAS FÍSICAS","Pedro Chaves","GO","PMDB",201,1098886.03,11,1258679.26,5200050,12,,1,""
+"898",74813,2771075.5,"RECURSOS DE PESSOAS JURÍDICAS","Ronaldo Caiado","GO","DEM",221,8270772.62,19,2771075.5,5200050,159,,1,""
+"899",74814,,,"Eurídio Ben-Hur Ferreira","MS","PT",436,,,,,,,,
+"900",74828,,,"Aldir Cabral","RJ","PFL",436,,,,,,,,
+"901",74829,749411.28,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Alexandre Cardoso","RJ","PSB",196,4299963.34,2,748844.83,3300100,28,0.553045859000684,2,"Secretário de Estado"
+"902",74830,1461452.4,"RECURSOS DE PESSOAS JURÍDICAS","Alexandre Santos","RJ","PMDB",399,1791333.93,12,1461311.23,3300100,47,,1,""
+"903",74833,537500,"RECURSOS PRÓPRIOS","Arolde De Oliveira","RJ","PSD",152,6823942.35,2,537194.2,3300100,70,,1,""
+"904",74834,,,"Candinho Mattos","",,436,,,,,,,,
+"905",74835,211777,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Carlos Santana","RJ","PT",412,606999,13,211686.67,3300100,108,3.99726214921287,1,"Término da Legislatura"
+"906",74838,1660066.92,"RECURSOS DE PESSOAS FÍSICAS","Edson Ezequiel","RJ","PMDB",175,755948.96,12,1659306.71,3300100,3,,1,""
+"907",74840,,,"Eurico Miranda","RJ","PPB",436,,,,,,,,
+"908",74841,,,"Fernando Gabeira","RJ","PV",271,,,,,,3.99726214921287,1,"Término da Legislatura"
+"909",74842,85000,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Fernando Gonçalves","RJ","PTB",196,,,,3300100,3,0.49555099247091,1,"Afastamento"
+"910",74843,269831.95,"RECURSOS DE PESSOAS FÍSICAS","Fernando Lopes","RJ","PMDB",76,992477.03,19,259539.32,3300100,68,,3,"Afastamento"
+"911",74844,,,"Francisco Dornelles","RJ","PP",436,,,,,,,,
+"912",74845,,,"Francisco Silva","RJ","PP",436,,,,,,,,
+"913",74846,,,"Itamar Serpa","RJ","PSDB",436,,,,,,,,
+"914",74847,196379.86,"RECURSOS PRÓPRIOS","Jair Bolsonaro","RJ","PP",77,1650315.46,11,196369.38,3300100,170,,1,""
+"915",74848,1830098.75,"RECURSOS DE PESSOAS FÍSICAS","Jandira Feghali","RJ","PCDOB",361,692806,11,1829908.28,3300100,71,,1,""
+"916",74849,,,"João Ricardo Mendes","RJ","PPB",436,,,,,,,,
+"917",74850,,,"Jorge Wilson De Matos","RJ","PMDB",436,,,,,,,,
+"918",74851,,,"José Carlos Pires Coutinho","RJ","PFL",436,,,,,,,,
+"919",74852,,,"Jose Carlos Lacerda","",,436,,,,,,,,
+"920",74853,,,"Jose Egydio","RJ","PL",436,,,,,,,,
+"921",74856,586897.29,"RECURSOS DE PESSOAS FÍSICAS","Maria Laura Monteza De Souza Carneiro","RJ","PFL",436,2185784.63,11,586897.29,3300100,14,,,
+"922",74858,,,"Lindberg Farias","RJ","PT",436,,,,,,,,
+"923",74860,,,"Marcio Fortes","RJ","PSDB",436,,,,,,,,
+"924",74861,,,"Jorge Milton Temer","RJ","PT",436,,,,,,,,
+"925",74862,944749.46,"RECURSOS PRÓPRIOS","Miro Teixeira","RJ","PROS",199,763874.83,21,944407.11,3300100,29,,1,""
+"926",74863,,,"Moreira Franco","RJ","PMDB",436,,,,,,,,
+"927",75431,852125.09,"RECURSOS PRÓPRIOS","Maurício Dziedricki","RS","PTB",0,1365062.06,14,852125.09,4300034,206,0.0191649555099247,1,"Secretário de Estado"
+"928",76287,245069.86,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Marcelo Matos","RJ","PDT",399,383562,21,245069.86,3300100,846,,1,""
+"929",76420,1149038.48,"RECURSOS DE PESSOAS FÍSICAS","Rui Palmeira","AL","PSDB",0,1211506.54,11,1149038.48,2700102,301,1.57700205338809,2,"Licença Conjunta Consecutiva"
+"930",77701,,,"Jackson Barreto","SE","PMDB",199,,,,,,3.91238877481177,1,"Renúncia"
+"931",80920,773206.5,"RECURSOS DE PESSOAS FÍSICAS","Penna","SP","PV",197,201882,21,769922.77,3500105,9,,1,""
+"932",81232,1769867.94,"RECURSOS DE PESSOAS JURÍDICAS","Irajá Abreu","TO","PSD",312,2118125.95,11,1760535.46,1700251,89,,2,"Secretário de Estado"
+"933",81512,140497.54,"RECURSOS DE PESSOAS FÍSICAS","Luciana Costa","SP","PR",38,1569956.78,12,140497.54,3500105,5,3.73442847364819,1,"Término da Legislatura"
+"934",86634,,,"Fredo Junior","DF","PCDOB",0,,,,,,0.0520191649555099,1,"Término da Legislatura"
+"935",88950,2737059.72,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Rodrigo Garcia","SP","DEM",0,5815433.34,11,2735402.86,3500105,82,0.328542094455852,2,"Secretário de Estado"
+"936",89282,143800,"RECURSOS DE PESSOAS FÍSICAS","Reguffe","DF","PDT",240,2489846.66,11,120460.39,530010,31681,,1,""
+"937",92355,510512.9,"RECURSOS PRÓPRIOS","Vitor Paulo","RJ","PRB",149,775759.6,19,510402.96,3300100,615,,1,""
+"938",92776,212640,"RECURSOS DE PESSOAS FÍSICAS","Stefano Aguiar","MG","PSB",0,2777865.03,19,212373.37,3100104,57,,4,"Afastamento"
+"939",94931,317075.27,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Lucio Vieira Lima","BA","PMDB",401,8305351.77,11,316999.43,290170,115,,1,""
+"940",97822,687903.54,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Jaqueline Roriz","DF","PMN",314,4021209.47,12,687903.54,530010,1963,,1,""
+"941",99654,245703.04,"RECURSOS DE PESSOAS FÍSICAS","Erivelton Santana","BA","PSC",84,234448,61,245700,290170,16,,1,""
+"942",104254,1303115.06,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Rui Costa","BA","PT",213,922988.56,11,1302714.02,290170,258,0.92539356605065,1,"Secretário de Estado"
+"943",109152,3746851.18,"RECURSOS DE PESSOAS JURÍDICAS","Bernardo Santana De Vasconcellos","MG","PR",199,2502102.15,22,3739069.99,3100203,10,,1,""
+"944",109372,1489549.85,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Paulo Ferreira","RS","PT",0,593985.02,19,1489549.85,4300034,2,,1,""
+"945",114586,116050,"RECURSOS DE PESSOAS FÍSICAS","Cristiano","RJ","PTDOB",47,283267,32,116050,3300100,5,0.525667351129363,1,"Afastamento"
+"946",116663,455938.13,"RECURSOS DE PESSOAS FÍSICAS","Alfredo Sirkis","RJ","PSB",271,2151150.17,31,455612.71,3300100,43,,1,""
+"947",118384,771906.43,"RECURSOS DE PESSOAS FÍSICAS","Dr. Carlos Alberto","RJ","PMN",0,8718070.04,11,765759.51,3300100,8,,2,"Afastamento"
+"948",121759,497874.71,"RECURSOS PRÓPRIOS","Marllos Sampaio","PI","PMDB",370,581864.7,41,497874.71,220095,17,,1,""
+"949",122158,1476788,"RECURSOS DE PESSOAS JURÍDICAS","Pedro Paulo","RJ","PMDB",45,1544155.33,11,1476665.13,3300100,25,0.438056125941136,7,"Secretário de Estado"
+"950",122195,333038.56,"RECURSOS PRÓPRIOS","Leonardo Gadelha","PB","PSC",0,1199174.12,11,333023.36,251640,1,,1,""
+"951",123756,430291.92,"RECURSOS DE PESSOAS JURÍDICAS","Antônia Lúcia","AC","PSC",45,2432247,11,430282.95,1200013,447,,1,""
+"952",128760,130150.24,"RECURSOS DE PESSOAS FÍSICAS","Paulo Marinho Junior","MA","PMDB",0,1816874.48,13,130141.73,2100055,45,0.314852840520192,1,"Afastamento"
+"953",129037,3054764.81,"RECURSOS DE PESSOAS FÍSICAS","Gabriel Guimarães","MG","PT",199,1336887.11,15,2989732.12,3100203,16,,1,""
+"954",129617,,,"Amador Tut","MT","PL",436,,,,,,,,
+"955",129618,276775,"RECURSOS PRÓPRIOS","Gorete Pereira","CE","PR",348,4936141.52,11,276775,2300101,53,,1,""
+"956",131873,,,"Carlos Wilson","PE","PT",227,,,,,,2.19028062970568,1,"Falecimento"
+"957",132056,803339.08,"RECURSOS DE PESSOAS FÍSICAS","Paulo Maluf","SP","PP",118,44896455.96,1,803339.08,3500105,231,,1,""
+"958",133370,,,"Walter Barelli","SP","PSDB",436,,,,,,,,
+"959",133371,,,"Antenor Naspolini","CE","PSDB",436,,,,,,,,
+"960",133372,804995.65,"RECURSOS PRÓPRIOS","Natan Donadon","RO","S.PART.",431,1849876.99,12,804975.67,1100015,285,2.57357973990418,1,"Afastamento"
+"961",133373,1479549.5,"RECURSOS PRÓPRIOS","Marco Maia","RS","PT",405,742359.52,12,1479549.5,4300034,1,,1,""
+"962",133374,1116954.57,"RECURSOS DE PESSOAS FÍSICAS","Ademir Camilo","MG","PROS",329,2775079.23,12,1116259.51,3100104,3,,1,""
+"963",133375,,,"Edinho Montemor","SP","PSB",199,,,,,,0.0711841204654346,1,"Término da Legislatura"
+"964",133376,,,"Jair De Oliveira","ES","PMDB",436,,,,,,,,
+"965",133377,,,"André Costa","RJ","PDT",436,,,,3300159,1,,,
+"966",133439,407957.5,"RECURSOS PRÓPRIOS","André Figueiredo","CE","PDT",13,3874879.63,11,407957.5,2300101,27,,1,""
+"967",133440,,,"Ana Alencar","TO","PSDB",436,,,,,,,,
+"968",133658,,,"Capitão Wayne","GO","PSDB",436,,,,,,,,
+"969",133853,,,"Ibsen Pinheiro","RS","PMDB",273,,,,,,3.99726214921287,1,"Término da Legislatura"
+"970",134115,,,"Ana Guerra","MG","PT",436,,,,,,,,
+"971",134116,,,"Thaís Barbosa","MT","PMDB",436,,,,,,,,
+"972",134893,,,"Vitorassi","PR","PT",436,,,,,,,,
+"973",135476,,,"Jorge Vi","AL","PSDB",436,,,,,,,,
+"974",136226,,,"Alexandre Maia","MG","PMDB",436,,,,,,,,
+"975",136377,,,"Fernando Estima","SP","PPS",436,,,,,,,,
+"976",136811,656026.5,"RECURSOS PRÓPRIOS","Afonso Hamm","RS","PP",36,1590101.52,11,655513.28,4300034,933,,1,""
+"977",137116,,,"Cláudio Rorato","PR","PMDB",436,,,,,,,,
+"978",137578,,,"Fred Kohler","RJ","PMDB",436,,,,,,,,
+"979",137759,,,"Vicente Chelotti","DF","PMDB",436,,,,,,,,
+"980",137983,1263641,"RECURSOS PRÓPRIOS","Francisco Escórcio","MA","PMDB",399,28870841,12,1263641,2100055,2117,,1,""
+"981",138512,,,"Irineu Rodrigues","PR","PPS",436,,,,,,,,
+"982",139133,,,"Alceni Guerra","PR","DEM",196,,,,,,2.93771389459274,4,"Secretário de Estado"
+"983",139187,960235.06,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Edmilson Valentim","RJ","PCDOB",347,777849.95,11,960235.06,3300100,24,3.99726214921287,1,"Término da Legislatura"
+"984",139212,,,"Francisco Rossi","SP","PMDB",146,,,,,,3.46064339493498,2,"Licença Conjunta Consecutiva"
+"985",139285,,,"Lídice Da Mata","BA","PSB",45,,,,,,3.99726214921287,1,"Término da Legislatura"
+"986",139311,398610.23,"RECURSOS PRÓPRIOS","Moises Avelino","TO","PMDB",247,12554300.32,2,398610.23,1700251,69,3.99726214921287,1,"Término da Legislatura"
+"987",140241,,,"Ricardo Santos","ES","PSDB",436,,,,,,,,
+"988",141057,1018933.45,"RECURSOS DE PARTIDO POLÍTICO","Cláudio Diaz","RS","PSDB",224,2026406,11,1018933.45,4300034,152,3.98357289527721,1,"Término da Legislatura"
+"989",141331,,,"Carlos Lapa","PE","PSB",436,,,,,,,,
+"990",141334,,,"Clóvis Corrêa","PE","PSB",436,,,,,,,,
+"991",141335,652180.13,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Beto Faro","PA","PT",106,930256,13,652180.13,150475,18,,1,""
+"992",141336,134312.31,"RECURSOS PRÓPRIOS","Charles Lucena","PE","PTB",143,,,134312.31,260545,4,1.79876796714579,1,"Término da Legislatura"
+"993",141344,710727.83,"RECURSOS DE PARTIDO POLÍTICO","Fernando Chucre","SP","PSDB",166,1440051.19,13,710719.1,3500105,3,3.99726214921287,1,"Término da Legislatura"
+"994",141371,496654.78,"RECURSOS DE PESSOAS FÍSICAS","Dr. Adilson Soares","RJ","PR",199,1787859.32,11,496654.78,3300100,253,,1,""
+"995",141372,1590582.2,"RECURSOS DE PESSOAS JURÍDICAS","Aelton Freitas","MG","PR",182,8155192.98,2,1588220.87,3100104,1017,,1,""
+"996",141373,,,"Albano Franco","SE","PSDB",267,,,,,,3.99726214921287,1,"Término da Legislatura"
+"997",141374,2905877.68,"RECURSOS DE PESSOAS FÍSICAS","Alexandre Silveira","MG","PSD",155,3362494.91,11,2902386.93,3100104,1,0.0301163586584531,2,"Secretário de Estado"
+"998",141375,2378850.91,"RECURSOS DE PESSOAS JURÍDICAS","Aline Corrêa","SP","PP",60,2948823.72,29,2378850.91,3500105,2,,1,""
+"999",141376,,,"Bel Mesquita","PA","PMDB",270,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1000",141377,1512882,"RECURSOS DE PESSOAS JURÍDICAS","Ana Arraes","PE","PSB",199,3188953.93,11,1512579.43,260545,205,0.714579055441478,1,"Renúncia"
+"1001",141378,1362016.87,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Andre Vargas","PR","PT",160,2975971.54,12,1362016.87,4100103,199,,1,""
+"1002",141379,472011.77,"RECURSOS DE PESSOAS FÍSICAS","Andreia Zito","RJ","PSDB",99,3494954.24,1,472011.77,3300100,38,,1,""
+"1003",141380,,,"Angela Portela","RR","PT",150,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1004",141381,907340.36,"RECURSOS DE PESSOAS FÍSICAS","Angelo Vanhoni","PR","PT",305,1421940.17,11,916320.4,4100202,27,,1,""
+"1005",141382,441597.11,"RECURSOS PRÓPRIOS","Tonha Magalhães","BA","PR",160,1949081.41,12,441595.26,290510,16,3.99726214921287,1,"Término da Legislatura"
+"1006",141383,408429,"RECURSOS PRÓPRIOS","Antonio Bulhões","SP","PRB",234,4813635.22,21,408382.85,3500204,6,,1,""
+"1007",141384,362223.12,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Valadares Filho","SE","PSB",40,769650,11,366827.13,2800100,477,,1,""
+"1008",141385,2088177.76,"RECURSOS DE PESSOAS JURÍDICAS","Duarte Nogueira","SP","PSDB",31,2108665.68,11,2088025.49,3500105,8,,1,""
+"1009",141386,308725,"RECURSOS DE PESSOAS FÍSICAS","Eudes Xavier","CE","PT",265,945860.91,11,308701.36,2300101,1,,1,""
+"1010",141387,1009196.54,"RECURSOS DE PARTIDO POLÍTICO","Antônio Andrade","MG","PMDB",164,6799595.65,11,1009196.54,3100104,93,2.11909650924025,1,"Ministro de Estado"
+"1011",141388,,,"Antonio José Medeiros","PI","PT",12,,,,,,1.31690622861054,2,"Secretário de Estado"
+"1012",141389,,,"Indio Da Costa","RJ","DEM",199,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1013",141390,750736.32,"RECURSOS DE PESSOAS JURÍDICAS","Antônio Roberto","MG","PV",200,2196308.44,11,750736.32,3100104,2,,1,""
+"1014",141391,2763217.61,"RECURSOS DE PARTIDO POLÍTICO","Arnaldo Jardim","SP","PPS",114,5078277.62,11,2730165.09,3500303,936,,1,""
+"1015",141392,,,"Arnaldo Vianna","RJ","PDT",196,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1016",141393,480876.18,"RECURSOS DE PESSOAS JURÍDICAS","Bruno Rodrigues","PE","PSDB",399,900342,21,480876.18,260545,2,3.99726214921287,1,"Término da Legislatura"
+"1017",141394,1770000,"RECURSOS DE PESSOAS JURÍDICAS","Bruno Araújo","PE","PSDB",199,1672023.04,12,1670000,2600054,228,,1,""
+"1018",141395,1972738.18,"RECURSOS DE PESSOAS JURÍDICAS","Camilo Cola","ES","PMDB",0,3400996.32,21,1972697.62,3200102,85,,3,"Afastamento"
+"1019",141396,4743205.3,"RECURSOS DE PESSOAS FÍSICAS","Cândido Vaccarezza","SP","PT",311,1951660.43,19,4742689.68,3500105,99,,1,""
+"1020",141397,,,"Carlos Alberto Canuto","AL","PSC",367,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1021",141398,3939222.91,"RECURSOS DE PESSOAS FÍSICAS","Carlos Zarattini","SP","PT",45,943734.05,11,3939220.28,3500303,57,,1,""
+"1022",141399,643938.02,"RECURSOS DE PESSOAS JURÍDICAS","Brizola Neto","RJ","PDT",0,695535.31,21,643796.53,3300100,48,1.09787816563997,2,"Afastamento"
+"1023",141400,884983.48,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Vieira Da Cunha","RS","PDT",218,2151689,11,925344.37,4300034,2,,1,""
+"1024",141401,2484575,"RECURSOS DE PESSOAS JURÍDICAS","Carlos Bezerra","MT","PMDB",103,6331620.92,11,2793017.56,510452,24,,2,"Licença Conjunta Consecutiva"
+"1025",141402,181310.8,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Carlos Brandão","MA","PSDB",378,1705419.85,13,181310.8,2100055,30,,2,"Licença Conjunta Consecutiva"
+"1026",141403,2387504.67,"RECURSOS DE PESSOAS JURÍDICAS","Ratinho Junior","PR","PSC",435,3212447.97,12,2387504.67,4100103,69,1.68651608487337,2,"Licença Conjunta Consecutiva"
+"1027",141404,,,"Cassio Taniguchi","PR","DEM",24,,,,,,1.09240246406571,4,"Secretário de Estado"
+"1028",141405,561834.06,"RECURSOS DE PARTIDO POLÍTICO","Celso Maldaner","SC","PMDB",353,5409566.92,13,561344.18,4200051,690,,1,""
+"1029",141406,,,"Ciro Gomes","CE","PSB",72,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1030",141407,,,"Ciro Pedrosa","MG","PV",369,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1031",141408,336070,"RECURSOS PRÓPRIOS","Cleber Verde","MA","PRB",293,2956900.74,11,336070,2100055,728,,2,"Licença Conjunta Consecutiva"
+"1032",141409,,,"Clodovil Hernandes","SP","PR",362,,,,,,2.92676249144422,2,"Licença para Tratamento de Saúde"
+"1033",141410,,,"Cristiano Matheus","AL","PMDB",372,,,,,,1.91649555099247,1,"Renúncia"
+"1034",141411,,,"Dagoberto","MS","PDT",22,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1035",141412,638360,"RECURSOS DE PESSOAS JURÍDICAS","Davi Alves Silva Júnior","MA","PR",0,282981,61,637658.6,2100055,1467,,1,""
+"1036",141413,946021.91,"RECURSOS DE PESSOAS FÍSICAS","Décio Lima","SC","PT",418,2757418,11,946021.91,4200051,1,,1,""
+"1037",141414,,,"Dr. Basegio","RS","PDT",426,,,,,,0.194387405886379,1,"Afastamento"
+"1038",141415,,,"Djalma Berger","SC","PSB",91,,,,,,1.57700205338809,2,"Licença Conjunta Consecutiva"
+"1039",141416,414472.42,"RECURSOS DE PESSOAS FÍSICAS","Edgar Moury","PE","PMDB",225,5058029.99,11,414472.42,260545,1,3.99726214921287,1,"Término da Legislatura"
+"1040",141417,2340429.13,"RECURSOS DE PESSOAS FÍSICAS","Edio Lopes","RR","PMDB",170,1255676.6,12,2340429.13,1400027,55,,1,""
+"1041",141418,3733132.82,"RECURSOS DE PESSOAS FÍSICAS","Edson Aparecido","SP","PSDB",49,1999393.55,11,3732568.67,3500105,1127,0.405201916495551,2,"Secretário de Estado"
+"1042",141419,315100,"RECURSOS DE PESSOAS FÍSICAS","Edson Santos","RJ","PT",0,362416,21,310911.74,3300100,34,,1,""
+"1043",141420,,,"Eduardo Amorim","SE","PSC",196,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1044",141421,2967166.5,"RECURSOS DE PESSOAS JURÍDICAS","Eduardo Da Fonte","PE","PP",399,1578804.6,13,2967166.5,260545,66,,1,""
+"1045",141422,267380,"RECURSOS PRÓPRIOS","Efraim Filho","PB","DEM",199,2274978.4,11,267324.61,251640,633,,1,""
+"1046",141423,954316.85,"RECURSOS PRÓPRIOS","Eliene Lima","MT","PSD",208,1413647,14,954189.33,510452,2,,2,"Secretário de Estado"
+"1047",141424,,,"Elismar Prado","MG","PT",7,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1048",141425,,,"Ernandes Amorim","RO","PTB",334,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1049",141426,209313.71,"RECURSOS PRÓPRIOS","Eugênio Rabelo","CE","PP",327,920001,11,209225.55,2300150,15,3.99726214921287,1,"Término da Legislatura"
+"1050",141427,1485978.5,"RECURSOS DE PESSOAS JURÍDICAS","Fábio Ramalho","MG","PV",399,1011620.63,21,1485978.5,3100203,416,,1,""
+"1051",141428,1415087.2,"RECURSOS DE PARTIDO POLÍTICO","Fábio Faria","RN","PSD",40,3765519.69,11,1415036.47,2400109,762,,1,""
+"1052",141429,1759900,"RECURSOS PRÓPRIOS","Felipe Maia","RN","DEM",199,11222669.92,2,1757014.39,2400109,117,,1,""
+"1053",141430,400446.78,"RECURSOS PRÓPRIOS","Felipe Bornier","RJ","PSD",399,3978213.82,3,400330.43,3300100,10,,1,""
+"1054",141431,1531600,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Fernando Coelho Filho","PE","PSB",40,2038453.09,11,1530274.72,260545,5,,1,""
+"1055",141432,178370.2,"RECURSOS PRÓPRIOS","Fernando Melo","AC","PT",40,1063714,19,178370.2,1200013,539,3.99726214921287,1,"Término da Legislatura"
+"1056",141433,3214625.16,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Filipe Pereira","RJ","PSC",87,989483,19,3212179.02,3300100,467,2.06981519507187,1,"Secretário de Prefeitura de Capital"
+"1057",141434,342700,"RECURSOS PRÓPRIOS","Flaviano Melo","AC","PMDB",201,1463774,11,342377.64,1200013,330,,1,""
+"1058",141435,157400,"RECURSOS PRÓPRIOS","Flávio Bezerra","CE","PRB",215,1003344.48,13,157324.75,2300101,20,3.99726214921287,1,"Término da Legislatura"
+"1059",141436,,,"Flávio Dino","MA","PCDOB",279,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1060",141437,871711.16,"RECURSOS DE PESSOAS FÍSICAS","Frank Aguiar","SP","PTB",154,5689580.91,11,871711.16,3500204,3,1.90828199863107,1,"Renúncia"
+"1061",141438,321540.04,"RECURSOS DE PESSOAS FÍSICAS","Francisco Praciano","AM","PT",335,1064215.4,12,321540.04,1300029,127,,1,""
+"1062",141439,1153772.5,"RECURSOS DE PESSOAS FÍSICAS","Chico D'Angelo","RJ","PT",196,743037,11,1161280.79,3300100,4,1.80150581793292,1,"Afastamento"
+"1063",141440,459770.54,"RECURSOS DE PESSOAS FÍSICAS","Chico Lopes","CE","PCDOB",19,1696282,11,459764.43,2300150,64,,1,""
+"1064",141441,189546.58,"RECURSOS DE PESSOAS FÍSICAS","George Hilton","MG","PRB",242,896377,12,189546.58,3100104,2,,1,""
+"1065",141442,,,"Geraldo Pudim","RJ","PR",80,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1066",141443,,,"Germano Bonow","RS","DEM",196,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1067",141444,,,"Gerônimo Da Adefal","AL","PFL",371,,,,,,0.10403832991102,1,"Falecimento"
+"1068",141445,500513.68,"RECURSOS DE PESSOAS FÍSICAS","Pepe Vargas","RS","PT",196,1272873.2,11,500513.68,4300034,5,1.11430527036277,1,"Ministro de Estado"
+"1069",141446,2373076.18,"RECURSOS DE PESSOAS FÍSICAS","Gladson Cameli","AC","PP",188,1996507.59,21,2368641.01,1200013,713,,1,""
+"1070",141447,2517352.02,"RECURSOS DE PESSOAS FÍSICAS","Guilherme Campos","SP","PSD",159,5042284.58,12,2511028.63,3500303,417,,1,""
+"1071",141448,2934764.68,"RECURSOS DE PESSOAS FÍSICAS","Homero Pereira","MT","PSD",394,8157086.86,11,2934743.32,510452,53,2.63381245722108,1,"Aposentadoria por Invalidez"
+"1072",141449,,,"Barbosa Neto","PR","PDT",15,,,,,,2.24229979466119,1,"Renúncia"
+"1073",141450,1965534.42,"RECURSOS PRÓPRIOS","Hugo Leal","RJ","PROS",199,4466124.35,11,1977631.68,3300100,527,,1,""
+"1074",141451,,,"Ilderlei Cordeiro","AC","PPS",322,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1075",141452,,,"Léo Vivas","RJ","PRB",434,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1076",141453,2356840.9,"RECURSOS DE PESSOAS FÍSICAS","Íris De Araújo","GO","PMDB",326,19125099.69,2,2356840.9,5200050,420,,1,""
+"1077",141454,4212673.33,"RECURSOS DE PESSOAS JURÍDICAS","Alfredo Kaefer","PR","PSDB",373,98133602,11,4208060.16,4100103,135,,1,""
+"1078",141455,2050567.91,"RECURSOS DE PESSOAS FÍSICAS","Janete Rocha Pietá","SP","PT",395,1462318.72,21,2050266.37,3500709,16,,1,""
+"1079",141456,1469731.92,"RECURSOS DE PESSOAS FÍSICAS","Jilmar Tatto","SP","PT",238,5125859.56,11,1469731.92,3500105,6,1.91649555099247,1,"Secretário de Prefeitura de Capital"
+"1080",141457,1587116.79,"RECURSOS PRÓPRIOS","João Bittar","MG","DEM",0,1719828,11,1587116.79,3100104,19,,1,""
+"1081",141458,356684,"RECURSOS DE PESSOAS JURÍDICAS","João Carlos Bacelar","BA","PR",201,2727769,13,356631.78,290330,7,,2,"Licença Conjunta Consecutiva"
+"1082",141459,1134415.86,"RECURSOS DE PESSOAS FÍSICAS","João Maia","RN","PR",45,20199951,11,1134383.86,2400109,2056,,1,""
+"1083",141460,,,"João Oliveira","TO","DEM",40,,,,,,3.58110882956879,2,"Licença Conjunta Consecutiva"
+"1084",141461,595944.07,"RECURSOS PRÓPRIOS","Joaquim Beltrão","AL","PMDB",6,8356328.38,12,595886.84,2700102,251,1.91649555099247,1,"Renúncia"
+"1085",141462,471343.77,"RECURSOS DE PESSOAS FÍSICAS","Lira Maia","PA","DEM",36,3780398.93,11,471335.77,150475,6313,,1,""
+"1086",141463,632092.47,"RECURSOS DE PESSOAS FÍSICAS","Abelardo Camarinha","SP","PSB",290,1217963,31,733652.47,3500105,32,,2,"Licença Conjunta Consecutiva"
+"1087",141464,372914.7,"RECURSOS DE PESSOAS FÍSICAS","José Airton","CE","PT",20,822265.59,12,372584.57,2300101,12,,1,""
+"1088",141465,424734.26,"RECURSOS PRÓPRIOS","Pinto Itamaraty","MA","PSDB",40,2073791.29,11,424734.26,2100055,59,,2,"Licença Conjunta Consecutiva"
+"1089",141466,,,"José Fernando Aparecido De Oliveira","MG","PV",99,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1090",141467,318705.25,"RECURSOS PRÓPRIOS","Francisco Tenório","AL","PMN",315,2746089.24,12,318705.25,2700102,11,,1,""
+"1091",141468,222504.33,"RECURSOS DE PESSOAS FÍSICAS","Iran Barbosa","SE","PT",81,1356032.44,11,222504.33,2800100,174,3.99726214921287,1,"Término da Legislatura"
+"1092",141469,,,"Miguel Martini","MG","PHS",34,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1093",141470,1334800,"RECURSOS DE PESSOAS JURÍDICAS","José Guimarães","CE","PT",199,1292416.02,11,1334726.5,2300101,269,,1,""
+"1094",141471,571786.98,"RECURSOS DE PESSOAS JURÍDICAS","José Paulo Tóffano","SP","PV",33,2315857.41,12,571786.98,3500303,1,3.99726214921287,1,"Término da Legislatura"
+"1095",141472,1685974.92,"RECURSOS DE PESSOAS JURÍDICAS","Ricardo Tripoli","SP","PSDB",62,5134925.81,1,1685974.92,3500105,19,,1,""
+"1096",141473,813819.5,"RECURSOS PRÓPRIOS","Roberto Santiago","SP","PSD",414,2692385.59,12,813819.5,3500105,6,,1,""
+"1097",141474,470798.8,"RECURSOS PRÓPRIOS","Julião Amin","MA","PDT",199,1406932,11,470149.58,2100055,18,3.99726214921287,1,"Término da Legislatura"
+"1098",141475,381026.18,"RECURSOS PRÓPRIOS","Jurandy Loureiro","ES","PSC",39,3161166.6,11,381026.18,3200102,142,3.99726214921287,1,"Término da Legislatura"
+"1099",141476,,,"Jusmari Oliveira","BA","PR",177,,,,,,1.86173853524983,1,"Renúncia"
+"1100",141477,,,"Juvenil","MG","PRTB",199,,,,,,2.16016427104723,1,"Perda de Mandato"
+"1101",141478,40700,"RECURSOS PRÓPRIOS","Laerte Bessa","DF","PSC",370,1915021,11,40700,530010,2275,3.99726214921287,1,"Término da Legislatura"
+"1102",141479,524891.18,"RECURSOS PRÓPRIOS","Laurez Moreira","TO","PSB",199,2334362.32,13,524891.18,1700251,6,1.91649555099247,1,"Renúncia"
+"1103",141480,299266.92,"RECURSOS DE PESSOAS FÍSICAS","Lázaro Botelho","TO","PP",46,2512674.38,12,299266.92,1700251,2,,2,"Licença Conjunta Consecutiva"
+"1104",141481,,,"Leandro Sampaio","RJ","PPS",36,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1105",141482,2079914.32,"RECURSOS DE PESSOAS FÍSICAS","Leonardo Quintão","MG","PMDB",399,4194545.47,11,2079914.32,3100203,20,,1,""
+"1106",141483,425852.06,"RECURSOS PRÓPRIOS","Lindomar Garçon","RO","PV",160,,,425506.64,1100015,45,0.788501026694045,1,"Afastamento"
+"1107",141484,653211.31,"RECURSOS PRÓPRIOS","Lúcio Vale","PA","PR",40,508979.21,12,652915.41,150475,5,,1,""
+"1108",141485,1265697.2,"RECURSOS DE PARTIDO POLÍTICO","Luiz Carlos Busato","RS","PTB",375,7423852.3,1,1265519.25,4300034,3,0.0164271047227926,1,"Secretário de Estado"
+"1109",141486,667235.71,"RECURSOS PRÓPRIOS","Luiz Carlos Setim","PR","DEM",0,18179079.6,13,667235.71,4100103,4,1.90828199863107,1,"Renúncia"
+"1110",141487,2258534.22,"RECURSOS DE PESSOAS FÍSICAS","Luiz Fernando Faria","MG","PP",216,3252152.89,11,2258534.22,3100203,21,,1,""
+"1111",141488,3774616.54,"RECURSOS DE PESSOAS FÍSICAS","Paulo Teixeira","SP","PT",199,616592.31,11,3774600.01,3500105,11,,1,""
+"1112",141489,,,"Luiz Paulo Vellozo Lucas","ES","PSDB",398,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1113",141490,828802.93,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Manoel Junior","PB","PMDB",196,2307506,11,828776.59,251640,128,,1,""
+"1114",141491,,,"Pastor Manoel Ferreira","RJ","PR",226,,,,,,6.6776180698152,3,"Licença Conjunta Consecutiva"
+"1115",141492,1048275.55,"RECURSOS DE PESSOAS JURÍDICAS","Manuela D'Ávila","RS","PCDOB",271,296835.79,41,1048275.55,4300034,21,,2,"Licença Conjunta Consecutiva"
+"1116",141493,962824.9,"RECURSOS DE PESSOAS JURÍDICAS","Marcelo Serafim","AM","PSB",386,1892049.3,12,962824.9,1300029,283,3.99726214921287,1,"Término da Legislatura"
+"1117",141494,,,"Marcelo Melo","GO","PMDB",399,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1118",141495,1964712.78,"RECURSOS DE PESSOAS FÍSICAS","Marcelo Itagiba","RJ","PSDB",161,944084.79,19,1962876.71,3300100,84,3.99726214921287,1,"Término da Legislatura"
+"1119",141496,357850,"RECURSOS DE PESSOAS JURÍDICAS","Marcio Junqueira","RR","PROS",372,,,357850,1400027,140,0.741957563312799,1,"Afastamento"
+"1120",141497,3046728.04,"RECURSOS DE PESSOAS FÍSICAS","Márcio França","SP","PSB",199,2076656.64,11,3046684.38,3500105,4,,2,"Secretário de Estado"
+"1121",141498,671231.26,"RECURSOS DE PESSOAS JURÍDICAS","Dr. Ubiali","SP","PSB",0,8101872.77,2,671231.26,3500105,30,,2,"Afastamento"
+"1122",141499,54000,"RECURSOS PRÓPRIOS","Marcos Antonio","PE","PRB",0,1031020,11,55499.98,260545,4,3.99726214921287,1,"Término da Legislatura"
+"1123",141500,2243153.97,"RECURSOS DE PESSOAS JURÍDICAS","Marcos Montes","MG","PSD",158,5421425.27,1,2240625.32,3100104,236,,1,""
+"1124",141501,,,"Cida Diogo","RJ","PT",96,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1125",141502,127373,"RECURSOS DE PESSOAS FÍSICAS","Dalva Figueiredo","AP","PT",302,1452648.96,12,127364.36,1600055,393,,1,""
+"1126",141503,861149.77,"RECURSOS DE PESSOAS FÍSICAS","Jô Moraes","MG","PCDOB",351,375909,11,860923.76,3100203,43,,1,""
+"1127",141504,374540,"RECURSOS DE PESSOAS FÍSICAS","Lucenira Pimentel","AP","PR",379,,,373809,1600055,70,3.99726214921287,1,"Término da Legislatura"
+"1128",141505,,,"Marina Maggessi","RJ","PPS",421,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1129",141506,665143.04,"RECURSOS PRÓPRIOS","Maurício Trindade","BA","PROS",140,976332.18,11,665143.04,290170,2,1.92197125256674,1,"Secretário de Prefeitura de Capital"
+"1130",141507,1144677.3,"RECURSOS DE PESSOAS FÍSICAS","Mauro Mariani","SC","PMDB",389,1555056.15,11,1144677.3,4200051,3,,1,""
+"1131",141508,247199,"RECURSOS PRÓPRIOS","Mauro Nazif","RO","PSB",196,2678858,2,247199,1100015,431,1.91649555099247,1,"Renúncia"
+"1132",141509,1611467.63,"RECURSOS DE PESSOAS JURÍDICAS","Miguel Corrêa","MG","PT",409,1380939,12,1611467.63,3100203,35,,1,""
+"1133",141510,203952.72,"RECURSOS DE PESSOAS FÍSICAS","Neilton Mulim","RJ","PR",344,1277325.61,12,203878.21,3300100,17,1.91375770020534,1,"Renúncia"
+"1134",141511,,,"Nelson Goetten","SC","PR",403,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1135",141512,,,"Neudo Campos","RR","PP",201,,,,,,3.564681724846,1,"Renúncia"
+"1136",141513,1826311.34,"RECURSOS DE PESSOAS FÍSICAS","Bilac Pinto","MG","PR",199,11142411.04,13,1824318.92,3100104,1,0.0054757015742642,1,"Secretário de Estado"
+"1137",141514,524764.66,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Osmar Júnior","PI","PCDOB",99,972298.11,11,680649.07,220095,373,,1,""
+"1138",141515,1714441.67,"RECURSOS PRÓPRIOS","Otavio Leite","RJ","PSDB",55,2802235.7,12,1714399.66,3300100,112,,1,""
+"1139",141516,3117383.18,"RECURSOS DE PESSOAS FÍSICAS","Paulo Abi-Ackel","MG","PSDB",199,3277400.17,11,3117383.18,3100104,1,,1,""
+"1140",141517,830000,"RECURSOS DE PESSOAS FÍSICAS","Paulo Henrique Lustosa","CE","PP",151,1352653.92,21,830000,2300101,4,,2,"Secretário de Estado"
+"1141",141518,2999183.62,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Paulo Pereira Da Silva","SP","SDD",244,1958071.5,11,2998793.96,3500105,70,,1,""
+"1142",141519,2380528.47,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Paulo Piau","MG","PMDB",36,2128783.15,1,2380483.86,3100104,2,1.91375770020534,1,"Renúncia"
+"1143",141520,,,"Paulo Renato Souza","SP","PSDB",45,,,,,,2.31074606433949,2,"Secretário de Estado"
+"1144",141521,,,"Paulo Roberto Pereira","RS","PTB",248,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1145",141522,842731.5,"RECURSOS DE PARTIDO POLÍTICO","Sabino Castelo Branco","AM","PTB",168,1215138.88,21,841935.9,1300029,132,,1,""
+"1146",141523,946751.33,"RECURSOS DE PARTIDO POLÍTICO","Raul Henry","PE","PMDB",45,6557697.15,11,946751.33,260545,16,,1,""
+"1147",141524,,,"Veloso","BA","PMDB",380,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1148",141525,1337500,"RECURSOS DE PESSOAS JURÍDICAS","Rebecca Garcia","AM","PP",45,3948747.48,11,1314131.9,1300029,1555,1.86173853524983,1,"Secretário de Estado"
+"1149",141526,,,"Reinaldo Nogueira","SP","PDT",429,,,,,,1.91375770020534,1,"Renúncia"
+"1150",141527,1164139.11,"RECURSOS DE PESSOAS JURÍDICAS","Renato Molling","RS","PP",260,4125590.24,13,1164139.11,4300059,7,,1,""
+"1151",141528,484948.16,"RECURSOS DE PESSOAS JURÍDICAS","Renato Amary","SP","PSDB",225,2556433.06,12,484878.48,3500105,2,3.99726214921287,1,"Término da Legislatura"
+"1152",141529,408523.79,"RECURSOS PRÓPRIOS","Roberto Britto","BA","PP",130,4071641.47,11,408523.79,290170,2,,1,""
+"1153",141530,,,"Rodovalho","DF","PP",357,,,,,,2.93771389459274,5,"Secretário de Estado"
+"1154",141531,3711381.04,"RECURSOS DE PESSOAS JURÍDICAS","Rodrigo De Castro","MG","PSDB",22,4027205.41,11,3660985.54,3100203,38,,1,""
+"1155",141532,,,"Rodrigo Rocha Loures","PR","PMDB",44,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1156",141533,,,"Rodrigo Rollemberg","DF","PSB",431,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1157",141534,10000,"RECURSOS DE PESSOAS FÍSICAS","Rogerio Lisboa","RJ","DEM",199,513869.68,11,10000,3300209,8,3.99726214921287,1,"Término da Legislatura"
+"1158",141535,811151,"RECURSOS DE PESSOAS FÍSICAS","Rogério Marinho","RN","PSDB",0,2841554.63,12,811151,2400109,57,1.7138945927447,3,"Afastamento"
+"1159",141536,,,"Rômulo Gouveia","PB","PSDB",170,,,,,,3.60301163586585,2,"Secretário de Estado"
+"1160",141537,1136062.95,"RECURSOS DE PESSOAS FÍSICAS","Moreira Mendes","RO","PSD",195,6035866.39,11,1131095.37,1100015,415,,1,""
+"1161",141538,300393.98,"RECURSOS PRÓPRIOS","Professor Ruy Pauletti","RS","PSDB",69,2822670.45,11,300393.98,4300034,1,3.99726214921287,1,"Término da Legislatura"
+"1162",141539,226690,"RECURSOS DE PESSOAS FÍSICAS","Sebastião Bala Rocha","AP","SDD",196,986771,11,226557.85,1600055,31,,1,""
+"1163",141540,1074166.89,"RECURSOS DE PARTIDO POLÍTICO","Dr. Nechar","SP","PP",376,1994270.05,2,1074166.89,3500105,59,3.99726214921287,1,"Término da Legislatura"
+"1164",141541,,,"Sergio Petecão","AC","PMN",237,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1165",141542,581369.49,"RECURSOS DE PESSOAS FÍSICAS","Sérgio Moraes","RS","PTB",160,1052431.69,12,581364.45,4300109,160,,1,""
+"1166",141543,473256.75,"RECURSOS PRÓPRIOS","Professor Setimo","MA","PMDB",90,2102933.81,13,473256.75,2100055,138,,1,""
+"1167",141545,,,"Silvinho Peccioli","SP","DEM",199,,,,,,1.91649555099247,1,"Renúncia"
+"1168",141546,599740.25,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Solange Amaral","RJ","DEM",207,1863065.49,11,599737.6,3300100,24,3.99726214921287,1,"Término da Legislatura"
+"1169",141547,642820.7,"RECURSOS DE PESSOAS FÍSICAS","Solange Almeida","RJ","PMDB",0,1458530,12,641530.25,3300100,1,0.687200547570157,1,"Afastamento"
+"1170",141548,1999788.63,"RECURSOS DE PESSOAS JURÍDICAS","Sueli Vidigal","ES","PDT",431,1353488.27,11,1999705.82,3200102,1689,,1,""
+"1171",141549,65207.72,"RECURSOS DE PESSOAS FÍSICAS","Suely","RJ","PR",0,1303313.24,11,65180.71,3300100,2,3.99726214921287,1,"Término da Legislatura"
+"1172",141550,330840.05,"RECURSOS DE PESSOAS FÍSICAS","Dr. Talmir","SP","PV",196,2578426.47,12,330840.05,3500105,20,3.99726214921287,1,"Término da Legislatura"
+"1173",141551,456850,"RECURSOS PRÓPRIOS","Urzeni Rocha","RR","PSD",196,3760949,11,456850,1400027,236,,1,""
+"1174",141552,816130.09,"RECURSOS DE PESSOAS JURÍDICAS","Valtenir Pereira","MT","PROS",115,1149409.83,11,816130.09,510452,61,,2,"Licença Conjunta Consecutiva"
+"1175",141553,679452.61,"RECURSOS PRÓPRIOS","Vanderlei Macris","SP","PSDB",0,2729557.22,2,679452.61,3500105,22,,1,""
+"1176",141554,,,"Vicentinho Alves","TO","PR",119,,,,,,3.66324435318275,2,"Licença Conjunta Consecutiva"
+"1177",141555,,,"Vinicius Carvalho","RJ","PTDOB",408,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1178",141556,,,"Vital Do Rêgo Filho","PB","PMDB",411,,,,,,3.99726214921287,1,"Término da Legislatura"
+"1179",141557,1147735.86,"RECURSOS PRÓPRIOS","Vitor Penido","MG","DEM",0,10013726.14,1,1147735.86,3100203,555,,1,""
+"1180",141558,821762,"RECURSOS PRÓPRIOS","Waldir Maranhão","MA","PP",122,1484651,12,821762,2100055,169,,1,""
+"1181",141559,,,"Waldir Neves","MS","PSDB",214,,,,,,2.45037645448323,1,"Renúncia"
+"1182",141560,1816753.72,"RECURSOS DE PESSOAS JURÍDICAS","Walter Ihoshi","SP","PSD",0,1600636.72,11,1816753.72,3500105,42,,3,"Afastamento"
+"1183",141561,605790,"RECURSOS PRÓPRIOS","Wandenkolk Gonçalves","PA","PSDB",36,1364211.46,11,605317,150475,8,,1,""
+"1184",141562,1236550.64,"RECURSOS DE PESSOAS JURÍDICAS","Lelo Coimbra","ES","PMDB",196,641248.77,11,1227114.48,3200102,709,,1,""
+"1185",141563,1417805.08,"RECURSOS DE PESSOAS JURÍDICAS","William Woo","SP","PPS",83,3502646.06,11,1417782.78,3500105,35,3.99726214921287,1,"Término da Legislatura"
+"1186",141870,774258.47,"RECURSOS DE PESSOAS JURÍDICAS","Vilson Covatti","RS","PP",199,2508734.33,11,774258.47,4300034,7,,1,""
+"1187",143253,,,"Edigar Mão Branca","BA","PV",0,,,,,,3.0444900752909,1,"Afastamento"
+"1188",143254,,,"Acélio Casagrande","SC","PMDB",0,,,,,,1.86721423682409,3,"Secretário de Estado"
+"1189",143632,1194751.25,"RECURSOS DE PESSOAS FÍSICAS","Domingos Neto","CE","PROS",415,197093.2,11,1194032.26,2300101,14,2.01779603011636,1,"Secretário de Estado"
+"1190",145895,250986.5,"RECURSOS DE PESSOAS FÍSICAS","Gera Arruda","CE","PMDB",0,831077.4,13,250979.77,2300101,1,,4,"Afastamento"
+"1191",146307,692338.86,"RECURSOS DE PESSOAS FÍSICAS","Neri Geller","MT","PP",0,2938806.86,13,691909.94,510452,353,0.728268309377139,1,"Afastamento"
+"1192",146308,,,"Chico Abreu","GO","PR",81,1985654.95,12,,,,2.17659137577002,4,"Afastamento"
+"1193",146613,4953739.67,"RECURSOS PRÓPRIOS","Marcelo Almeida","PR","PMDB",282,162623114.48,11,4953739.67,4100103,4,,1,""
+"1194",146949,141828.75,"RECURSOS PRÓPRIOS","Rosinha Da Adefal","AL","PTDOB",12,860860.09,11,141800.72,2700102,52,,1,""
+"1195",147653,163221.46,"RECURSOS DE PESSOAS JURÍDICAS","Matteo Chiarelli","RS","DEM",55,1186606.67,21,163221.46,4300406,4,0.388774811772758,1,"Afastamento"
+"1196",147975,49864.1,"RECURSOS DE PESSOAS FÍSICAS","Dr. Paulo César","RJ","PR",196,,,49864.1,3300100,4,,1,""
+"1197",148134,60360,"RECURSOS DE PESSOAS JURÍDICAS","Professor Victório Galli","MT","PMDB",0,,,60360,510452,42,0.328542094455852,1,"Afastamento"
+"1198",148295,74753.56,"RECURSOS DE PESSOAS FÍSICAS","Walter Brito Neto","PB","PRB",0,852517.93,11,74554.61,251640,1,1.13073237508556,1,"Perda de Mandato"
+"1199",149293,,,"Saturnino Masson","MT","PSDB",160,,,,,,0.328542094455852,1,"Afastamento"
+"1200",149327,133658,"RECURSOS PRÓPRIOS","Major Fábio","PB","PROS",0,584034.16,13,133602.62,251640,32,,2,"Afastamento"
+"1201",150418,170750,"RECURSOS DE PESSOAS FÍSICAS","Márcio Marinho","BA","PRB",372,,,170730,290170,20,,1,""
+"1202",150634,268046.55,"RECURSOS DE PESSOAS FÍSICAS","Ricardo Quirino","DF","PRB",0,165193.57,21,268039.21,530010,905,0.451745379876797,1,"Afastamento"
+"1203",150635,,,"Alessandro Sabino","AP","PMDB",0,,,,,,0.317590691307324,1,"Afastamento"
+"1204",150876,3e+06,"RECURSOS DE PESSOAS FÍSICAS","Eduardo Moura","MT","PPS",0,41287594.03,19,2999947,510452,3,0.320328542094456,1,"Afastamento"
+"1205",151208,565126.82,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Laercio Oliveira","SE","SDD",40,1096580.61,11,565126.82,2800100,23,,1,""
+"1206",151214,,,"Ronaldo Leite","AM","PHS",0,,,,,,0.331279945242984,1,"Afastamento"
+"1207",151249,,,"José Edmar","DF","PR",0,,,,,,0.731006160164271,3,"Afastamento"
+"1208",151965,471701.44,"RECURSOS DE PESSOAS FÍSICAS","José Maia Filho","PI","DEM",0,1180339.7,12,475510.5,220095,806,2.22313483915127,1,"Término da Legislatura"
+"1209",152605,346973.5,"RECURSOS DE PESSOAS FÍSICAS","Glauber Braga","RJ","PSB",99,534779,12,346973.5,3300100,54,,1,""
+"1210",152606,193674.05,"RECURSOS PRÓPRIOS","Capitão Assumção","ES","PSB",0,154793.66,61,193632.77,3200102,283,2.06707734428474,1,"Término da Legislatura"
+"1211",152607,333657.5,"RECURSOS PRÓPRIOS","Zé Vieira","MA","PROS",0,11076898,11,333464.48,2100055,1372,,1,""
+"1212",152608,226652,"RECURSOS PRÓPRIOS","Fernando Nascimento","PE","PT",0,909986.72,11,226652,2600054,210,2.06707734428474,1,"Término da Legislatura"
+"1213",152609,115229.69,"RECURSOS PRÓPRIOS","Elizeu Aguiar","PI","PTB",0,1204669.08,11,114746.79,220095,10,1.24572210814511,1,"Afastamento"
+"1214",152610,,,"Roberto Alves","SP","PTB",0,,,,,,2.06707734428474,1,"Término da Legislatura"
+"1215",152611,341006.25,"RECURSOS PRÓPRIOS","Antonio Carlos Chamariz","AL","PTB",0,452624,13,341002.82,2700102,36,2.06707734428474,1,"Término da Legislatura"
+"1216",152865,3222820.34,"RECURSOS DE PESSOAS JURÍDICAS","Rodrigo Bethlem","RJ","PMDB",0,2747021.71,12,3221470.98,3300100,17,0.70362765229295,5,"Secretário de Prefeitura de Capital"
+"1217",153384,752941.58,"RECURSOS DE PESSOAS FÍSICAS","Emilia Fernandes","RS","PT",150,1602324.15,12,752888.1,4300034,67,1.95208761122519,1,"Término da Legislatura"
+"1218",154178,,,"Milton Vieira","SP","DEM",0,,,,,,1.91101984941821,1,"Término da Legislatura"
+"1219",154417,,,"Paes De Lira","SP","PTC",393,,,,,,1.85626283367556,1,"Término da Legislatura"
+"1220",154734,185132.68,"RECURSOS PRÓPRIOS","Fernando Chiarelli","SP","PDT",81,,,185132.68,3500105,1,1.79876796714579,1,"Término da Legislatura"
+"1221",154739,287355.81,"RECURSOS DE PESSOAS FÍSICAS","José C. Stangarlini","SP","PSDB",0,1597936,3,287355.81,3500105,7,1.22381930184805,3,"Afastamento"
+"1222",154919,831404.5,"RECURSOS PRÓPRIOS","Eleuses Paiva","SP","PSD",0,14961142.89,2,831404.5,3500105,1583,,1,""
+"1223",154996,5690641.99,"RECURSOS PRÓPRIOS","Wilson Picler","PR","PDT",0,25491904.2,11,5690358.27,4100103,27,1.74401095140315,1,"Término da Legislatura"
+"1224",154997,387403.76,"RECURSOS PRÓPRIOS","Emiliano José","BA","PT",0,2173716.02,11,387399.74,290170,3,1.44558521560575,2,"Afastamento"
+"1225",155920,,,"Geraldinho","RS","PSOL",0,,,,,,0.331279945242984,1,"Afastamento"
+"1226",156634,,,"Bene Camacho","MA","PTB",0,,,,,,0.517453798767967,2,"Afastamento"
+"1227",158328,,,"Chico Daltro","MT","PP",0,,,,,,0.334017796030116,1,"Afastamento"
+"1228",159058,,,"Junior Marzola","TO","DEM",429,,,,,,0.407939767282683,2,"Afastamento"
+"1229",159237,599142.52,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Assis Carvalho","PI","PT",12,2581494.78,11,599106.39,220095,223,,1,""
+"1230",159238,1702647.54,"RECURSOS DE PESSOAS FÍSICAS","Marcus Pestana","MG","PSDB",109,1640818.57,11,1702453.81,3100104,4,,1,""
+"1231",159258,125464.65,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Vicente Selistre","RS","PSB",0,774388,11,125451.28,4300034,1,0.334017796030116,1,"Afastamento"
+"1232",160396,412805,"RECURSOS PRÓPRIOS","José Humberto","MG","PSD",171,1161689.73,21,412805,3100906,1,,1,""
+"1233",160426,,,"Rogério Rosso","DF","PMDB",0,,,,,,0.0574948665297741,1,"Término da Legislatura"
+"1234",160508,617626.76,"RECURSOS DE PESSOAS JURÍDICAS","Afonso Florence","BA","PT",82,1161253,11,614626.76,290170,3,,2,"Ministro de Estado"
+"1235",160509,435591.32,"RECURSOS PRÓPRIOS","Jorginho Mello","SC","PR",8,1035819,11,435365.62,4200051,119,,1,""
+"1236",160510,1106392.07,"RECURSOS DE PESSOAS FÍSICAS","Luis Tibé","MG","PTDOB",0,727060,19,1106392.07,3100203,9,,1,""
+"1237",160511,470509.46,"RECURSOS DE PESSOAS FÍSICAS","Alessandro Molon","RJ","PT",264,342316,41,470509.46,3300100,119,,1,""
+"1238",160512,132846,"RECURSOS DE PESSOAS JURÍDICAS","Aureo","RJ","SDD",399,,,132846,3300100,5,,1,""
+"1239",160513,1172000,"RECURSOS DE PESSOAS JURÍDICAS","Luciano Moreira","MA","PMDB",45,1192898.16,11,1171960.34,2100055,140,0.369609856262834,1,"Falecimento"
+"1240",160514,108436.34,"RECURSOS PRÓPRIOS","Dr. Grilo","MG","SDD",199,,,108436.34,3100104,1,,1,""
+"1241",160515,622240.76,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Ronaldo Benedet","SC","PMDB",199,7698660.97,11,620702.86,4200051,10,,1,""
+"1242",160516,317020,"RECURSOS DE PESSOAS FÍSICAS","Raimundão","CE","PMDB",196,6887378.98,12,317015.73,2300101,2122,2.90485968514716,3,"Licença Conjunta Consecutiva"
+"1243",160517,771716.72,"RECURSOS DE PESSOAS JURÍDICAS","Paulo Foletto","ES","PSB",196,5190918,2,771706.7,3200102,214,,1,""
+"1244",160518,1869900.95,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Weliton Prado","MG","PT",420,1585375.43,11,1863257.14,3100104,108,,1,""
+"1245",160519,616971.67,"RECURSOS PRÓPRIOS","Júlio Campos","MT","DEM",320,17871286.71,11,617471.67,510452,155,,1,""
+"1246",160527,408223.56,"RECURSOS DE PESSOAS FÍSICAS","Aguinaldo Ribeiro","PB","PP",44,8231136.34,2,392848.05,251640,22,1.01300479123888,1,"Ministro de Estado"
+"1247",160528,783800,"RECURSOS DE PESSOAS FÍSICAS","Danilo Cabral","PE","PSB",199,2479419.27,11,783800,260545,296,0.0711841204654346,2,"Secretário de Estado"
+"1248",160529,438172.31,"RECURSOS DE PESSOAS FÍSICAS","Dr. Aluizio","RJ","PV",196,2630882.34,11,438172.31,3300100,6,1.91649555099247,1,"Renúncia"
+"1249",160530,583982.88,"RECURSOS PRÓPRIOS","Antonio Imbassahy","BA","PSDB",29,3154698.05,11,583982.88,290330,6,,1,""
+"1250",160531,291500.01,"RECURSOS PRÓPRIOS","Jhonatan De Jesus","RR","PRB",399,2001130.98,11,291500.01,1400027,236,,1,""
+"1251",160532,199807.5,"RECURSOS DE PESSOAS FÍSICAS","Eli Correa Filho","SP","DEM",372,2568897.77,11,199807.5,3500105,3,,1,""
+"1252",160533,211261.67,"RECURSOS DE PESSOAS FÍSICAS","Liliam Sá","RJ","PROS",296,661635,11,211261.67,3300100,27,,1,""
+"1253",160534,224922.31,"RECURSOS PRÓPRIOS","Lauriete","ES","PSC",60,877850,21,224841.76,3200102,199,,1,""
+"1254",160535,282487.45,"RECURSOS PRÓPRIOS","Marcon","RS","PT",189,1497399.36,13,281958.13,4300034,195,,1,""
+"1255",160536,820647.75,"RECURSOS PRÓPRIOS","Marco Tebaldi","SC","PSDB",179,5085555.01,11,820647.75,4200051,12,,2,"Secretário de Estado"
+"1256",160537,2334283.19,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Gabriel Chalita","SP","PMDB",186,14455314.13,19,2334155.64,3500105,248,,1,""
+"1257",160538,470479.41,"RECURSOS PRÓPRIOS","Bohn Gass","RS","PT",428,2742232.2,11,470479.41,4300109,327,,1,""
+"1258",160539,2574224.77,"RECURSOS DE PARTIDO POLÍTICO","Anthony Garotinho","RJ","PR",372,722259,12,2568519.61,3300100,1250,,1,""
+"1259",160540,176829,"RECURSOS DE PESSOAS FÍSICAS","Otoniel Lima","SP","PRB",0,1192294,19,176229.19,3500105,91,,1,""
+"1260",160541,489576.06,"RECURSOS PRÓPRIOS","Arthur Lira","AL","PP",321,3852865.56,12,489522.04,2700102,1325,,1,""
+"1261",160542,1978680.11,"RECURSOS DE PESSOAS FÍSICAS","Márcio Macêdo","SE","PT",121,1874241.64,11,1977644.5,2800100,21,,1,""
+"1262",160543,325751.18,"RECURSOS DE PESSOAS FÍSICAS","Andre Moura","SE","PSC",345,706672,11,325621.45,2800100,236,,1,""
+"1263",160544,552093.33,"RECURSOS PRÓPRIOS","Junji Abe","SP","PSD",350,7065300.12,11,552093.33,3500105,4,,1,""
+"1264",160545,2918540.18,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Alexandre Leite","SP","DEM",399,871027.3,21,2918448.88,3500105,3,,1,""
+"1265",160546,3972989.87,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Armando Vergílio","GO","SDD",285,3147402,12,3972989.87,5200050,155,,2,"Secretário de Estado"
+"1266",160547,304704.96,"RECURSOS PRÓPRIOS","Luiz Argôlo","BA","SDD",354,3672937.05,2,304692.9,290330,389,,1,""
+"1267",160548,1005318.41,"RECURSOS PRÓPRIOS","Jonas Donizette","SP","PSB",372,2363141.71,11,1005121.48,3500105,17,1.88090349075975,1,"Renúncia"
+"1268",160549,1213694.43,"RECURSOS DE PESSOAS FÍSICAS","João Paulo Lima","PE","PT",45,1946268.88,11,1200704.93,260545,24,,1,""
+"1269",160550,2439680.05,"RECURSOS DE PESSOAS JURÍDICAS","Luiz Pitiman","DF","PSDB",432,4504530.18,12,2439680.05,530010,1087,,2,"Secretário de Estado"
+"1270",160551,163353.17,"RECURSOS DE PESSOAS FÍSICAS","Anderson Ferreira","PE","PR",0,1941100.2,11,163353.17,2600054,880,,1,""
+"1271",160552,196049.43,"RECURSOS PRÓPRIOS","Danrlei De Deus Hinterholz","RS","PSD",204,1542967,21,196049.43,4300034,28,,1,""
+"1272",160553,912835.2,"RECURSOS PRÓPRIOS","Antonio Brito","BA","PTB",40,2645646.81,11,912667.47,290330,4,,1,""
+"1273",160554,191430,"RECURSOS PRÓPRIOS","Berinho Bantim","RR","SDD",0,3121480.65,2,191430,1400027,401,,2,"Secretário de Estado"
+"1274",160555,152220.26,"RECURSOS DE PESSOAS FÍSICAS","Lourival Mendes","MA","PTDOB",325,1518604.84,12,143063.73,2100055,281,,1,""
+"1275",160556,694829.89,"RECURSOS DE PESSOAS FÍSICAS","Padre João","MG","PT",11,945702.96,11,694471.68,3100104,4,,1,""
+"1276",160557,622570,"RECURSOS DE PESSOAS JURÍDICAS","Cláudio Puty","PA","PT",317,709146,11,619411.44,150475,58,,1,""
+"1277",160558,1254479.87,"RECURSOS DE PESSOAS FÍSICAS","Paulo Freire","SP","PR",434,2784258.95,11,1253599.92,3500105,371,,1,""
+"1278",160559,877428.59,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Alceu Moreira","RS","PMDB",160,1825734.52,11,877428.59,4300034,102,,1,""
+"1279",160560,2816607.2,"RECURSOS DE PESSOAS FÍSICAS","José De Filippi","SP","PT",201,5490434.55,12,2814505.44,3500105,6,1.91649555099247,1,"Secretário de Prefeitura de Capital"
+"1280",160561,166650.6,"RECURSOS DE PESSOAS FÍSICAS","Missionário José Olimpio","SP","PP",160,3234601.09,1,166565.61,3500105,68,,1,""
+"1281",160562,3029400,"RECURSOS DE PESSOAS FÍSICAS","Giroto","MS","PMDB",201,4818427.4,11,3029400,500390,670,2.18754277891855,1,"Secretário de Estado"
+"1282",160563,715686.41,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Onofre Santo Agostini","SC","PSD",407,1467753.98,11,714186.31,4200051,36,,1,""
+"1283",160564,472794.06,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Nilda Gondim","PB","PMDB",0,1528749.66,11,422524.33,251640,19,,2,"Licença Conjunta Consecutiva"
+"1284",160565,1214653.97,"RECURSOS DE PESSOAS FÍSICAS","Mara Gabrilli","SP","PSDB",360,2915429.09,11,1214033.97,3500105,10,,1,""
+"1285",160566,706460,"RECURSOS DE PESSOAS JURÍDICAS","Nelson Padovani","PR","PSC",399,12628015.81,2,706460,4100103,433,,1,""
+"1286",160567,1109277.45,"RECURSOS DE PESSOAS JURÍDICAS","Nelson Marchezan Junior","RS","PSDB",199,677285.59,11,1373377.45,4300034,98,,1,""
+"1287",160568,827220.91,"RECURSOS DE PESSOAS JURÍDICAS","Rogério Carvalho","SE","PT",196,660580,12,827136.71,2800100,229,,1,""
+"1288",160569,326359.71,"RECURSOS PRÓPRIOS","Waldenor Pereira","BA","PT",45,1391459.44,12,326325.66,290170,173,,1,""
+"1289",160570,793945.4,"RECURSOS DE PESSOAS JURÍDICAS","Jerônimo Goergen","RS","PP",199,1528701.96,11,792071.6,4300059,13,,1,""
+"1290",160571,796675.98,"RECURSOS DE PESSOAS FÍSICAS","João Rodrigues","SC","PSD",112,3876215.29,11,795175.98,4200051,3,0.0903490759753593,3,"Secretário de Estado"
+"1291",160572,1012700,"RECURSOS DE PESSOAS JURÍDICAS","Jorge Corte Real","PE","PTB",201,17416102.27,11,1012696.89,260545,4,,1,""
+"1292",160573,1083523.7,"RECURSOS DE PESSOAS FÍSICAS","João Arruda","PR","PMDB",349,3376722,12,1083443.72,4100103,21,,1,""
+"1293",160574,435980.32,"RECURSOS DE PESSOAS FÍSICAS","João Ananias","CE","PCDOB",128,1794660,12,435980.32,2300101,57,,1,""
+"1294",160575,688132.67,"RECURSOS DE PESSOAS FÍSICAS","Erika Kokay","DF","PT",305,788231,11,688132.67,530010,5871,,1,""
+"1295",160576,608479.67,"RECURSOS PRÓPRIOS","César Halum","TO","PRB",122,3930962.29,11,608451.21,1700251,5,,1,""
+"1296",160577,2106386.72,"RECURSOS DE PESSOAS FÍSICAS","Adrian","RJ","PMDB",0,1515273.03,13,2106386.72,3300100,14,,1,""
+"1297",160578,3062019.25,"RECURSOS PRÓPRIOS","Edmar Arruda","PR","PSC",45,17215294.85,13,3062019.25,4100103,3,,2,"Licença Conjunta Consecutiva"
+"1298",160579,184921.79,"RECURSOS PRÓPRIOS","Alexandre Roso","RS","PSB",196,2986852.81,11,184921.79,4300034,1,,1,""
+"1299",160580,1436415.43,"RECURSOS DE PESSOAS JURÍDICAS","Cida Borghetti","PR","PROS",60,2698618.15,2,1436358.04,4100103,1,,2,"Licença Conjunta Consecutiva"
+"1300",160581,326740,"RECURSOS DE PESSOAS JURÍDICAS","Assis Melo","RS","PCDOB",263,538311.22,13,326723.16,4300208,1,,1,""
+"1301",160582,144841,"RECURSOS DE PESSOAS FÍSICAS","Alberto Filho","MA","PMDB",99,820214.53,2,144771.35,2100055,1154,,2,"Licença Conjunta Consecutiva"
+"1302",160584,733397.95,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Carlinhos Almeida","SP","PT",81,1047343.46,11,733104.82,3500105,2,1.83709787816564,1,"Renúncia"
+"1303",160585,774576.7,"RECURSOS DE PESSOAS FÍSICAS","Carlaile Pedrosa","MG","PSDB",160,7032160.18,11,774576.7,3100104,1,1.87816563997262,1,"Renúncia"
+"1304",160586,1308622.04,"RECURSOS DE PESSOAS JURÍDICAS","William Dib","SP","PSDB",196,5225081.33,11,1308622.04,3500105,6,,1,""
+"1305",160587,582166.62,"RECURSOS DE PESSOAS JURÍDICAS","Fabio Trad","MS","PMDB",199,3824085.85,12,582166.62,500627,67,,1,""
+"1306",160588,1379841.73,"RECURSOS DE PESSOAS FÍSICAS","Diego Andrade","MG","PSD",40,3029284.75,11,1379841.73,3100104,1,,1,""
+"1307",160589,2941790.84,"RECURSOS DE PESSOAS FÍSICAS","Bruna Furlan","SP","PSDB",0,,,2941790.84,3500105,13,,1,""
+"1308",160590,416051.7,"RECURSOS DE PESSOAS FÍSICAS","Hélio Santos","MA","PSDB",367,1212172.78,13,416051.7,2100055,15513,,1,""
+"1309",160591,108450,"RECURSOS DE PESSOAS FÍSICAS","Vinicius Gurgel","AP","PR",303,,,108450,1600055,385,,1,""
+"1310",160592,1875539.44,"RECURSOS DE PARTIDO POLÍTICO","Zeca Dirceu","PR","PT",399,2252760.55,11,1873350.45,4100103,1,,1,""
+"1311",160593,429458.93,"RECURSOS DE PESSOAS FÍSICAS","Paulo Wagner","RN","PV",298,1233868.38,12,429397.38,2400109,221,,1,""
+"1312",160594,1359285.14,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Ronaldo Zulke","RS","PT",81,2598532.45,11,1358792.41,4300034,10,,1,""
+"1313",160595,1707139.15,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Vaz De Lima","SP","PSDB",102,2848285.16,11,1707139.15,3500105,74,,1,""
+"1314",160596,2851878.46,"RECURSOS PRÓPRIOS","Heuler Cruvinel","GO","PSD",0,1011913.59,19,2851878.46,5200050,13,,1,""
+"1315",160597,308992.15,"RECURSOS DE PARTIDO POLÍTICO","Romário","RJ","PSB",399,2329252.96,11,308992.15,3300100,218,,1,""
+"1316",160598,3039397.04,"RECURSOS PRÓPRIOS","Flávia Morais","GO","PDT",406,198046,95,3070681.69,5200050,415,,1,""
+"1317",160599,1380529.72,"RECURSOS DE PESSOAS FÍSICAS","Dimas Fabiano","MG","PP",0,4673506.34,11,1380529.72,3100104,1,,1,""
+"1318",160600,601198.53,"RECURSOS DE PESSOAS FÍSICAS","Arthur Oliveira Maia","BA","SDD",199,3100931.46,11,600903.17,290330,1,,1,""
+"1319",160601,226315.6,"RECURSOS DE PESSOAS FÍSICAS","Pastor Marco Feliciano","SP","PSC",257,3204729,1,226274.8,3500105,76,,1,""
+"1320",160602,400972.72,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Arnaldo Jordy","PA","PPS",345,,,400939.22,150475,11,,1,""
+"1321",160603,422379.99,"RECURSOS DE PESSOAS FÍSICAS","Amauri Teixeira","BA","PT",71,,,421799.33,290170,22,,1,""
+"1322",160604,454214.1,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Pedro Uczai","SC","PT",130,2344514,12,454214.1,4200051,66,,1,""
+"1323",160605,878603.72,"RECURSOS DE PESSOAS FÍSICAS","Carlos Magno","RO","PP",124,410669,64,878056.85,1100015,354,,1,""
+"1324",160606,897694.37,"RECURSOS DE PESSOAS FÍSICAS","Delegado Protógenes","SP","PCDOB",161,2762176.85,11,897258.08,3500105,316,,1,""
+"1325",160607,452311.5,"RECURSOS DE PESSOAS FÍSICAS","Jose Stédile","RS","PSB",48,577395,12,452311.5,4300406,25,,1,""
+"1326",160608,3633621.16,"RECURSOS DE PESSOAS JURÍDICAS","Teresa Surita","RR","PMDB",274,1267367.08,45,3633621.16,1400027,389,1.91649555099247,1,"Renúncia"
+"1327",160609,387841.22,"RECURSOS PRÓPRIOS","Walter Tosta","MG","PSD",246,2647547.68,11,387802.96,3100104,3,,1,""
+"1328",160610,584367.43,"RECURSOS DE PESSOAS FÍSICAS","Valmir Assunção","BA","PT",189,1198403.2,11,579367.43,290170,11,,1,""
+"1329",160611,2147513.66,"RECURSOS DE PESSOAS FÍSICAS","Toninho Pinheiro","MG","PP",160,1426347.83,12,2147513.66,3100104,1,,1,""
+"1330",160612,914802.82,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Sergio Zveiter","RJ","PSD",199,7526503.35,1,914177.76,3300100,22,,4,"Secretário de Estado"
+"1331",160613,525793.22,"RECURSOS DE PESSOAS JURÍDICAS","Sibá Machado","AC","PT",184,914552.76,13,525793.22,1200013,789,,1,""
+"1332",160614,157716.9,"RECURSOS PRÓPRIOS","Rosane Ferreira","PR","PV",54,395520,21,157681.3,4100301,10,,1,""
+"1333",160615,3072342.95,"RECURSOS DE PESSOAS FÍSICAS","Reinaldo Azambuja","MS","PSDB",367,40421548,11,3072342.95,500390,358,,1,""
+"1334",160616,101575,"RECURSOS PRÓPRIOS","Edivaldo Holanda Junior","MA","PTC",396,1106106.71,11,101478.3,2100055,116,1.58247775496235,2,"Licença Conjunta Consecutiva"
+"1335",160617,2131713.17,"RECURSOS DE PESSOAS JURÍDICAS","Thiago Peixoto","GO","PSD",45,1819074.23,12,2131713.17,5200050,494,0.161533196440794,5,"Secretário de Estado"
+"1336",160618,553386.72,"RECURSOS DE PESSOAS FÍSICAS","Edson Pimenta","BA","PSD",189,2789923.45,11,564398.2,290170,78,,1,""
+"1337",160619,453999.72,"RECURSOS DE PESSOAS JURÍDICAS","José Nunes","BA","PSD",399,9231080.12,2,453999.72,290330,289,,1,""
+"1338",160620,626631.04,"RECURSOS DE PESSOAS FÍSICAS","Washington Reis","RJ","PMDB",0,4028731.7,19,626473.96,3300100,9,,1,""
+"1339",160621,238200,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Sandro Alex","PR","PPS",199,2407054.58,16,238110.3,4100103,1,,1,""
+"1340",160622,4104082.15,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Vicente Candido","SP","PT",104,2290191.3,11,4104082.15,3500204,51,,1,""
+"1341",160623,600045.88,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Renan Filho","AL","PMDB",45,2079044.4,11,600045.88,2700102,3414,,1,""
+"1342",160624,913021.25,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Celia Rocha","AL","PTB",196,741969,13,912976.96,2700102,13,1.91649555099247,1,"Renúncia"
+"1343",160625,175826.55,"RECURSOS DE PESSOAS FÍSICAS","Zoinho","RJ","PR",0,1138935,12,175746.59,3300100,78,,1,""
+"1344",160626,1120408.03,"RECURSOS DE PESSOAS JURÍDICAS","Almeida Lima","SE","PMDB",279,4820871,12,1120408.03,2800100,108,,1,""
+"1345",160627,203069.79,"RECURSOS PRÓPRIOS","Stepan Nercessian","RJ","PPS",181,1125083,11,203069.79,3300100,67,,1,""
+"1346",160628,1391700,"RECURSOS DE PESSOAS FÍSICAS","Luciana Santos","PE","PCDOB",28,1338624.76,11,1391700,260545,26,,1,""
+"1347",160629,250220,"RECURSOS PRÓPRIOS","Romero Rodrigues","PB","PSDB",163,2561861,11,250208.53,251640,2,1.58521560574949,2,"Licença Conjunta Consecutiva"
+"1348",160630,884493.4,"RECURSOS DE PESSOAS FÍSICAS","Ságuas Moraes","MT","PT",196,1372498.85,12,884493.4,510452,13,,2,"Afastamento"
+"1349",160631,284765.67,"RECURSOS DE PESSOAS FÍSICAS","Walney Rocha","RJ","PTB",377,3610508.58,11,284164.78,3300100,196,,1,""
+"1350",160632,1007261.56,"RECURSOS DE PESSOAS FÍSICAS","Zé Silva","MG","SDD",300,1694380.88,12,1007242.9,3100104,53,2.02327173169062,2,"Secretário de Estado"
+"1351",160633,1164857.5,"RECURSOS DE PESSOAS FÍSICAS","Mandetta","MS","DEM",196,1664190.57,11,1164857.5,500390,15,,1,""
+"1352",160634,60260,"RECURSOS DE PESSOAS FÍSICAS","Chico Das Verduras","RR","PRP",330,521272,2,60260,1400027,29,,2,"Perda de Mandato"
+"1353",160635,433864.42,"RECURSOS DE PESSOAS FÍSICAS","Ruy Carneiro","PB","PSDB",44,1619118,11,433767.06,251640,376,,1,""
+"1354",160636,394691.9,"RECURSOS DE PESSOAS JURÍDICAS","Wilson Filho","PB","PTB",0,5603849,21,394690.4,251640,33,,1,""
+"1355",160637,1300000,"RECURSOS DE PESSOAS JURÍDICAS","Ronaldo Fonseca","DF","PROS",199,1146937,2,1274559.35,530010,1078,,1,""
+"1356",160638,839189.67,"RECURSOS DE PESSOAS FÍSICAS","Ângelo Agnolin","TO","PDT",399,1275542.25,13,839189.67,1700251,161,,1,""
+"1357",160639,735510.49,"RECURSOS DE PESSOAS FÍSICAS","Professora Dorinha Seabra Rezende","TO","DEM",79,604840.23,16,735505.14,1700251,24,,1,""
+"1358",160640,511365.96,"RECURSOS DE PARTIDO POLÍTICO","Eros Biondini","MG","PTB",259,1124890.06,11,511365.96,3100104,62,1.73032169746749,1,"Secretário de Estado"
+"1359",160641,151097.5,"RECURSOS DE PESSOAS FÍSICAS","Professora Marcivania","AP","PT",88,260653,12,151079.85,1600055,43,0.440793976728268,1,"Afastamento"
+"1360",160642,213553.67,"RECURSOS DE PESSOAS FÍSICAS","Pastor Eurico","PE","PSB",391,,,213553.67,260545,6,,1,""
+"1361",160643,293795.05,"RECURSOS DE PESSOAS FÍSICAS","Dr. Jorge Silva","ES","PROS",196,2359699.28,11,293795.05,3200102,16,,1,""
+"1362",160644,349616,"RECURSOS DE PESSOAS FÍSICAS","Miriquinho Batista","PA","PT",90,1889977.33,11,349616,1500107,21425,,1,""
+"1363",160645,126908.89,"RECURSOS DE PESSOAS FÍSICAS","Luiz Carlos","AP","PSDB",199,,,126908.89,1600055,75,,1,""
+"1364",160646,607279.75,"RECURSOS PRÓPRIOS","Fernando Francischini","PR","SDD",161,689533,11,607279.75,4100103,6,,1,""
+"1365",160647,2724827.89,"RECURSOS DE PESSOAS FÍSICAS","Eduardo Azeredo","MG","PSDB",277,5213738.86,11,2721829.71,3100104,1,,1,""
+"1366",160648,999033.73,"RECURSOS DE PESSOAS FÍSICAS","Júnior Coimbra","TO","PMDB",271,4522970,12,999033.73,1700251,495,,1,""
+"1367",160649,309863.35,"RECURSOS DE PESSOAS JURÍDICAS","Esperidião Amin","SC","PP",374,7913239.53,11,309863.35,4200051,25,,1,""
+"1368",160650,186584.96,"RECURSOS PRÓPRIOS","Oziel Oliveira","BA","PDT",364,1538560.83,19,186538.06,290170,1,,1,""
+"1369",160651,325777.76,"RECURSOS DE PESSOAS FÍSICAS","Rogério Peninha Mendonça","SC","PMDB",36,2823608.79,11,325777.76,4200051,1,,1,""
+"1370",160652,1516289.33,"RECURSOS DE PESSOAS FÍSICAS","Roberto Teixeira","PE","PP",251,4696418.78,2,1516289.33,260545,2,,1,""
+"1371",160653,106455.66,"RECURSOS DE PESSOAS FÍSICAS","Roberto De Lucena","SP","PV",98,1339397.56,13,106455.66,3500105,22,,1,""
+"1372",160654,3617512.6,"RECURSOS DE PESSOAS FÍSICAS","Renzo Braz","MG","PP",40,5526162.4,11,3617512.6,3100302,323,,1,""
+"1373",160655,1158916.09,"RECURSOS DE PESSOAS FÍSICAS","Ricardo Izar","SP","PSD",353,7504217.05,11,1158916.09,3500105,25,,1,""
+"1374",160656,273684,"RECURSOS DE PESSOAS JURÍDICAS","Raul Lima","RR","PP",44,2542433.28,2,273684,1400027,266,,1,""
+"1375",160657,2482807.58,"RECURSOS DE PESSOAS FÍSICAS","Newton Lima","SP","PT",130,2926018.54,11,2481507.58,3500303,715,,1,""
+"1376",160658,822980,"RECURSOS DE PESSOAS FÍSICAS","Paulo Tadeu","DF","PT",125,2028210,11,822980,530010,5409,0.350444900752909,2,"Secretário de Estado"
+"1377",160659,98480.26,"RECURSOS DE PESSOAS FÍSICAS","Keiko Ota","SP","PSB",185,558732.07,11,98479.25,3500105,10,,1,""
+"1378",160660,379242.42,"RECURSOS DE PESSOAS FÍSICAS","Marcelo Aguiar","SP","DEM",425,161692,32,379161.23,3500303,15,,1,""
+"1379",160661,113100,"RECURSOS PRÓPRIOS","José Augusto Maia","PE","PROS",0,340693,32,113003,260545,4,,1,""
+"1380",160662,1091083.83,"RECURSOS DE PESSOAS JURÍDICAS","Luiz Fernando Machado","SP","PSDB",0,800295.12,12,1091083.83,3500105,1,,1,""
+"1381",160663,168610.76,"RECURSOS PRÓPRIOS","Leopoldo Meyer","PR","PSB",201,8267372.74,11,168610.76,4100202,1,,1,""
+"1382",160664,849395.65,"RECURSOS PRÓPRIOS","Cesar Colnago","ES","PSDB",196,1307113.05,11,849332.65,3200102,1899,,1,""
+"1383",160665,1078000,"RECURSOS DE PESSOAS JURÍDICAS","Augusto Coutinho","PE","SDD",201,9620370.6,11,1078000,2600054,810,,1,""
+"1384",160666,1165183.31,"RECURSOS PRÓPRIOS","Félix Mendonça Júnior","BA","PDT",0,5789023.61,11,1165144.39,290170,4,,1,""
+"1385",160667,1520191.38,"RECURSOS DE PESSOAS JURÍDICAS","Guilherme Mussi","SP","PP",40,1779250.76,32,1520191.38,3500105,16,,1,""
+"1386",160668,154850,"RECURSOS DE PESSOAS JURÍDICAS","Paulo Cesar Quartiero","RR","DEM",36,8492138,29,154842.8,1400027,445,,1,""
+"1387",160669,830500,"RECURSOS DE PESSOAS JURÍDICAS","Genecias Noronha","CE","SDD",399,7557247.89,11,829952.7,2300101,499,,1,""
+"1388",160670,200725,"RECURSOS DE PESSOAS FÍSICAS","Padre Ton","RO","PT",0,345821.37,21,200718.8,1100015,2819,,1,""
+"1389",160671,464258.33,"RECURSOS DE PESSOAS FÍSICAS","Jesus Rodrigues","PI","PT",373,6837836.19,11,464231.85,220095,5,,1,""
+"1390",160672,22337.32,"RECURSOS PRÓPRIOS","Jean Wyllys","RJ","PSOL",139,852060,11,22337.32,3300100,6,,1,""
+"1391",160673,835160.74,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Giovani Cherini","RS","PDT",23,4257007,11,834885.44,4300034,6,,1,""
+"1392",160674,154354.56,"RECURSOS DE PESSOAS FÍSICAS","Hugo Motta","PB","PMDB",415,462378,11,154273.4,251640,4,,1,""
+"1393",160675,125010,"RECURSOS DE PESSOAS FÍSICAS","Jânio Natal","BA","PRP",44,1919821,11,124934.09,290330,4,,1,""
+"1394",160676,589597.6,"RECURSOS PRÓPRIOS","Fernando Torres","BA","PSD",399,5899827.69,11,589501.34,290170,2,,1,""
+"1395",160677,59692.72,"RECURSOS DE PESSOAS JURÍDICAS","Francisco Floriano","RJ","PR",92,647229.53,39,59670.08,3300100,335,,1,""
+"1396",160678,384177.22,"RECURSOS DE PESSOAS FÍSICAS","Artur Bruno","CE","PT",25,2357850.35,11,384167.95,2300101,10,,1,""
+"1397",160679,505191.2,"RECURSOS PRÓPRIOS","Taumaturgo Lima","AC","PT",0,1376595,12,505183.59,1200013,70,,1,""
+"1398",160680,927839.19,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Audifax","ES","PSB",236,1436481,12,926490.22,3200102,76,1.58247775496235,2,"Licença Conjunta Consecutiva"
+"1399",160758,1673293.26,"RECURSOS DE PESSOAS FÍSICAS","Domingos Sávio","MG","PSDB",122,11368160.62,3,1673293.26,3100104,2,,1,""
+"1400",160974,1173391.7,"RECURSOS PRÓPRIOS","Hugo Napoleão","PI","PSD",254,4029022.67,11,1173391.7,220095,17,,1,""
+"1401",160976,678243.13,"RECURSOS DE PESSOAS FÍSICAS","Tiririca","SP","PR",181,,,677901.47,3500105,719,,1,""
+"1402",161903,1903740,"RECURSOS PRÓPRIOS","Roberto Dorner","MT","PSD",0,21285019.83,12,1903736.07,510452,344,0.785763175906913,1,"Afastamento"
+"1403",161904,71640,"RECURSOS PRÓPRIOS","Dudimar Paxiuba","PA","PROS",0,432073.87,11,71586.29,150475,4,,3,"Afastamento"
+"1404",161905,139752.46,"RECURSOS PRÓPRIOS","André Dias","PA","PSDB",0,2258961.82,11,139748,1500107,1710,0.856947296372348,1,"Renúncia"
+"1405",161906,582100,"RECURSOS DE PESSOAS FÍSICAS","Luiz Otavio","PA","PMDB",0,2304357.98,11,582094.12,1500107,477,0.566735112936345,1,"Afastamento"
+"1406",161907,569201.09,"RECURSOS DE PESSOAS JURÍDICAS","Acelino Popó","BA","PRB",0,4005180.42,13,569201.09,290170,7,,1,""
+"1407",161962,111340,"RECURSOS DE PESSOAS JURÍDICAS","Luiz Noé","RS","PSB",0,,,111276.84,4300034,1,1.79876796714579,1,"Afastamento"
+"1408",162174,665312.52,"DESCRIÇÃO DAS DOAÇÕES RELATIVAS À COMERCIALIZAÇÃO","Policarpo","DF","PT",113,171207,21,665312.52,530010,1779,,2,"Afastamento"
+"1409",162175,270699.84,"RECURSOS DE PESSOAS JURÍDICAS","Eliane Rolim","RJ","PT",0,2047192,11,270567.53,3300100,17,1.06502395619439,1,"Afastamento"
+"1410",162332,321675,"RECURSOS PRÓPRIOS","Luiz Nishimori","PR","PR",0,,,321675,4100103,4,,1,""
+"1411",162490,2160225.54,"RECURSOS DE PESSOAS JURÍDICAS","Valdivino De Oliveira","GO","PSDB",0,12326377.18,2,2542456.86,5200050,155,,6,"Afastamento"
+"1412",163321,88762.49,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Ronaldo Nogueira","RS","PTB",40,366717,12,88749.65,4300034,5,,1,""
+"1413",163322,122490,"RECURSOS DE PESSOAS FÍSICAS","Vilalba","PE","PP",0,394686,21,122445.16,260545,5,,1,""
+"1414",163831,1067552.82,"RECURSOS DE PESSOAS JURÍDICAS","Fernando Jordão","RJ","PMDB",0,4628915.92,19,1067065.71,3300100,13729,,4,"Afastamento"
+"1415",164359,37360,"RECURSOS DE PESSOAS FÍSICAS","Delegado Waldir","GO","PSDB",0,798499,11,37360,5200050,94,0.364134154688569,1,"Afastamento"
+"1416",164360,460748.33,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Carmen Zanotto","SC","PPS",54,2130216.23,11,460718.99,4200051,32,2.62833675564682,3,"Afastamento"
+"1417",164361,726229,"RECURSOS DE PESSOAS FÍSICAS","Marina Santanna","GO","PT",0,642571,12,722656.89,5200050,107,,5,"Afastamento"
+"1418",165429,476660.76,"RECURSOS DE PESSOAS JURÍDICAS","Gean Loureiro","SC","PMDB",110,1311238.25,11,476650.22,4200051,17,0.511978097193703,2,"Afastamento"
+"1419",165583,1743319.61,"RECURSOS DE PESSOAS JURÍDICAS","Carlos Roberto","SP","PSDB",373,16666221.31,11,1743319.61,3500105,8,,2,"Afastamento"
+"1420",165675,34576.5,"RECURSOS PRÓPRIOS","Francisco Araújo","RR","PSD",0,1133445,12,34576.5,1400027,152,1.59069130732375,1,"Afastamento"
+"1421",166401,1368090.68,"RECURSOS DE PESSOAS FÍSICAS","Nilson Leitão","MT","PSDB",0,2551576.91,12,1368090.68,510452,422,,1,""
+"1422",166402,2412693.32,"RECURSOS DE PESSOAS JURÍDICAS","Magda Mofatto","GO","PR",0,17932488.57,2,2412693.32,5200050,16,,3,"Afastamento"
+"1423",166727,912039.26,"RECURSOS DE PESSOAS FÍSICAS","Dra. Elaine Abissamra","SP","PSB",0,,,1036056.67,3500105,1,0.355920602327173,1,"Afastamento"
+"1424",167493,273998.8,"RECURSOS DE PESSOAS FÍSICAS","Weverton Rocha","MA","PDT",0,1190037,12,273998.8,2100055,414,,3,"Afastamento"
+"1425",167614,255100,"RECURSOS DE PESSOAS JURÍDICAS","Severino Ninho","PE","PSB",0,984283.51,11,255100,2600054,3283,,2,"Afastamento"
+"1426",167617,488958.97,"RECURSOS DE PESSOAS FÍSICAS","Vanderlei Siraque","SP","PT",199,2145555.67,12,488958.97,3500105,3,,1,""
+"1427",167707,323772.39,"RECURSOS DE PESSOAS JURÍDICAS","Romanna Remor","SC","PMDB",0,1376013,12,323772.39,4200051,4,0.31211498973306,1,"Afastamento"
+"1428",167722,107816.57,"RECURSOS DE PARTIDO POLÍTICO","Marcos Rogério","RO","PDT",0,595477,12,107816.57,1100015,9,,1,""
+"1429",168034,27303,"RECURSOS DE PESSOAS JURÍDICAS","Cabo Juliano Rabelo","MT","PSB",0,791711,12,26928.64,510454,6,0.328542094455852,1,"Afastamento"
+"1430",168175,130310,"RECURSOS PRÓPRIOS","Simplício Araújo","MA","SDD",0,1245988,11,130310,2100055,4,,2,"Afastamento"
+"1431",168253,78422.76,"RECURSOS DE PESSOAS FÍSICAS","Ze Carlos Da Pesca","BA","PP",0,446556,21,78422.76,290170,34,0.0766598220396988,1,"Afastamento"
+"1432",168447,1389492,"RECURSOS DE PESSOAS JURÍDICAS","Mário Feitoza","CE","PMDB",388,5271054.73,13,1389392.35,2300101,2,,2,"Afastamento"
+"1433",169553,283678.73,"RECURSOS PRÓPRIOS","Ricardo Archer","MA","PMDB",0,2440038.2,11,283678.73,2100055,21,0.344969199178645,1,"Afastamento"
+"1434",169711,138132.13,"RECURSOS PRÓPRIOS","Telma Pinheiro","MA","PSDB",0,4072381.23,11,138132.13,2100055,891,0.216290212183436,1,"Afastamento"
+"1435",169712,1176449.39,"RECURSOS DE PESSOAS JURÍDICAS","Alexandre Toledo","AL","PSB",0,5252177.23,11,1176441.92,2700102,82,,2,"Secretário de Estado"
+"1436",169868,28333,"RECURSOS DE PESSOAS FÍSICAS","Valry Morais","PA","PRP",0,449786,21,28333,150475,1,0.328542094455852,1,"Afastamento"
+"1437",170489,117265.36,"RECURSOS PRÓPRIOS","Dr. Dilson Drumond","RJ","PDT",0,3653342.55,11,117264.71,3300100,18,0.292950034223135,1,"Afastamento"
+"1438",170673,38797.78,"RECURSOS PRÓPRIOS","Professor Sérgio De Oliveira","PR","PSC",0,1414128,12,38797.78,4100400,14,,2,"Afastamento"
+"1439",171617,685576.1,"RECURSOS DE PESSOAS FÍSICAS","Paulão","AL","PT",0,836887,12,685456.87,2700102,216,,1,""
+"1440",171618,395000,"RECURSOS PRÓPRIOS","Luiz De Deus","BA","DEM",0,7242684.98,11,394910.32,290170,14,,1,""
+"1441",171619,623797.38,"RECURSOS PRÓPRIOS","Margarida Salomão","MG","PT",0,547071,12,623797.38,3100302,5,,1,""
+"1442",171620,639986.6,"RECURSOS PRÓPRIOS","Renato Andrade","MG","PP",0,3922805.29,13,639980.23,3100104,1,0.826830937713895,1,"Afastamento"
+"1443",171621,24002.94,"RECURSOS DE PESSOAS FÍSICAS","Eurico Júnior","RJ","PV",0,,,24002.94,3300100,4,,1,""
+"1444",171622,54132.72,"RECURSOS DE PESSOAS FÍSICAS","Manuel Rosa Neca","RJ","PR",0,1467598.77,13,54044.82,3300100,1,,1,""
+"1445",171623,429294.16,"RECURSOS DE PESSOAS FÍSICAS","Fabio Reis","SE","PMDB",0,491706,21,428049.15,2800100,92,,1,""
+"1446",171782,641324.26,"RECURSOS PRÓPRIOS","Eron Bezerra","AM","PCDOB",0,2279008.27,11,641324.26,1300029,164,0.0410677618069815,1,"Secretário de Estado"
+"1447",172029,1144070.19,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Francisco Chagas","SP","PT",0,1520260,11,1144055.27,3500105,1,,1,""
+"1448",172711,426995,"RECURSOS DE PESSOAS FÍSICAS","Plínio Valério","AM","PSDB",0,2748398.38,11,426695,1300029,47,,1,""
+"1449",172945,60100,"RECURSOS PRÓPRIOS","Ricardo Arruda","PR","PSC",0,684107.23,12,60100,4100103,22,0.320328542094456,1,"Afastamento"
+"1450",173262,548400.94,"RECURSOS DE PESSOAS FÍSICAS","Ilário Marques","CE","PT",0,2019102.41,11,548400.94,2300101,1,0.394250513347023,1,"Afastamento"
+"1451",173269,1210200,"RECURSOS PRÓPRIOS","Akira Otsubo","MS","PMDB",0,8382325.87,12,1210200,500390,214,,1,""
+"1452",173802,164597.65,"RECURSOS DE PESSOAS FÍSICAS","Goiaciara Cruz","TO","PR",0,423814,12,164595.1,1700251,4,0.410677618069815,1,"Afastamento"
+"1453",174314,643160,"RECURSOS DE PESSOAS FÍSICAS","Pedro Guerra","PR","PSD",0,175346,32,625554.87,4100103,3,0.320328542094456,1,"Afastamento"
+"1454",174861,380000,"RECURSOS DE PESSOAS JURÍDICAS","Amir Lando","RO","PMDB",0,,,380000,1100015,106,,1,""
+"1455",175212,686078.06,"RECURSOS DE OUTROS CANDIDATOS/COMITÊS","Renato Simões","SP","PT",0,1271027.87,11,683412.27,3500105,16,,1,""
