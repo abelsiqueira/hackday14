@@ -22,7 +22,7 @@ begin
   deputados = con.query "#{cmd}"
 
   puts "Opening file"
-  File.open('db.csv','w') { |file|
+  File.open('db_abel.csv','w') { |file|
     file.puts (basic_cols + special_cols).join(',')
     deputados.each_hash { |dep|
       id = dep['id_deputado']
@@ -48,9 +48,9 @@ begin
           soma_liq += row[2].to_f
         }
       }
-      thisrow['soma_documento'] = soma_doc
-      thisrow['soma_glosa'] = soma_glosa
-      thisrow['soma_liquido'] = soma_liq
+      thisrow['soma_documento'] = sprintf("%.2f", soma_doc)
+      thisrow['soma_glosa'] = sprintf("%.2f", soma_glosa)
+      thisrow['soma_liquido'] = sprintf("%.2f", soma_liq)
 
       out = []
       (basic_cols + special_cols).each { |col|
