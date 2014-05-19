@@ -13,14 +13,14 @@ No fim, a maior parte do tempo foi dedicada à esse esforço.
 Separamos as informações em duas partes e criamos dois bancos csv.
 Posteriormente juntamos esses dois bancos.
 O arquivo que gera o primeiro banco é o
-[create_base.rb]({{site.baseurl}}/src/create_base.rb). Para juntar os dois
+[create_base.rb]({{ site.baseurl }}/src/create_base.rb). Para juntar os dois
 usamos o arquivo
-[mergecsv.rb]({{site.baseurl}}/src/mergecsv.rb). Ambos em Ruby.
+[mergecsv.rb]({{ site.baseurl }}/src/mergecsv.rb). Ambos em Ruby.
 O arquivo para gerar o segundo banco ainda não está disponível.
-O banco final é o arquivo [db.csv]({{site.baseurl}}/db/db.csv).
+O banco final é o arquivo [db.csv]({{ site.baseurl }}/db/db.csv).
 
 Também fizemos duas breves apresentações que também não estão disponíveis.
 Uma delas foi feito usando o código do site [Retórica
 Parlamentar](http://www.retoricaparlamentar.com).
 O arquivo que gerava o conteúdo que usamos para essa apresentação foi o
-[gera_site.rb]({{site.baseurl}}/src/gera_site.rb).
+[gera_site.rb]({{ site.baseurl }}/src/gera_site.rb).
