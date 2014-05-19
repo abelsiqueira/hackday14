@@ -1,0 +1,8 @@
+var data = {
+  labels : ["jan","fev","mar","abr","mai","jun","jul"],
+  datasets : [ {
+    fillColor : "rgba(120,120,250,0.5)",
+    strokeColor : "rgba(220,220,220,1)",
+    data : [65,59,90,81,56,55,40]
+  }]
+}
