@@ -22,7 +22,7 @@ begin
   deputados = con.query "#{cmd}"
 
   puts "Opening file"
-  File.open('db_abel.csv','w') { |file|
+  File.open('db/db_abel.csv','w') { |file|
     file.puts (basic_cols + special_cols).join(',')
     deputados.each_hash { |dep|
       id = dep['id_deputado']

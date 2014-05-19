@@ -1,0 +1,17 @@
+---
+layout: default
+title: Hackday de Dados Abertos 2014
+---
+
+<div id="home">
+  <h2> Home </h2>
+  <p>
+    Utilizando dados abertos sobre os deputados da última eleição, fizemos as
+    seguintes análises.
+  </p>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
