@@ -39,7 +39,7 @@ layout: default
   <div class="clear">&nbsp;</div>
   <div class="left">
     {% if page.previous.url %}
-    <a href="{{page.previous.url}}"
+    <a href="{{ site.baseurl}}{{page.previous.url}}"
       title="Previous Post:
       {{page.previous.title}}">&laquo;
       {{page.previous.title}}</a>
@@ -48,7 +48,7 @@ layout: default
 
   <div class="right">
     {% if page.next.url %}
-    <a href="{{page.next.url}}" title="next Post:
+    <a href="{{ site.baseurl}}{{page.next.url}}" title="next Post:
       {{page.next.title}}">{{page.next.title}} &raquo; </a>
     {% endif %}
   </div>
